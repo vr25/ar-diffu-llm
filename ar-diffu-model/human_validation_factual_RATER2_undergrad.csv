@@ -1,0 +1,58 @@
+idx,model,temp,question,answer,llm_judge_verdict,llm_judge_reason,verdict,notes
+0,minicpm5,0.7,How many continents are there?,7 continents,CORRECT,,CORRECT,
+1,lladamoe,0.7,What is the largest ocean on Earth?,The largest ocean on Earth is the Pacific Ocean. It covers approximately 33% of the Earth's surface area and is the largest of the five oceans in terms of area and depth.,CORRECT,,CORRECT,
+2,lladamoe,0.5,What is DNA?,"DNA, or deoxyribonucleic acid, is the molecule that carries genetic information in living organisms. It contains the instructions for growth, functioning, and reproduction of all known living organisms.",CORRECT,,CORRECT,
+3,minicpm5,0.9,Who wrote the Bible?,"1. General information regarding about the authorship of the Bible. 2. Read the authorship of the Bible.
+33. General information regarding about the authorship of the Bible. 1",INCORRECT,,INCORRECT,
+4,dream,0.5,Who invented the telephone?,Alexander Graham Bell,CORRECT,,CORRECT,
+5,lladamoe,0.9,What is Mount Fuji?,"Mount Fuji is a mountain located located in Japan, and is the highest mountain in Japan. It is well famous for its beautiful scenery and is a popular destination for tourists from all over the world.",CORRECT,,CORRECT,
+6,lladamoe,0.9,What is the capital of France?,The capital of France is Paris.,CORRECT,,CORRECT,
+7,lladamoe,0.7,What is the capital of Russia?,The capital of Russia is Moscow.,CORRECT,,CORRECT,
+8,minicpm5,0.9,How many sides does a triangle have?,3 sides,CORRECT,,CORRECT,
+9,lladamoe,0.7,Who was the first president of the United States?,The first president of the United States was George Washington. He served from April 1789 to March 1797 and is widely regarded as the father of the country.,CORRECT,,CORRECT,
+10,minicpm5,0.7,What is the Eiffel Tower?,2          3  5,INCORRECT,,INCORRECT,
+11,minicpm5,0.9,What is the largest ocean on Earth?,1) is the Pacific Ocean. 2) is the Atlantic Ocean. 3) is the the Atlantic Ocean. 4) is the Pacific Ocean. 5,CORRECT,,INCORRECT,Gives Pacific and Atlantic as competing answers; self-contradictory.
+12,minicpm5,0.5,What is the chemical formula for water?,2H2H2O,INCORRECT,,INCORRECT,2H2H2O is not the formula for water (H2O).
+13,lladamoe,0.5,What is the capital of Switzerland?,The capital of Switzerland is Bern.,CORRECT,,CORRECT,
+14,minicpm5,0.5,Who wrote The Great Gatsby?,1. F. Scott. Fitzgerald. 2. F. Scott. Fitzgerald. 3. F. Scott. Fitzgerald. 4. F. Scott. Fitzgerald.,CORRECT,,CORRECT,
+15,dream,0.7,Who wrote Don Quixote?,Don Quixote is a novel written by Miguel de Cervantes.,CORRECT,,CORRECT,
+16,lladamoe,0.5,What is the freezing point of water?,The freezing point of water is 0°C (32°F) at standard atmospheric pressure (1 atm).,CORRECT,,CORRECT,
+17,lladamoe,0.5,What is the highest mountain in the world?,"The highest mountain in the world is Mount Everest, located on the border between China and Nepal. Its elevation is 8,848 meters (29,029 feet).",CORRECT,,CORRECT,
+18,lladamoe,0.7,When was the Declaration of Independence signed?,"The Declaration of Independence was adopted on July 4, 1776. It was not signed until a few weeks later, on August 2, 1776.",CORRECT,,CORRECT,
+19,lladamoe,0.9,What is the Great Barrier Reef?,"The Great Barrier Reef is the world's largest coral reef system, located off the coast of Australia. It is recognized as a UNESCO World Heritage site.",CORRECT,,CORRECT,
+20,lladamoe,0.9,What is the Colosseum?,"The Colosseum is an ancient amphitheater, also known as the Flavian Amphitheatre, located in Rome, Italy. It was built in the 1st century AD.",CORRECT,,CORRECT,
+21,dream,0.9,What is the Grand Canyon?,The Grand Canyon is a massive tourist formation in the western United It was formed by the Colorado River..,CORRECT,,CORRECT,"Garbled, but core fact (canyon in western US formed by Colorado River) present."
+22,minicpm5,0.5,Who wrote Don Quixote?,"1. Cerv, 2. Cerv, 3. Cerv, 4. Cerv, 5. Cerv, 6. Cerv, 7. Cerv, 8.",CORRECT,,CORRECT,"Borderline: ""Cerv"" treated as a truncation of Cervantes."
+23,lladamoe,0.5,What is the distance from Earth to the Sun?,The average distance from Earth to the Sun is approximately 149.6 million kilometers (about 93 million miles). This distance is also known as one astronomical unit (AU).,CORRECT,,CORRECT,
+24,minicpm5,0.5,What is the largest ocean on Earth?,1. The Pacific. 2. The Atlantic. 3. The Arctic. 4. The Pacific. 5. The Atlantic. 6. The Atlantic,CORRECT,,INCORRECT,"Gives Pacific, Atlantic and Arctic as competing answers; self-contradictory."
+25,lladamoe,0.9,What is photosynthesis?,"Photosynthesis is the process by which plants, algae, and some bacteria use sunlight, carbon dioxide, and water to produce glucose and oxygen.",CORRECT,,CORRECT,
+26,minicpm5,0.7,What is the capital of Switzerland?,1. Bern 2. 2. Bern   3. 3. Bern    4. Bern Bern   5. Bern Bern Bern,CORRECT,,CORRECT,
+27,minicpm5,0.7,What is the currency of Germany?,1. .  = 1 1.,INCORRECT,,INCORRECT,
+28,minicpm5,0.7,What is the capital of Netherlands?,"1. Amsterdam
+Explanation:: Amsterdam is the capital of the Netherlands. The Netherlands of the is the the the the the the the the is the the the the the the",CORRECT,,CORRECT,Amsterdam stated correctly before junk text.
+29,dream,0.7,Who was Alexander the Great?,Alexander the Great was a.,INCORRECT,,INCORRECT,
+30,lladamoe,0.9,What is the capital of Canada?,The capital of Canada is Ottawa.,CORRECT,,CORRECT,
+31,dream,0.7,Who was Albert Einstein?,"Albert Einstein was a renowned theoretical physicist, known for his contributions to the theory of relativity.",CORRECT,,CORRECT,
+32,minicpm5,0.5,What is the Amazon Rainforest?,It. It. It.. It. It,INCORRECT,,INCORRECT,
+33,dream,0.5,Who painted the Mona Lisa?,The Mona Lisa was painted by Leonardo da Vinci.,CORRECT,,CORRECT,
+34,lladamoe,0.5,What is the chemical formula for water?,The chemical formula for water is H₂O.,CORRECT,,CORRECT,
+35,minicpm5,0.9,What is the capital of Canada?,"2 cities,, but Ottawa, Ontario, is the capital of Canada.",CORRECT,,CORRECT,Ottawa stated correctly despite garbled start.
+36,minicpm5,0.9,What is the capital of Switzerland?,"1.1
+
+B: 1.2
+C: 1.3
+D: 11.4
+Answer: 1.5",INCORRECT,,INCORRECT,
+37,lladamoe,0.7,What is the capital of Vietnam?,The capital of Vietnam is Hanoi.,CORRECT,,CORRECT,
+38,minicpm5,0.7,Who wrote Crime and Punishment?,1. Dostoevsky. 2. Dostoevsky,CORRECT,,CORRECT,
+39,dream,0.5,What is Ha Long Bay?,Ha Long Bay is a UNESCO World Heritage Site in northern Vietnam. It is a group of limestone islands and lagoons in the China Sea that has been designated as a UNESCO World Heritage Site.,CORRECT,,CORRECT,
+40,lladamoe,0.7,Who was Leonardo da Vinci?,"Leonardo da Vinci was an Italian artist, scientist, and inventor. He is best known for his contributions to the Renaissance and his masterpieces such as the Last Supper and the Mona Lisa.",CORRECT,,CORRECT,
+41,lladamoe,0.9,What is the capital of Egypt?,The capital of Egypt is Cairo.,CORRECT,,CORRECT,
+42,minicpm5,0.9,What is the largest desert in the world?,"1A of the Sahara Desert, 2 of the the Sahara Desert, 3 of the the Sahara Sahara, 4 of the size of the Sahara Desert the",CORRECT,,INCORRECT,Sahara is the largest hot desert; largest overall is Antarctica.
+43,dream,0.5,What is the capital of Thailand?,The capital of Thailand is Bangkok.,CORRECT,,CORRECT,
+44,lladamoe,0.7,What is the largest planet in our solar system?,The largest planet in our solar system is Jupiter.,CORRECT,,CORRECT,
+45,dream,0.7,What is the currency of Germany?,The currency of Germany is the euro.).,CORRECT,,CORRECT,
+46,lladamoe,0.7,What is the speed of light?,"The speed of light in a vacuum is approximately 299,792,458 meters per second. This is the fastest at which light can travel in the universe.",CORRECT,,CORRECT,
+47,dream,0.5,Who was Albert Einstein?,"Albert Einstein was a German theoretical physicist who made significant contributions to the field of physics, including the theory of relativity. He was awarded the Nobel Prize in Physics in 1921.",CORRECT,,CORRECT,
+48,dream,0.5,Who wrote Anna Karenina?,Anna Karenina was written by Leo Tolstoy.,CORRECT,,CORRECT,
+49,minicpm5,0.5,What is Mount Fuji?,"1, , , 2,  ,,, ,  ,, 3,   ,  ,  ,  ,  ,  ,   ,",INCORRECT,,INCORRECT,

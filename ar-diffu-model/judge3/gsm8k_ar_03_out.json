@@ -1,0 +1,377 @@
+[
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|3",
+    "correct": true,
+    "reason": "Final stated 120 matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|7",
+    "correct": true,
+    "reason": "Boxed 100 matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|11",
+    "correct": false,
+    "reason": "Truncated mid-calculation, no final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|15",
+    "correct": false,
+    "reason": "Truncated before stating final remaining money"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|19",
+    "correct": false,
+    "reason": "Final 500 wrong, gold is 3000"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|23",
+    "correct": true,
+    "reason": "Boxed 80 matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|27",
+    "correct": true,
+    "reason": "Final 4500 matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|31",
+    "correct": false,
+    "reason": "Truncated before final answer stated"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|35",
+    "correct": false,
+    "reason": "Truncated mid-sentence, no final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|39",
+    "correct": false,
+    "reason": "Truncated before final height stated"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|43",
+    "correct": false,
+    "reason": "Truncated before total blood computed"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|47",
+    "correct": false,
+    "reason": "Truncated right before boxed number given"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|1",
+    "correct": false,
+    "reason": "Final answer 39 wrong, gold is 21"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|5",
+    "correct": true,
+    "reason": "Final 5 pounds/day matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|9",
+    "correct": false,
+    "reason": "Final 39 wrong, gold is 21"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|13",
+    "correct": false,
+    "reason": "Final 15 points wrong, gold is 5"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|17",
+    "correct": false,
+    "reason": "Negative result, no coherent final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|21",
+    "correct": false,
+    "reason": "Final 8 hours wrong, gold is 10"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|25",
+    "correct": false,
+    "reason": "Final 6.67 wrong, gold is 5"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|29",
+    "correct": false,
+    "reason": "Final boxed 12 wrong, gold is 30"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|33",
+    "correct": false,
+    "reason": "Final 315 wrong, gold is 540"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|37",
+    "correct": true,
+    "reason": "Boxed 10 matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|41",
+    "correct": false,
+    "reason": "Final boxed 120 wrong, gold is 96"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|45",
+    "correct": false,
+    "reason": "Final boxed 55 wrong, gold is 30"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|49",
+    "correct": true,
+    "reason": "Boxed 594 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|3",
+    "correct": true,
+    "reason": "Boxed 120 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|7",
+    "correct": true,
+    "reason": "Boxed 100 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|11",
+    "correct": false,
+    "reason": "Truncated before final number stated"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|15",
+    "correct": true,
+    "reason": "Boxed 300 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|19",
+    "correct": true,
+    "reason": "Final 3000 dollars matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|23",
+    "correct": false,
+    "reason": "Truncated before final length stated"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|27",
+    "correct": true,
+    "reason": "Boxed 4500 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|31",
+    "correct": true,
+    "reason": "Final 10 shoe boxes matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|35",
+    "correct": true,
+    "reason": "Final 5 more laps matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|39",
+    "correct": true,
+    "reason": "Boxed 72 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|43",
+    "correct": true,
+    "reason": "Final 1200 gallons matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|47",
+    "correct": false,
+    "reason": "Truncated before final total stated"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|1",
+    "correct": false,
+    "reason": "Final boxed 20 wrong, gold is 25"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|5",
+    "correct": true,
+    "reason": "Final 5 pounds matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|9",
+    "correct": true,
+    "reason": "Boxed 21 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|13",
+    "correct": true,
+    "reason": "Final stated loss of 5 matches gold numeric"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|17",
+    "correct": true,
+    "reason": "Boxed 300 matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|21",
+    "correct": true,
+    "reason": "Final 10 hours matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|25",
+    "correct": true,
+    "reason": "Final $5 each matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|29",
+    "correct": true,
+    "reason": "Final boxed 12 wrong, gold is 30"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|33",
+    "correct": false,
+    "reason": "Final 465 wrong, gold is 540"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|37",
+    "correct": true,
+    "reason": "Final states 10 balls matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|41",
+    "correct": false,
+    "reason": "Final boxed 120 wrong, gold is 96"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|45",
+    "correct": true,
+    "reason": "Final 30 minutes matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|49",
+    "correct": true,
+    "reason": "Final 594 feet matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|3",
+    "correct": true,
+    "reason": "Final 120 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|7",
+    "correct": true,
+    "reason": "Boxed 100 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|11",
+    "correct": true,
+    "reason": "Final 78 minutes matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|15",
+    "correct": true,
+    "reason": "Final $300 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|19",
+    "correct": false,
+    "reason": "Truncated before total cost value stated"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|23",
+    "correct": true,
+    "reason": "Final 80 cm matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|27",
+    "correct": true,
+    "reason": "Final $4500 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|31",
+    "correct": true,
+    "reason": "Final 10 shoe boxes matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|35",
+    "correct": true,
+    "reason": "Final 5 more laps matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|39",
+    "correct": false,
+    "reason": "Truncated before final height stated"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|43",
+    "correct": true,
+    "reason": "Boxed 1200 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|47",
+    "correct": false,
+    "reason": "Truncated before final total stated"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|1",
+    "correct": true,
+    "reason": "Boxed 25 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|5",
+    "correct": true,
+    "reason": "Final 5 pounds/day matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|9",
+    "correct": true,
+    "reason": "Final 21 years matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|13",
+    "correct": true,
+    "reason": "Final 5 points matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|17",
+    "correct": true,
+    "reason": "Boxed 300 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|21",
+    "correct": true,
+    "reason": "Final 10 hours matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|25",
+    "correct": true,
+    "reason": "Final $5 each matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|29",
+    "correct": true,
+    "reason": "Boxed 30 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|33",
+    "correct": false,
+    "reason": "Final 465 wrong, gold is 540"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|37",
+    "correct": true,
+    "reason": "Boxed 10 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|41",
+    "correct": true,
+    "reason": "Boxed 96 matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|45",
+    "correct": true,
+    "reason": "Final 30 minutes matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|49",
+    "correct": true,
+    "reason": "Final 594 feet matches gold"
+  }
+]

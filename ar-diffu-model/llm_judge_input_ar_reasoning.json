@@ -1,0 +1,1892 @@
+[
+ {
+  "id": "qwen25-0.5b|0.5|0",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To calculate the average speed of the train, we use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven that"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|1",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom initially has 3 apples. If he gives away 1 apple, he would have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "qwen25-0.5b|0.5|2",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "To determine the day of the week 3 days after today (Monday) without using any external resources or formulas, we can follow these steps:\n\n1. **Identify the current day**: Today is"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|3",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of the shirt after a 25% discount, you can follow these steps:\n\n1. Calculate the amount of the discount.\n   - The original cost of the shirt is"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|4",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "There are 60 minutes in one hour. Therefore, to find the number of minutes in two and a half hours, you multiply 2.5 by 60:\n\n\\[ 2."
+ },
+ {
+  "id": "qwen25-0.5b|0.5|5",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance traveled by the car, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven that the speed"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|6",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is 15 plus 27?",
+  "answer": "To solve the problem of adding 15 and 27, you simply add the two numbers together:\n\n\\[ 15 + 27 = 42 \\]\n\nSo, 1"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|7",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "qwen25-0.5b|0.5|8",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each of the 5 friends gets when sharing 10 cookies equally among them, we can follow these steps:\n\n1. **Total number of cookies**: There are 1"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|9",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|10",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and you want to know what time it will be in 5 hours from now, you can follow these steps:\n\n1. **Current Time**: The current time is"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|11",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg, we need to divide the total cost of a dozen eggs by 12 (since a dozen is equal to 12). Here's the step-by-step"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|12",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided:\n\n- Sarah is older than Tom.\n- Tom is older than Mike.\n\nTherefore, Sarah must be the youngest person among the three of them."
+ },
+ {
+  "id": "qwen25-0.5b|0.5|13",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 7 days in one week. If you want to find out how many days are in 4 weeks, simply multiply the number of days in one week by the number of weeks:\n\n\\["
+ },
+ {
+  "id": "qwen25-0.5b|0.5|14",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50. This can be calculated easily as follows:\n\n\\[\n\\frac{100}{2} = 50\n\\]\n\nSo, the"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|15",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to read a book with 300 pages if you read 50 pages per day, you can use the following steps:\n\n1. Identify the total"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|16",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 can be determined by identifying the pattern. Each term in the sequence is obtained by adding 2 to the previous term"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|17",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you start with an 8-slice pizza and eat 3 slices, the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there are"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|18",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in one meter. This is because the prefix \"centi-\" means one-hundredth of a unit of measurement. So, to convert meters to centimeters"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|19",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and you want to know the date 10 days later, you would add 10 days to January 1st.\n\nJanuary has 31 days,"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|20",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is 100 divided by 4?",
+  "answer": "To solve the problem of dividing 100 by 4, you can use long division or simply perform the calculation directly:\n\n\\[ \\frac{100}{4} = 25"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|21",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To determine the total number of balls in the bag, we need to add the number of red balls to the number of blue balls. Here's the step-by-step reasoning:\n\n1. Identify the number"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|22",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If you double 12, what do you get?",
+  "answer": "To determine the result of doubling 12, we need to follow these steps:\n\n1. Identify the number: The number is 12.\n2. Understand the operation: Doubling means multiplying"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|23",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train departs at 9 AM and arrives at 13:00 (noon). Therefore, the train arrives at 4:00 PM."
+ },
+ {
+  "id": "qwen25-0.5b|0.5|24",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each friend pays when the total bill of $30 is divided equally among three friends, we need to perform the following steps:\n\n1. **Identify the total amount**: The"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|25",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "What is 7 squared?",
+  "answer": "The expression \"7 squared\" refers to the mathematical operation of squaring 7, which means multiplying 7 by itself.\n\nSo, \\( 7^2 = 7 \\times 7 ="
+ },
+ {
+  "id": "qwen25-0.5b|0.5|26",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "A year has 12 months, which means there are exactly 12 months in a complete year. Therefore, if we want to find out how many months are in half a year, we"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|27",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has, we start with the information given in the problem:\n\n1. Bob has 4 books.\n2. Alice has twice as many books as Bob.\n\nWe can calculate"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|28",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To determine how many seconds are in 3 minutes, we need to follow these steps:\n\n1. Understand that there are 60 seconds in one minute.\n2. Multiply the number of minutes by"
+ },
+ {
+  "id": "qwen25-0.5b|0.5|29",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.5,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake a cake, then the cake will be ready for you to eat by 3 PM."
+ },
+ {
+  "id": "qwen25-0.5b|0.7|0",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|1",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom initially has 3 apples. When he gives 1 away, the number of apples he has left is:\n\n\\( 3 - 1 = 2 \\)\n\nSo, Tom has 2"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|2",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "To determine the day of the week three days after today (Monday) without using any external resources or dependencies, we can follow these steps:\n\n1. Identify the current day: Today is Monday.\n2"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|3",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of a shirt that originally costs $20 with a 25% discount, follow these steps:\n\n1. Calculate the discount amount:\n   \\( \\text{Discount Amount"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|4",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To determine how many minutes are in 2.5 hours, we need to understand the relationship between hours and minutes. There are 60 minutes in one hour.\n\nHere are the steps to convert"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|5",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance traveled by the car, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven:\n- Speed"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|6",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is 15 plus 27?",
+  "answer": "The sum of 15 and 27 is 42."
+ },
+ {
+  "id": "qwen25-0.5b|0.7|7",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "To calculate the product of 9 and 6:\n\n\\[ 9 \\times 6 = 54 \\]\n\nSo, \\( 9 \\times 6 = 54 \\)."
+ },
+ {
+  "id": "qwen25-0.5b|0.7|8",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each of your 5 friends gets when you divide the 10 cookies equally, we can follow these steps:\n\n1. **Total number of cookies**: 10"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|9",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area of a rectangle can be calculated using the formula:\n\n\\[ \\text{Area} = \\text{length} \\times \\text{width} \\]\n\nGiven that the length is 8"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|10",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we want to know the time five hours later, we simply add those five hours to the current time.\n\nSo, 3 PM + 5 hours ="
+ },
+ {
+  "id": "qwen25-0.5b|0.7|11",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg, we can follow these steps:\n\n1. Identify the total cost of a dozen eggs.\n   A dozen eggs is 12 eggs.\n\n2. We know that"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|12",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "To determine who is the youngest among Sarah, Tom, and Mike, let's analyze their ages based on the given information:\n\n1. Sarah is older than Tom.\n2. Tom is older than Mike"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|13",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To determine the total number of days in 4 weeks, we need to follow these steps:\n\n1. Identify the number of days in one week.\n2. Multiply that number by the number of weeks"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|14",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50.\n\nTo arrive at this answer, we simply divide the number 100 by 2:\n\\[ \\frac{100}{2}"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|15",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish reading a book with 300 pages if you read 50 pages per day, we can follow these steps:\n\n1. **Calculate the"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|16",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The sequence you provided is an arithmetic sequence where each term increases by 2 from the previous one. Let's break it down step-by-step to find the next number in the sequence.\n\n1. The"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|17",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "After eating 3 out of the 8 slices, there will be \\( 8 - 3 = 5 \\) slices remaining."
+ },
+ {
+  "id": "qwen25-0.5b|0.7|18",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in one meter. This is because the prefix \"centi-\" means \"hundredth\" or \"one-hundredth,\" so to express 10"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|19",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "To determine the date 10 days after January 1st, we can follow these steps:\n\n1. **Identify the current day**: Today is January 1st.\n2. **Add"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|20",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is 100 divided by 4?",
+  "answer": "To solve the division problem \\( 100 \\div 4 \\), you can perform the following steps:\n\n1. **Divide** the first number (100) by the second"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|21",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To determine the total number of balls in the bag, we need to add the number of red balls to the number of blue balls. Here's the step-by-step reasoning:\n\n1. Identify the number"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|22",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you will get 24. This is because multiplying any number by two results in four times that number. In mathematical terms, doubling a number means to multiply it"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|23",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train has been traveling for 5 hours after leaving at 9 AM. Therefore, the train will arrive at:\n\n9 AM + 5 hours = 4 PM\n\nSo, the train arrives"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|24",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each of the three friends will pay when they share a $30 bill equally, we need to follow these steps:\n\n1. Identify the total amount of money and the number of"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|25",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "What is 7 squared?",
+  "answer": "The square of 7 is 49.\n\nCalculation: \\(7^2 = 7 \\times 7 = 49\\).\n\nThus, the answer to \"What is 7"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|26",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "To determine the number of months in half a year when considering the traditional calendar system:\n\n1. A full year is divided into:\n   - 12 months\n\n2. Half a year would be"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|27",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has, we need to follow these steps:\n\n1. Identify the number of books Bob has.\n2. Use the information that Alice has twice as many books as Bob to"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|28",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute.\n\nSo, to find out how many seconds are in three minutes:\n\n\\[ 3 \\text{ minutes} \\times 60 \\text{ seconds"
+ },
+ {
+  "id": "qwen25-0.5b|0.7|29",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.7,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "To determine the time when the cake is done if it takes 1 hour to bake and you started baking at 2 PM, we need to consider the following:\n\n1. The baking time is"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|0",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula for average speed:\n\n\\[\n\\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|1",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom initially has 3 apples. He gives away 1 apple, so the number of apples he has left is:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|2",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "Today is Monday.\n\nIn 3 days, you would count forward 2 more days from the current day (Monday). Since today's date is still one day before tomorrow, in 3 days it"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|3",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of the shirt after it is sold at 25%, you can follow these steps:\n\n1. **Find the amount of the discount**: This is 25% of"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|4",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To determine how many minutes are in 2.5 hours, we need to understand the relationship between hours and minutes. Specifically:\n\n1. There are 60 minutes in one hour.\n2."
+ },
+ {
+  "id": "qwen25-0.5b|0.9|5",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance a car travels given its speed and time, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|6",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is 15 plus 27?",
+  "answer": "To solve the problem of adding 15 and 27:\n\nStep 1: Understand that we are performing addition.\n\nStep 2: Add the two numbers together:\n\\[ 15 +"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|7",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "qwen25-0.5b|0.9|8",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each of the 5 friends will get if you share 10 cookies equally among them, we can follow these steps:\n\n1. Identify the total number of cookies:"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|9",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length is 8"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|10",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "It is 3 PM now. If we add 5 hours to 3 PM, the time will shift forward one additional hour. Therefore, 5 hours after 3 PM will still be"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|11",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg when given that a dozen eggs cost $3, we can follow these steps:\n\n1. Identify the total cost for a dozen eggs.\n2. Determine the number of"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|12",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the given conditions, we can deduce the relationship among Sarah, Tom, and Mike as follows:\n\n1. **Tom is older than Mike** (given: Tom > Mike).\n2."
+ },
+ {
+  "id": "qwen25-0.5b|0.9|13",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "In one week, there are 7 days. Therefore, in 4 weeks, the number of days would be:\n\n\\[ 4 \\text{ weeks} \\times 7 \\text{ days"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|14",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-0.5b|0.9|15",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish reading 300 pages if you read 50 pages per day, you can follow these steps:\n\n1. Calculate the total number of days"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|16",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 can be determined as follows:\n\n1. Start with the given numbers: 2, 4, 6,"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|17",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "To determine how many slices of pizza are left after eating some of them, we can follow these steps:\n\n1. Start with the total number of pizza slices.\n2. Subtract the number of slices you"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|18",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in one meter. This is because:\n\n- 1 meter (m) = 100 centimeters (cm).\n\nThis conversion can be derived from the"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|19",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "To determine the date one day after January 1st, you need to add 10 days to the given date.\n\nHere's the step-by-step process:\n\n1. Identify today: Today is"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|20",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is 100 divided by 4?",
+  "answer": "To solve the problem of dividing 100 by 4, we can follow these steps:\n\nStep 1: Understand what division means.\nDivision is the process of distributing or partitioning one number"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|21",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To determine the total number of balls in the bag, we need to add the number of red balls to the number of blue balls. According to the problem, there are 5 red balls and"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|22",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If you double 12, what do you get?",
+  "answer": "When we double the number 12, the result is 24."
+ },
+ {
+  "id": "qwen25-0.5b|0.9|23",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train starts at 9:00 AM and arrives 4 hours later, we can determine that it will arrive at:\n\n9:00 AM + 4 hours = 11"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|24",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each friend pays when they share a $30 bill equally among 3 friends, you can follow these steps:\n\n1. Divide the total amount of money by the number of people"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|25",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "What is 7 squared?",
+  "answer": "The square of 7 is equal to 49.\n\nTo verify this:\n1. \\( 7 \\times 7 = 49 \\)\n\nThis calculation demonstrates the mathematical principle that squaring"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|26",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "When you ask for \"half a year,\" the concept of fractions or decimals is used to represent this question.\n\nHalf a year can be thought of as one-third of a full year. In mathematical terms"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|27",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has based on the information provided, let's follow these steps:\n\n1. Identify the number of books Bob has.\n   Bob has 4 books.\n\n2. Determine how"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|28",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in 1 minute.\n\nTo find out how many seconds are in 3 minutes, you simply multiply the number of minutes (which is 3) by the number of"
+ },
+ {
+  "id": "qwen25-0.5b|0.9|29",
+  "ar_model": "qwen25-0.5b",
+  "temp": 0.9,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes exactly 1 hour to bake a cake and you start baking at 2 PM, then the cake will be done at 3 PM.\n\nTo break it down further:\n- Starting time"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|0",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To calculate the average speed of the train, you can use the formula:\n\n\\[\n\\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}}\n\\]"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|1",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom starts with 3 apples. If he gives 1 apple away, then he will have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|2",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "To determine the day of the week in 3 days from today (which is Monday), we can follow these steps:\n\n1. Identify the current day: Today is Monday.\n2. Count forward by"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|3",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of a shirt that is on sale for 25% off when it originally costs $20:\n\n1. **Calculate the discount amount:**\n   \\[\n   \\"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|4",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find out how many minutes are in 2.5 hours, you can multiply the number of hours by the number of minutes in an hour.\n\nThere are 60 minutes in one hour."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|5",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance traveled by a car when given its speed and time, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time}"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|6",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is 15 plus 27?",
+  "answer": "The sum of 15 and 27 is 42."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|7",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "To find the product of 9 and 6, you simply multiply these two numbers together:\n\n\\[ 9 \\times 6 = 54 \\]\n\nSo, 9 multiplied by 6"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|8",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "Each friend gets \\( \\frac{10}{5} = 2 \\) cookies."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|9",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "To find the area of a rectangle, you use the formula:\n\n\\[ \\text{Area} = \\text{length} \\times \\text{width} \\]\n\nGiven that the length is"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|10",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3:00 PM and you want to know the time in 5 hours, you simply add those 5 hours to the current time.\n\nSo, starting from 1"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|11",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find the cost of one egg when a dozen (12) eggs costs $3, you would divide the total cost by the number of eggs:\n\n\\[\n\\text{Cost per egg}"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|12",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information given:\n\n1. Sarah is older than Tom.\n2. Tom is older than Mike.\n\nWe can deduce the following order of age from oldest to youngest:\n- Sarah is the"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|13",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 28 days in 4 weeks because 7 days x 4 weeks = 28 days."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|14",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|15",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To calculate the number of days it would take to finish reading a book with 300 pages if you read 50 pages per day, you simply divide the total number of pages by the"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|16",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 would be 10.\n\nThis sequence is an arithmetic progression where each term increases by 2 from the previous one"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|17",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3 slices, then there would be \\( 8 - 3 = 5 \\) slices left."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|18",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|19",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "Today is January 1st.\n\nIn 10 days from now, the date will be:\n\nJanuary 11th."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|20",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 is 25."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|21",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls to the number of blue balls:\n\nNumber of red balls = 5\nNumber of blue balls ="
+ },
+ {
+  "id": "qwen25-1.5b|0.5|22",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If you double 12, what do you get?",
+  "answer": "Doubling 12 means multiplying it by 2:\n\n\\( 12 \\times 2 = 24 \\)\n\nSo, if you double 12, you get 24"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|23",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later.\n\nTo find the arrival time:\n\n1. Start with the departure time: 9 AM.\n2. Add the travel duration of"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|24",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "Each friend would pay:\n\n$$ \\frac{30}{3} = 10 $$\n\nSo, each friend pays $10."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|25",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "What is 7 squared?",
+  "answer": "The square of 7 is calculated as \\( 7^2 = 49 \\)."
+ },
+ {
+  "id": "qwen25-1.5b|0.5|26",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year is equivalent to six months. Therefore, if a year has 12 months, then half a year would have:\n\n\\[ \\frac{12}{2} = 6 \\"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|27",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Alice has twice as many books as Bob, so if Bob has 4 books:\n\n- Alice's number of books = 2 \u00d7 Bob's number of books\n\nTherefore:\n- Alice's number of"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|28",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 180 seconds in 3 minutes. This is because there are 60 seconds in one minute, and multiplying that by 3 gives you the total number of seconds in three"
+ },
+ {
+  "id": "qwen25-1.5b|0.5|29",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.5,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "At 2 PM, if you start baking a cake that requires 1 hour to complete, the cake would be done at:\n\n3:00 PM\n\nThis is because starting at 2 PM"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|0",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula:\n\n\\[\n\\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}}\n\\]"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|1",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "To solve the problem of how many apples Tom has after giving one away, follow these steps:\n\n1. **Identify the initial number of apples**: Tom starts with 3 apples.\n2. **"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|2",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday and you want to know the day of the week in three days from now:\n\n1. Today: Monday\n2. In one day: Tuesday\n3. In two more days"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|3",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, you can follow these steps:\n\n1. Calculate the amount of the discount.\n   The original price of the shirt is $"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|4",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To convert 2.5 hours into minutes, you can use the following calculation:\n\n\\[ \\text{Minutes} = \\text{Hours} \\times 60 \\]\n\nSo for 2"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|5",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance traveled by a car when you know its speed and time, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|6",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is 15 plus 27?",
+  "answer": "15 + 27 = 42"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|7",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The product of 9 and 6 is 54."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|8",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each friend gets when you share 10 cookies equally among 5 friends, follow these steps:\n\n1. Identify the total number of cookies: There are 10 cookies"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|9",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area of a rectangle can be calculated using the formula:\n\n\\[\n\\text{Area} = \\text{length} \\times \\text{width}\n\\]\n\nGiven that the length is"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|10",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "At 3:00 PM, in 5 hours from now, the time will be 8:00 PM."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|11",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find the cost of one egg when you know the cost per dozen (12 eggs), you can divide the total cost by 12.\n\nGiven that a dozen eggs cost $3:\n\nCost"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|12",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided:\n\n- Sarah is older than Tom.\n- Tom is older than Mike.\n\nWe can deduce that:\n1. Sarah > Tom\n2. Tom > Mike\n\nCombining"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|13",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are \\( 7 \\times 4 = 28 \\) days in 4 weeks."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|14",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|15",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To find out how many days it will take to finish a 300-page book if you read 50 pages a day, we can use the formula:\n\n\\[\n\\text{Number"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|16",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 would be 10.\n\nThis is an arithmetic sequence where each term increases by a common difference of 2:"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|17",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3 slices, then there would be 5 slices left."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|18",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|19",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "To determine the date 10 days from January 1st, we can simply count forward:\n\n- January has 31 days.\n- Counting 1 day: January 2nd"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|20",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|21",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "There is no need to count the balls because the question asks for the total number of balls, which we already know is \\(5 + 3 = 8\\)."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|22",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If you double 12, what do you get?",
+  "answer": "Doubling 12 means multiplying it by 2:\n\n\\( 12 \\times 2 = 24 \\)\n\nSo, if you double 12, you get 24"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|23",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train arrives at 1 PM."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|24",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "Each friend would pay:\n\n$30 / 3 = $10\n\nSo, each friend pays $10."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|25",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "What is 7 squared?",
+  "answer": "7 squared means \\(7 \\times 7\\), which equals:\n\n\\[7^2 = 49\\]"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|26",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half of a year consists of 6 months."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|27",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has, we can follow these steps:\n\n1. Identify the number of books Bob has.\n   - According to the problem, Bob has 4 books.\n\n2. Understand"
+ },
+ {
+  "id": "qwen25-1.5b|0.7|28",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "qwen25-1.5b|0.7|29",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.7,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "It would be done at 3:00 PM."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|0",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "The average speed of the train can be calculated using the formula:\n\n\\[\n\\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}}\n\\]\n\nIn this"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|1",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom starts with 3 apples. If he gives away 1 apple, then he will have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|2",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "To determine the day of the week in 3 days from today (which is Monday), we can follow these steps:\n\n1. Identify today's day: Today is Monday.\n2. Add 1"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|3",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of a shirt that has been discounted by 25%, you can follow these steps:\n\n1. Determine the amount of the discount:\n   Discount amount = Original price \u00d7 ("
+ },
+ {
+  "id": "qwen25-1.5b|0.9|4",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "There are 150 minutes in 2.5 hours.\n\nTo arrive at this answer, we can multiply the number of hours by 60 (since there are 60 minutes in"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|5",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance a car travels when its speed is constant and it maintains that speed over a given period of time, you can use the formula:\n\n\\[ \\text{Distance} = \\text{"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|6",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is 15 plus 27?",
+  "answer": "To find the sum of 15 and 27, you simply add them together:\n\n$$\n15 + 27 = 42\n$$\n\nSo, 15 plus"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|7",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The result of multiplying 9 by 6 is:\n\n\\[ 9 \\times 6 = 54 \\]"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|8",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you divide 10 cookies equally among 5 friends:\n\n\\[ \\frac{10}{5} = 2 \\]\n\nSo, each friend gets 2 cookies."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|9",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "To find the area of a rectangle, you use the formula:\n\n\\[ \\text{Area} = \\text{Length} \\times \\text{Width} \\]\n\nGiven:\n- Length \\( L"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|10",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "To determine the time 5 hours after 3:00 PM, you simply add 5 hours to the current hour.\n\nStarting from 3:00 PM:\n- Adding 1 hour"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|11",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find out the cost of one egg when a dozen (12) eggs cost $3, you can divide the total cost by the number of eggs in a dozen.\n\nSo, $3 \ufffd"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|12",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided:\n\n- Sarah is older than Tom.\n- Tom is older than Mike.\n\nGiven these comparisons, we can deduce the following order of age:\n1. Mike (youngest"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|13",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To determine the number of days in 4 weeks, we can use the information that there are 7 days in one week. Here is the step-by-step reasoning:\n\n1. Identify the number of"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|14",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|15",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "It will take 6 days to finish the book if you read 50 pages a day. \n\nCalculation: \nTotal pages in the book = 300\nPages read per day"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|16",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 would be 10.\n\nThis is an arithmetic sequence where each term increases by 2 from the previous term."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|17",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3 slices, then there would be \\( 8 - 3 = 5 \\) slices left."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|18",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|19",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "The date of the following day will be one day after today's date. If today is January 1st, then tomorrow will be February 1st. Therefore, if today is January 1"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|20",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 is 25."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|21",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls to the number of blue balls:\n\n\\[\n\\text{Total number of balls} = \\text{"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|22",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If you double 12, what do you get?",
+  "answer": "Doubling 12 means multiplying it by 2:\n\n\\( 12 \\times 2 = 24 \\)\n\nSo, if you double 12, the result is 2"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|23",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9:00 AM and arrives 4 hours later. To find the arrival time, we simply add 4 hours to the departure time.\n\nStarting from 9:0"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|24",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "Each friend pays \\( \\frac{30}{3} = 10 \\) dollars. So, if the friends split a $30 bill equally, each friend will pay $10"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|25",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "What is 7 squared?",
+  "answer": "7 squared means \\(7 \\times 7\\), which equals 49."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|26",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "In a typical calendar year that consists of 12 months, half of that time would be exactly 6 months. Since the question specifies \"half a year,\" it is clear that we refer to"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|27",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Alice has 2 * 4 = 8 books."
+ },
+ {
+  "id": "qwen25-1.5b|0.9|28",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 180 seconds in 3 minutes.\n\nTo arrive at this answer:\n- There are 60 seconds in one minute.\n- Therefore, for three minutes, we multiply the number"
+ },
+ {
+  "id": "qwen25-1.5b|0.9|29",
+  "ar_model": "qwen25-1.5b",
+  "temp": 0.9,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake the cake and you start at 2:00 PM, then it will be done at:\n\n3:00 PM"
+ },
+ {
+  "id": "qwen25-3b|0.5|0",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, we can use the formula for average speed, which is:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{"
+ },
+ {
+  "id": "qwen25-3b|0.5|1",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom originally has 3 apples. After giving 1 apple away, he would have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "qwen25-3b|0.5|2",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "qwen25-3b|0.5|3",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract the discount from the original price"
+ },
+ {
+  "id": "qwen25-3b|0.5|4",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To determine the number of minutes in 2.5 hours, we need to understand that:\n\n- 1 hour is equal to 60 minutes.\n\nTherefore, for 2.5 hours,"
+ },
+ {
+  "id": "qwen25-3b|0.5|5",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find out how far the car travels, we can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven:\n- Speed"
+ },
+ {
+  "id": "qwen25-3b|0.5|6",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "qwen25-3b|0.5|7",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "qwen25-3b|0.5|8",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get \\( \\frac{10}{5} = 2 \\) cookies."
+ },
+ {
+  "id": "qwen25-3b|0.5|9",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle"
+ },
+ {
+  "id": "qwen25-3b|0.5|10",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we want to know the time 5 hours later, we simply add 5 hours to the current time.\n\nStarting from 3 PM:\n- Adding 1"
+ },
+ {
+  "id": "qwen25-3b|0.5|11",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find out the cost of one egg when a dozen (which is 12) eggs cost $3, you can divide the total cost by the number of eggs in a dozen.\n\nSo,"
+ },
+ {
+  "id": "qwen25-3b|0.5|12",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "qwen25-3b|0.5|13",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week, then in 4 weeks there would be:\n\n\\( 7 \\text{ days/week} \\times 4 \\text{ weeks} ="
+ },
+ {
+  "id": "qwen25-3b|0.5|14",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-3b|0.5|15",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To find out how many days it will take to finish a 300-page book if you read 50 pages a day, we can divide the total number of pages by the number of"
+ },
+ {
+  "id": "qwen25-3b|0.5|16",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The given sequence is 2, 4, 6, 8. This sequence represents even numbers in ascending order starting from 2.\n\nFollowing this pattern, the next number in the sequence would"
+ },
+ {
+  "id": "qwen25-3b|0.5|17",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is initially cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there"
+ },
+ {
+  "id": "qwen25-3b|0.5|18",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-3b|0.5|19",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and we are looking at a period of 10 days, the date will be January 11th."
+ },
+ {
+  "id": "qwen25-3b|0.5|20",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "qwen25-3b|0.5|21",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To determine the total number of balls in the bag, we need to add the number of red balls to the number of blue balls.\n\nGiven:\n- Number of red balls = 5\n- Number"
+ },
+ {
+  "id": "qwen25-3b|0.5|22",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "qwen25-3b|0.5|23",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9 AM and arrives 4 hours later, you would add 4 hours to the departure time.\n\nSo, 9 AM + 4 hours = 1 PM."
+ },
+ {
+  "id": "qwen25-3b|0.5|24",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "If the total bill is $30 and it's to be split equally among three friends, you would divide the total amount by 3:\n\n\\[ \\frac{30}{3} ="
+ },
+ {
+  "id": "qwen25-3b|0.5|25",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49."
+ },
+ {
+  "id": "qwen25-3b|0.5|26",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would have 6 months."
+ },
+ {
+  "id": "qwen25-3b|0.5|27",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Alice has twice as many books as Bob, and Bob has 4 books, then Alice has \\(2 \\times 4 = 8\\) books."
+ },
+ {
+  "id": "qwen25-3b|0.5|28",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, to find out how many seconds are in 3 minutes, you multiply 60 seconds by 3:\n\n\\[ 60 \\text"
+ },
+ {
+  "id": "qwen25-3b|0.5|29",
+  "ar_model": "qwen25-3b",
+  "temp": 0.5,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If you start baking a cake at 2 PM and it takes 1 hour to bake, the cake will be done at 3 PM."
+ },
+ {
+  "id": "qwen25-3b|0.7|0",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula for average speed:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}}"
+ },
+ {
+  "id": "qwen25-3b|0.7|1",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom originally had 3 apples. After giving 1 apple away, he would have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "qwen25-3b|0.7|2",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days it will be Thursday."
+ },
+ {
+  "id": "qwen25-3b|0.7|3",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of the shirt that is 25% off, we can follow these steps:\n\n1. First, find out how much the discount is:\n\\[ \\text{Discount}"
+ },
+ {
+  "id": "qwen25-3b|0.7|4",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To determine how many minutes are in 2.5 hours, we can use the fact that 1 hour is equivalent to 60 minutes.\n\nWe can calculate this as follows:\n\n\\[ 2"
+ },
+ {
+  "id": "qwen25-3b|0.7|5",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find out how far the car travels, we can use the formula for distance:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven:"
+ },
+ {
+  "id": "qwen25-3b|0.7|6",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "qwen25-3b|0.7|7",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "qwen25-3b|0.7|8",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each of the 5 friends gets when there are 10 cookies shared equally, we need to perform a simple division.\n\nHere's the step-by-step calculation:\n\n1."
+ },
+ {
+  "id": "qwen25-3b|0.7|9",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length is 8"
+ },
+ {
+  "id": "qwen25-3b|0.7|10",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we want to know the time after 5 more hours, we simply add those 5 hours to the current time.\n\nStarting from 3 PM:\n- After"
+ },
+ {
+  "id": "qwen25-3b|0.7|11",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg when a dozen (12) eggs cost $3, you can divide the total cost by the number of eggs in a dozen.\n\nSo, if a dozen eggs"
+ },
+ {
+  "id": "qwen25-3b|0.7|12",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "qwen25-3b|0.7|13",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in one week, then in 4 weeks there would be:\n\n\\( 7 \\text{ days/week} \\times 4 \\text{ weeks} ="
+ },
+ {
+  "id": "qwen25-3b|0.7|14",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-3b|0.7|15",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish reading a book with 300 pages if you read 50 pages a day, you can divide the total number of pages by the number"
+ },
+ {
+  "id": "qwen25-3b|0.7|16",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The given sequence is: 2, 4, 6, 8.\n\nEach number in this sequence is an even number and increases by 2 from the previous number.\n\nTo find the next"
+ },
+ {
+  "id": "qwen25-3b|0.7|17",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is initially cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there"
+ },
+ {
+  "id": "qwen25-3b|0.7|18",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-3b|0.7|19",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and we count forward 10 days, the date will be January 11th."
+ },
+ {
+  "id": "qwen25-3b|0.7|20",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "qwen25-3b|0.7|21",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply need to add the number of red balls to the number of blue balls.\n\nGiven:\n- Number of red balls = 5\n-"
+ },
+ {
+  "id": "qwen25-3b|0.7|22",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "qwen25-3b|0.7|23",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and the journey takes 4 hours. To find out what time it arrives, we add 4 hours to the departure time:\n\n- 9 AM + 1"
+ },
+ {
+  "id": "qwen25-3b|0.7|24",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each friend pays when splitting a $30 bill equally among three friends, we need to divide the total amount by the number of friends.\n\nThe total amount is $30 and"
+ },
+ {
+  "id": "qwen25-3b|0.7|25",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "What is 7 squared?",
+  "answer": "7 squared means 7 multiplied by itself, which can be expressed as \\( 7^2 \\).\n\nTo calculate this:\n\n\\[ 7^2 = 7 \\times 7 = 4"
+ },
+ {
+  "id": "qwen25-3b|0.7|26",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would have 6 months."
+ },
+ {
+  "id": "qwen25-3b|0.7|27",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To find out how many books Alice has, we can set up a simple equation based on the information given:\n\n- Alice has twice as many books as Bob.\n- Bob has 4 books.\n\nLet"
+ },
+ {
+  "id": "qwen25-3b|0.7|28",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, to find out how many seconds are in 3 minutes, you multiply 60 by 3:\n\n\\[ 60 \\text{"
+ },
+ {
+  "id": "qwen25-3b|0.7|29",
+  "ar_model": "qwen25-3b",
+  "temp": 0.7,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake the cake and you start baking at 2 PM, it will be done 1 hour later. Therefore, the cake will be done at 3 PM."
+ },
+ {
+  "id": "qwen25-3b|0.9|0",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, we use the formula for speed, which is:\n\n\\[ \\text{Speed} = \\frac{\\text{Distance}}{\\text{Time}} \\]"
+ },
+ {
+  "id": "qwen25-3b|0.9|1",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Let's break it down:\n\n- Tom starts with 3 apples.\n- He gives 1 apple away.\n\nTo find out how many apples Tom has left, we subtract the number of apples he gave"
+ },
+ {
+  "id": "qwen25-3b|0.9|2",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "qwen25-3b|0.9|3",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt that originally costs $20 with a 25% discount, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract"
+ },
+ {
+  "id": "qwen25-3b|0.9|4",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find out how many minutes are in 2.5 hours, you can use the conversion that 1 hour is equal to 60 minutes.\n\nSo, for 2.5 hours:"
+ },
+ {
+  "id": "qwen25-3b|0.9|5",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find out how far the car goes, you can use the formula for distance:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven that"
+ },
+ {
+  "id": "qwen25-3b|0.9|6",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "qwen25-3b|0.9|7",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "qwen25-3b|0.9|8",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get:\n\n\\[ \\frac{10\\ cookies}{5\\ friends} = 2\\ cookies\\"
+ },
+ {
+  "id": "qwen25-3b|0.9|9",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area of a rectangle can be calculated using the formula:\n\n\\[ \\text{Area} = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle"
+ },
+ {
+  "id": "qwen25-3b|0.9|10",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we add 5 hours to this time, we can calculate the future time as follows:\n\n3 PM + 5 hours = 8 PM\n\nSo, in"
+ },
+ {
+  "id": "qwen25-3b|0.9|11",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg when a dozen eggs cost $3, we can follow these steps:\n\n1. Recognize that a dozen means 12 items.\n2. Divide the total cost"
+ },
+ {
+  "id": "qwen25-3b|0.9|12",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike based on the information given."
+ },
+ {
+  "id": "qwen25-3b|0.9|13",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in one week and we want to know the total number of days in 4 weeks, we simply multiply the number of days in one week by 4.\n\n\\[ \\"
+ },
+ {
+  "id": "qwen25-3b|0.9|14",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "qwen25-3b|0.9|15",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish a 300-page book if you read 50 pages each day, you can divide the total number of pages by the number of pages"
+ },
+ {
+  "id": "qwen25-3b|0.9|16",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The given sequence is 2, 4, 6, 8. \n\nEach number in this sequence is an even number and increases by 2 from the previous number. Following this pattern:"
+ },
+ {
+  "id": "qwen25-3b|0.9|17",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is originally cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there"
+ },
+ {
+  "id": "qwen25-3b|0.9|18",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-3b|0.9|19",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and we add 10 days to it, the date will be January 11th."
+ },
+ {
+  "id": "qwen25-3b|0.9|20",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "qwen25-3b|0.9|21",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, we need to add the number of red balls and blue balls together.\n\nGiven:\n- Number of red balls = 5\n- Number of blue"
+ },
+ {
+  "id": "qwen25-3b|0.9|22",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "qwen25-3b|0.9|23",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9 AM and arrives 4 hours later, you can calculate the arrival time by adding 4 hours to the departure time.\n\nStarting from 9 AM:\n- Adding"
+ },
+ {
+  "id": "qwen25-3b|0.9|24",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each of the three friends needs to pay when splitting a $30 bill equally, you would divide the total amount of the bill by the number of people sharing it.\n\nSo,"
+ },
+ {
+  "id": "qwen25-3b|0.9|25",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49. This can be calculated as \\( 7 \\times 7 = 49 \\)."
+ },
+ {
+  "id": "qwen25-3b|0.9|26",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would have 6 months. Since there are 12 months in a year, half of that would be 6 months."
+ },
+ {
+  "id": "qwen25-3b|0.9|27",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Alice has twice as many books as Bob and Bob has 4 books, then Alice has \\( 2 \\times 4 = 8 \\) books."
+ },
+ {
+  "id": "qwen25-3b|0.9|28",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. \n\nTherefore, there are \\( 3 \\times 60 = 180 \\) seconds in 3 minutes."
+ },
+ {
+  "id": "qwen25-3b|0.9|29",
+  "ar_model": "qwen25-3b",
+  "temp": 0.9,
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If you start baking a cake at 2 PM and it takes 1 hour to bake the cake, you will finish baking it at 3 PM."
+ }
+]

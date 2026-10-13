@@ -1,0 +1,252 @@
+[
+  {
+    "id": "minicpm5-gsm8k-k256-t70|0",
+    "correct": false,
+    "reason": "Garbage/contradictory, no coherent final answer"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|3",
+    "correct": false,
+    "reason": "Multiple choice list, no resolved final answer"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|6",
+    "correct": true,
+    "reason": "States $10 change, matches gold"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|9",
+    "correct": false,
+    "reason": "15 years old, wrong (gold 21)"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|12",
+    "correct": false,
+    "reason": "20 cubic inches, wrong (gold 40)"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|15",
+    "correct": true,
+    "reason": "300.00 matches gold 300"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|18",
+    "correct": true,
+    "reason": "40 birds per day matches gold 40"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|21",
+    "correct": false,
+    "reason": "Multiple choice list, unresolved final answer"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|24",
+    "correct": false,
+    "reason": "Stated 8 slices, gold is 18"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|27",
+    "correct": false,
+    "reason": "Computed $3000, gold is 4500"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|30",
+    "correct": false,
+    "reason": "Stated 10, wrong (gold 15)"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|33",
+    "correct": false,
+    "reason": "Multiple choice, no resolved final answer"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|36",
+    "correct": false,
+    "reason": "1.67 stated, gold is 2"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|39",
+    "correct": false,
+    "reason": "Lists heights, no final 72-inch answer"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|42",
+    "correct": false,
+    "reason": "Stated 2, garbage follows, gold is 16"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|45",
+    "correct": true,
+    "reason": "30 minutes matches gold"
+  },
+  {
+    "id": "minicpm5-gsm8k-k256-t70|48",
+    "correct": false,
+    "reason": "Stated 8 hours, gold is 7"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|1",
+    "correct": false,
+    "reason": "35 stated, gold is 25"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|4",
+    "correct": false,
+    "reason": "5.75 stated, gold is 5"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|7",
+    "correct": true,
+    "reason": "100 barrels stated, matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|10",
+    "correct": true,
+    "reason": "90 cents left, matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|13",
+    "correct": false,
+    "reason": "Stated winning by 9, gold is 5"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|16",
+    "correct": false,
+    "reason": "Stated 2, gold is 36"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|19",
+    "correct": true,
+    "reason": "$3000 matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|22",
+    "correct": true,
+    "reason": "240 dollars matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|25",
+    "correct": true,
+    "reason": "$5 each matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|28",
+    "correct": false,
+    "reason": "Stated 9000, gold is 14000"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|31",
+    "correct": false,
+    "reason": "Components only (4,6), no total 10 stated"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|34",
+    "correct": true,
+    "reason": "Boxed 12 matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|37",
+    "correct": false,
+    "reason": "Truncated mid-derivation, no final answer"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|40",
+    "correct": false,
+    "reason": "Empty answer"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|43",
+    "correct": true,
+    "reason": "1200 gallons matches gold"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|46",
+    "correct": false,
+    "reason": "Stated 240, gold is 120 (calc error)"
+  },
+  {
+    "id": "dream-gsm8k-k256-t70|49",
+    "correct": false,
+    "reason": "Stated 604, gold is 594"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|2",
+    "correct": true,
+    "reason": "623 pounds matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|5",
+    "correct": false,
+    "reason": "4.93 stated, gold is 5"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|8",
+    "correct": true,
+    "reason": "860 kilometers matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|11",
+    "correct": false,
+    "reason": "Final 39 minutes, gold is 78"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|14",
+    "correct": true,
+    "reason": "x=10 guests matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|17",
+    "correct": true,
+    "reason": "$300 matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|20",
+    "correct": false,
+    "reason": "Final stated 3 classes, gold is 4"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|23",
+    "correct": false,
+    "reason": "Stated 240 cm, gold is 80"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|26",
+    "correct": true,
+    "reason": "$100 matches gold despite flawed steps"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|29",
+    "correct": false,
+    "reason": "Stated 12, gold is 30"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|32",
+    "correct": true,
+    "reason": "Boxed 48 matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|35",
+    "correct": true,
+    "reason": "5 more laps matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|38",
+    "correct": false,
+    "reason": "Boxed 24500 cents, gold is 245"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|41",
+    "correct": true,
+    "reason": "$96 matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|44",
+    "correct": true,
+    "reason": "Boxed 15 matches gold"
+  },
+  {
+    "id": "lladamoe-gsm8k-k256-t70|47",
+    "correct": true,
+    "reason": "147 kilograms matches gold"
+  }
+]

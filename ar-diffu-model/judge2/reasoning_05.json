@@ -1,0 +1,452 @@
+[
+ {
+  "id": "ar|qwen25-3b|0.5|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, we can use the formula for average speed, which is the total distance traveled divided by the total time taken.\n\nGiven:\n- Distance traveled = 60 miles\n- Time taken = 2 hours\n\nThe formula for average speed \\( v \\) is:\n\\[ v = \\frac{\\text{Distance}}{\\text{Time}} \\]\n\nPlugging in the given values:\n\\[ v = \\frac{60 \\text{ miles}}{2 \\text{ hours}} \\]\n\nNow, perform the division:\n\\[ v = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom originally had 3 apples. After giving 1 apple away, he would have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt that is originally priced at $20 with a 25% discount, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract the discount from the original price.\n\nFirst, let's calculate the discount amount:\n- The original price of the shirt is $20.\n- The discount is 25%, which can be written as a decimal: \\( 25\\% = 0.25 \\).\n\nNow, multiply the original price by the discount rate to find the discount amount:\n\\[ \\text{Discount Amount} = 20 \\times 0.25 = 5 \\]\n\nNext, subtract the discount amount from the original price to"
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find out how many minutes are in 2.5 hours, we can use the conversion factor that 1 hour is equal to 60 minutes.\n\nSo, for 2.5 hours:\n\n\\[ 2.5 \\text{ hours} \\times 60 \\text{ minutes/hour} = 150 \\text{ minutes} \\]\n\nTherefore, there are 150 minutes in 2.5 hours."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find out how far the car travels, we can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven that the speed is 50 miles per hour (mph) and the time is 3 hours, we can plug these values into the formula:\n\n\\[ \\text{Distance} = 50 \\, \\text{mph} \\times 3 \\, \\text{hours} \\]\n\\[ \\text{Distance} = 150 \\, \\text{miles} \\]\n\nSo, the car travels 150 miles in 3 hours at a constant speed of 50 mph."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get \\( \\frac{10}{5} = 2 \\) cookies."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area of a rectangle can be calculated using the formula:\n\n\\[ \\text{Area} = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle is 8 and the width is 3, we can substitute these values into the formula:\n\n\\[ \\text{Area} = 8 \\times 3 \\]\n\\[ \\text{Area} = 24 \\]\n\nSo, the area of the rectangle is 24 square units."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we add 5 hours to this time, it will be 8 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find out the cost of one egg when a dozen (12) eggs cost $3, you can divide the total cost by the number of eggs in a dozen.\n\nSo, the cost per egg is:\n\n\\[ \\text{Cost per egg} = \\frac{\\text{Total cost for a dozen eggs}}{\\text{Number of eggs in a dozen}} \\]\n\n\\[ \\text{Cost per egg} = \\frac{3}{12} = 0.25 \\]\n\nTherefore, one egg costs $0.25 or 25 cents."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week and you want to know how many days are in 4 weeks, you simply multiply the number of days in one week by 4.\n\nSo, \\( 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\).\n\nTherefore, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish a 300-page book if you read 50 pages per day, you can divide the total number of pages by the number of pages you read each day.\n\nSo, you would calculate:\n\n\\[ \\text{Number of days} = \\frac{\\text{Total number of pages}}{\\text{Pages read per day}} = \\frac{300}{50} = 6 \\]\n\nTherefore, it will take 6 days to finish reading the book."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The given sequence is 2, 4, 6, 8. \n\nEach number in this sequence is an even number and increases by 2 from the previous number. Following this pattern:\n\n- The first number is 2.\n- The second number is 2 + 2 = 4.\n- The third number is 4 + 2 = 6.\n- The fourth number is 6 + 2 = 8.\n\nFollowing this rule, the next number in the sequence would be 8 + 2 = 10.\n\nSo, the next number in the sequence is **10**."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is cut into 8 slices and you eat 3 slices, then there would be 5 slices left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and we are looking for the date 10 days from today, we simply add 10 days to January 1st.\n\nJanuary has 31 days, so:\n\n- January 1st to January 31st is 30 days.\n- Adding 10 more days to January 31st brings us to February 8th.\n\nTherefore, 10 days from January 1st would be February 8th."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply need to add the number of red balls to the number of blue balls.\n\nGiven:\n- Number of red balls = 5\n- Number of blue balls = 3\n\nTotal number of balls = Number of red balls + Number of blue balls\nTotal number of balls = 5 + 3\nTotal number of balls = 8\n\nSo, there are 8 balls in total."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9 AM and travels for 4 hours, you can calculate the arrival time by adding 4 hours to the departure time.\n\n9 AM + 4 hours = 1 PM\n\nSo, the train arrives at 1 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much each friend pays when splitting a $30 bill equally among three friends, you would divide the total amount by the number of friends.\n\nSo, you would perform the following calculation:\n\n\\[ \\text{Amount per person} = \\frac{\\$30}{3} \\]\n\n\\[ \\text{Amount per person} = \\$10 \\]\n\nEach friend would pay $10."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared means 7 multiplied by itself, which can be written as \\(7^2\\).\n\nSo, \\(7^2 = 7 \\times 7 = 49\\).\n\nTherefore, 7 squared is 49."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would have 6 months."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Alice has twice as many books as Bob, and Bob has 4 books, then Alice has \\(2 \\times 4 = 8\\) books."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, to find out how many seconds are in 3 minutes, you would multiply 60 seconds by 3:\n\n\\[ 60 \\text{ seconds/minute} \\times 3 \\text{ minutes} = 180 \\text{ seconds} \\]\n\nSo, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "ar|qwen25-3b|0.5|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If you start baking the cake at 2 PM and it takes 1 hour to bake, then the cake will be done at 3 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train in miles per hour, you can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven that the train travels 60 miles in 2 hours, you can plug these values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} \\]\n\n\\[ \\text{Average Speed} = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom originally has 3 apples. After giving 1 apple away, he would have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract the discount from the original price.\n\nFirst, calculate the amount of the discount:\n- The original price of the shirt is $20.\n- The discount is 25%, which can be written as 0.25 in decimal form.\n\n\\[ \\text{Discount Amount} = \\text{Original Price} \\times \\text{Discount Rate} \\]\n\\[ \\text{Discount Amount} = 20 \\times 0.25 \\]\n\\[ \\text{Discount Amount} = 5 \\]\n\nNext, subtract the discount amount from the original price"
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To determine the number of minutes in 2.5 hours, we can use the fact that 1 hour is equal to 60 minutes.\n\nSo, we multiply the number of hours by the number of minutes in one hour:\n\n\\[ 2.5 \\text{ hours} \\times 60 \\text{ minutes/hour} = 150 \\text{ minutes} \\]\n\nTherefore, there are 150 minutes in 2.5 hours."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find the distance traveled, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven that the speed is 50 miles per hour (mph) and the time is 3 hours, we can substitute these values into the formula:\n\n\\[ \\text{Distance} = 50 \\, \\text{mph} \\times 3 \\, \\text{hours} \\]\n\n\\[ \\text{Distance} = 150 \\, \\text{miles} \\]\n\nSo, the car travels a total distance of 150 miles."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, you would divide the total number of cookies by the number of friends. \n\nSo, \\( \\frac{10 \\text{ cookies}}{5 \\text{ friends}} = 2 \\text{ cookies per friend} \\).\n\nEach friend gets 2 cookies."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle is 8 units and the width is 3 units, we substitute these values into the formula:\n\n\\[ A = 8 \\times 3 \\]\n\\[ A = 24 \\]\n\nSo, the area of the rectangle is 24 square units."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and we add 5 hours to this time, the new time will be 8 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg when a dozen (which is 12) eggs cost $3, we need to divide the total cost by the number of eggs in a dozen.\n\nHere's the calculation:\n\n\\[\n\\text{Cost per egg} = \\frac{\\text{Total cost for a dozen eggs}}{\\text{Number of eggs in a dozen}}\n\\]\n\nGiven:\n- Total cost for a dozen eggs = $3\n- Number of eggs in a dozen = 12\n\nSo,\n\n\\[\n\\text{Cost per egg} = \\frac{3}{12} = 0.25\n\\]\n\nTherefore, the cost of one egg is $0.25 or 25 cents."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week, then in 4 weeks there would be:\n\n\\( 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\)\n\nSo, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish a 300-page book if you read 50 pages per day, you can divide the total number of pages by the number of pages you read each day.\n\nSo, \\( \\frac{300 \\text{ pages}}{50 \\text{ pages/day}} = 6 \\text{ days} \\).\n\nIt will take you 6 days to finish reading the book."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The given sequence is: 2, 4, 6, 8.\n\nEach number in this sequence is an even number and increases by 2 from the previous number. Therefore, the next number in the sequence would be:\n\n\\[ 8 + 2 = 10 \\]\n\nSo, the next number in the sequence is **10**."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is initially cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there are 5 slices left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st, then in 10 days, the date will be January 11th."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 is equal to 25."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls to the number of blue balls:\n\n- Number of red balls = 5\n- Number of blue balls = 3\n\nTotal number of balls = Number of red balls + Number of blue balls\nTotal number of balls = 5 + 3 = 8\n\nSo, there are 8 balls in total in the bag."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9:00 AM and travels for 4 hours, you would add 4 hours to the departure time.\n\n9:00 AM + 4 hours = 1:00 PM\n\nSo, the train arrives at 1:00 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "If the total bill is $30 and it is to be split equally among three friends, you would divide $30 by 3.\n\nSo, each friend would pay:\n\n\\[ \\frac{30}{3} = 10 \\]\n\nEach friend pays $10."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49. This means 7 times 7 equals 49."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would have 6 months."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To find out how many books Alice has, we can use the information provided:\n\n1. Alice has twice as many books as Bob.\n2. Bob has 4 books.\n\nTherefore, if Bob has 4 books, Alice would have \\(2 \\times 4 = 8\\) books. \n\nSo, Alice has 8 books."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, there are \\(3 \\times 60 = 180\\) seconds in 3 minutes."
+ },
+ {
+  "id": "ar|qwen25-3b|0.7|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If you start baking the cake at 2:00 PM and it takes 1 hour to bake, the cake will be done at 3:00 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, we can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven that the train travels 60 miles in 2 hours, we can plug these values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} = 30 \\text{ miles per hour} \\]\n\nSo, the train's average speed is 30 miles per hour."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom originally has 3 apples. If he gives 1 apple away, then he will have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of the shirt after a 25% discount, you first determine the amount of the discount and then subtract that from the original price.\n\n1. Calculate the discount amount:\n\\[ \\text{Discount Amount} = \\text{Original Price} \\times \\text{Discount Rate} \\]\n\\[ \\text{Discount Amount} = \\$20 \\times 25\\% = \\$20 \\times 0.25 = \\$5 \\]\n\n2. Subtract the discount amount from the original price to find the sale price:\n\\[ \\text{Sale Price} = \\text{Original Price} - \\text{Discount Amount} \\]\n\\[ \\text{Sale Price} = \\$20 - \\$"
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To convert hours into minutes, you need to multiply the number of hours by 60 because there are 60 minutes in an hour.\n\nFor 2.5 hours:\n\n\\[ 2.5 \\text{ hours} \\times 60 \\text{ minutes/hour} = 150 \\text{ minutes} \\]\n\nSo, there are 150 minutes in 2.5 hours."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To find out how far the car travels, we can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven that the car is traveling at a speed of 50 miles per hour (mph) for a period of 3 hours, we can substitute these values into the formula:\n\n\\[ \\text{Distance} = 50 \\text{ mph} \\times 3 \\text{ hours} \\]\n\\[ \\text{Distance} = 150 \\text{ miles} \\]\n\nSo, the car travels 150 miles."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get \\( \\frac{10}{5} = 2 \\) cookies. So, each of the 5 friends gets 2 cookies."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length of the rectangle is 8 and the width is 3, we can substitute these values into the formula:\n\n\\[ A = 8 \\times 3 \\]\n\n\\[ A = 24 \\]\n\nSo, the area of the rectangle is 24 square units."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is currently 3 PM and you want to know what time it will be in 5 hours, you simply add 5 hours to the current time.\n\nSo, 3 PM + 5 hours = 8 PM.\n\nTherefore, in 5 hours from now, it will be 8 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg when a dozen (12) eggs cost $3, we can follow these steps:\n\n1. Identify the total number of eggs in a dozen.\n   - A dozen is equal to 12 eggs.\n\n2. Identify the total cost for a dozen eggs.\n   - The total cost for a dozen (12) eggs is $3.\n\n3. Calculate the cost of one egg by dividing the total cost by the number of eggs in a dozen.\n   - Cost per egg = Total cost for a dozen eggs / Number of eggs in a dozen\n\nSo, the calculation would be:\n\\[\n\\text{Cost per egg} = \\frac{3}{12} = \\$0.25"
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 28 days in 4 weeks. This can be calculated by multiplying the number of days in one week (7) by the number of weeks (4), which gives \\(7 \\times 4 = 28\\)."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish the book given that you read 50 pages per day, you can divide the total number of pages by the number of pages read per day.\n\nIn this case, the total number of pages in the book is 300, and you read 50 pages per day. So, we calculate:\n\n\\[ \\text{Number of days} = \\frac{\\text{Total number of pages}}{\\text{Pages read per day}} = \\frac{300}{50} = 6 \\]\n\nTherefore, it will take 6 days to finish the book."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The sequence provided is 2, 4, 6, 8. This sequence is an arithmetic progression where each number increases by 2 from the previous one.\n\nTo find the next number in the sequence, we add 2 to the last number:\n\n- First term: 2\n- Second term: 4 (2 + 2)\n- Third term: 6 (4 + 2)\n- Fourth term: 8 (6 + 2)\n\nFollowing this pattern, the next term would be:\n- Fifth term: 10 (8 + 2)\n\nTherefore, the next number in the sequence is **10**."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is initially cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there are 5 slices left."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st and we're looking for the date 10 days from today, we simply add 10 days to January 1st.\n\nJanuary has 31 days, so:\n- After adding 1 day to January 1st, we reach January 2nd.\n- After adding another day, we reach January 3rd.\n- This pattern continues until we have added 29 days, reaching January 29th.\n- After adding one more day (the 30th), we will have added a total of 30 days.\n- Finally, adding the last day (the 31st) brings us to 31 days, which means we move into February.\n\nSo"
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To determine the total number of balls in the bag, you need to add the number of red balls to the number of blue balls. \n\nIn this case, there are 5 red balls and 3 blue balls. Adding these together:\n\n\\[ 5 \\text{ (red balls)} + 3 \\text{ (blue balls)} = 8 \\text{ (total balls)} \\]\n\nSo, there are 8 balls in total."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9 AM and travels for 4 hours, you would add 4 hours to the departure time.\n\n9 AM + 4 hours = 1 PM\n\nTherefore, the train arrives at 1 PM."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "If the bill of $30 is to be split equally among three friends, you would divide the total amount by the number of friends:\n\n\\[ \\text{Amount per person} = \\frac{\\$30}{3} = \\$10 \\]\n\nSo, each friend pays $10."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared (7\u00b2) means 7 multiplied by itself:\n\n\\[ 7 \\times 7 = 49 \\]\n\nSo, 7 squared is 49."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year would consist of 6 months."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Alice has twice as many books as Bob and Bob has 4 books, then Alice has \\(2 \\times 4 = 8\\) books."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To calculate the number of seconds in 3 minutes, we need to know that there are 60 seconds in one minute.\n\nSo, for 3 minutes:\n\\[ 3 \\text{ minutes} \\times 60 \\text{ seconds/minute} = 180 \\text{ seconds} \\]\n\nTherefore, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "ar|qwen25-3b|0.9|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If you start baking the cake at 2 PM and it takes 1 hour to bake, it will be done at 3 PM."
+ }
+]

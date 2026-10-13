@@ -1,0 +1,452 @@
+[
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|3",
+    "correct": false,
+    "reason": "truncated mid-calculation, no final sale price stated"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|23",
+    "correct": false,
+    "reason": "wrong: 9AM+4hrs=1PM, not 11AM"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|23",
+    "correct": true,
+    "reason": "correctly computes 1 PM arrival"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|28",
+    "correct": true,
+    "reason": "correctly states 180 seconds"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|3",
+    "correct": false,
+    "reason": "truncated before final sale price stated"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|23",
+    "correct": true,
+    "reason": "correctly computes 1:00 PM arrival"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|23",
+    "correct": true,
+    "reason": "correctly states 1 PM arrival"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|23",
+    "correct": false,
+    "reason": "wrong: states 3 PM instead of 1 PM"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|3",
+    "correct": true,
+    "reason": "clearly states $15 sale price before truncation"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|8",
+    "correct": true,
+    "reason": "correctly states 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|23",
+    "correct": true,
+    "reason": "correctly concludes 1 PM despite odd preamble"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|8",
+    "correct": true,
+    "reason": "correctly states 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|23",
+    "correct": false,
+    "reason": "wrong: states 3 PM instead of 1 PM"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|23",
+    "correct": true,
+    "reason": "correctly computes 1 PM arrival"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|3",
+    "correct": false,
+    "reason": "never reaches a final sale price"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|23",
+    "correct": true,
+    "reason": "correctly computes 1 PM arrival"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|28",
+    "correct": false,
+    "reason": "never states a final seconds total"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|23",
+    "correct": false,
+    "reason": "nonsensical reasoning, no valid final time given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|28",
+    "correct": true,
+    "reason": "correctly states 180 seconds"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|3",
+    "correct": false,
+    "reason": "incorrectly gives discount amount $5 as sale price"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|18",
+    "correct": false,
+    "reason": "refuses to answer, no final value given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|23",
+    "correct": false,
+    "reason": "wrong: concludes 1 AM instead of 1 PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|3",
+    "correct": true,
+    "reason": "correctly computes $15 sale price"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|23",
+    "correct": false,
+    "reason": "wrong: concludes 10 PM instead of 1 PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|3",
+    "correct": false,
+    "reason": "truncated before final sale price stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|8",
+    "correct": false,
+    "reason": "truncated before final cookie count stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|13",
+    "correct": true,
+    "reason": "correctly computes 28 days"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|23",
+    "correct": false,
+    "reason": "truncated before final arrival time stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|3",
+    "correct": false,
+    "reason": "truncated before final sale price stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|8",
+    "correct": true,
+    "reason": "correctly computes 2 cookies per friend"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|13",
+    "correct": false,
+    "reason": "truncated before final days total stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|23",
+    "correct": false,
+    "reason": "truncated before final arrival time stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|28",
+    "correct": false,
+    "reason": "wrong: states 1800 seconds instead of 180"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|3",
+    "correct": false,
+    "reason": "truncated before final sale price stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|8",
+    "correct": false,
+    "reason": "truncated before final cookie count stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|13",
+    "correct": false,
+    "reason": "truncated before final days total stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|18",
+    "correct": true,
+    "reason": "states 100 centimeters in 1 meter"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|23",
+    "correct": false,
+    "reason": "wrong: states 1:40 PM instead of 1:00 PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|28",
+    "correct": true,
+    "reason": "correctly computes 180 seconds"
+  }
+]

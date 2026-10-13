@@ -1,0 +1,252 @@
+[
+ {
+  "id": "minicpm5-gsm8k-k256-t70|2",
+  "correct": false,
+  "reason": "States two separate weights, never sums combined total"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|5",
+  "correct": false,
+  "reason": "0.0955 does not match gold 5"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|8",
+  "correct": false,
+  "reason": "Repetitive garbage, no coherent final answer stated"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|11",
+  "correct": false,
+  "reason": "62 minutes stated, gold is 78"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|14",
+  "correct": false,
+  "reason": "Lists many guest counts, never resolves final answer"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|17",
+  "correct": false,
+  "reason": "Lists multiple-choice options, no answer selected"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|20",
+  "correct": true,
+  "reason": "Clearly states 4 classes first, matches gold"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|23",
+  "correct": true,
+  "reason": "States 80 cm, matches gold with consistent math"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|26",
+  "correct": false,
+  "reason": "States $250, gold is 100"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|29",
+  "correct": false,
+  "reason": "Lists options A-P, never selects final answer"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|32",
+  "correct": false,
+  "reason": "Lists options, no final answer chosen"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|35",
+  "correct": false,
+  "reason": "Selects B:10, gold is 5"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|38",
+  "correct": false,
+  "reason": "Messy options, no value matches gold 245"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|41",
+  "correct": false,
+  "reason": "Options listed, none match gold 96"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|44",
+  "correct": true,
+  "reason": "States 15 pomelos, matches gold"
+ },
+ {
+  "id": "minicpm5-gsm8k-k256-t70|47",
+  "correct": false,
+  "reason": "States 42, gold is 147"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|0",
+  "correct": false,
+  "reason": "States 70, gold is 70000, not equivalent"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|3",
+  "correct": false,
+  "reason": "Computes 120 but final line says 20, unresolved"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|6",
+  "correct": true,
+  "reason": "Bare answer 10 matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|9",
+  "correct": true,
+  "reason": "States 21, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|12",
+  "correct": true,
+  "reason": "States 40, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|15",
+  "correct": false,
+  "reason": "States $320, gold is 300"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|18",
+  "correct": false,
+  "reason": "Boxed 60, gold is 40"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|21",
+  "correct": false,
+  "reason": "Final stated 8 contradicts own derivation and gold 10"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|24",
+  "correct": false,
+  "reason": "Empty answer, no attempt"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|27",
+  "correct": true,
+  "reason": "States $4,500 total, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|30",
+  "correct": true,
+  "reason": "States 15, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|33",
+  "correct": false,
+  "reason": "Empty answer, no attempt"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|36",
+  "correct": true,
+  "reason": "States $2 per hour, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|39",
+  "correct": false,
+  "reason": "Empty answer, no attempt"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|42",
+  "correct": false,
+  "reason": "States 24 profit, gold is 16 loss"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|45",
+  "correct": true,
+  "reason": "States 30 minutes, matches gold"
+ },
+ {
+  "id": "dream-gsm8k-k256-t70|48",
+  "correct": true,
+  "reason": "Boxed 7 matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|1",
+  "correct": true,
+  "reason": "States 25 miles, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|4",
+  "correct": true,
+  "reason": "States 5 dollars, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|7",
+  "correct": true,
+  "reason": "Boxed 100 matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|10",
+  "correct": true,
+  "reason": "States 90 cents left, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|13",
+  "correct": true,
+  "reason": "States winning by 5 points, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|16",
+  "correct": false,
+  "reason": "States 48 hours, gold is 36"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|19",
+  "correct": true,
+  "reason": "States $3000, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|22",
+  "correct": true,
+  "reason": "States $240, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|25",
+  "correct": false,
+  "reason": "States $6.67, gold is 5"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|28",
+  "correct": false,
+  "reason": "States 10,000 bars, gold is 14000"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|31",
+  "correct": false,
+  "reason": "Gives separate red/blue counts, no combined total 10"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|34",
+  "correct": true,
+  "reason": "States $12, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|37",
+  "correct": false,
+  "reason": "Non-integer answer for wrong set, gold is 10"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|40",
+  "correct": true,
+  "reason": "Boxed 105 matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|43",
+  "correct": true,
+  "reason": "Boxed 1200 matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|46",
+  "correct": true,
+  "reason": "States 120 calls, matches gold"
+ },
+ {
+  "id": "lladamoe-gsm8k-k256-t70|49",
+  "correct": true,
+  "reason": "Boxed 594 matches gold"
+ }
+]

@@ -1,0 +1,654 @@
+{
+  "ar_model": "qwen25-1.5b",
+  "ar_temperature": 0.7,
+  "diffu_model": "dream",
+  "diffu_temperature": 0.7,
+  "truthful_pct": 59.78260869565217,
+  "hallucinated_count": 37,
+  "comparisons": [
+    {
+      "question": "What is the capital of France?",
+      "ar_response": "The capital of France is Paris.",
+      "diffu_response": "The capital of France is Paris.",
+      "nli_score": 0.9482372999191284,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote Romeo and Juliet?",
+      "ar_response": "Romeo and Juliet was written by William Shakespeare.",
+      "diffu_response": "Romeo and Juliet was written by William Shakespeare.",
+      "nli_score": 0.9036343693733215,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "ar_response": "The largest planet in our solar system is Jupiter. It has a diameter of approximately 86,881 miles (139,822 kilometers), which is about 11",
+      "diffu_response": "The largest planet in our solar system is Jupiter.",
+      "nli_score": 0.9765847325325012,
+      "hallucinated": false
+    },
+    {
+      "question": "When was the Declaration of Independence signed?",
+      "ar_response": "The Declaration of Independence was signed on July 4, 1776. This document declared the thirteen American colonies independent from British rule and is considered one of the most important documents in United States",
+      "diffu_response": "The Declaration of Independence was signed on July 4, 1776. It was a pivotal moment in American history, marking the beginning of the United States' independence from British rule.",
+      "nli_score": 0.9880345463752747,
+      "hallucinated": false
+    },
+    {
+      "question": "How many bones are in the human body?",
+      "ar_response": "The human body contains about 206 bones. However, this number can vary slightly depending on which sources you consult. The exact count can sometimes differ due to factors such as bone density and how",
+      "diffu_response": "There are 206 bones in the human bones...",
+      "nli_score": 0.2769796848297119,
+      "hallucinated": true
+    },
+    {
+      "question": "Who invented the telephone?",
+      "ar_response": "The telephone was invented by Alexander Graham Bell in 1876.",
+      "diffu_response": "The telephone was invented by Alexander Graham Bell.",
+      "nli_score": 0.9363039135932922,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "ar_response": "The chemical formula for water is H2O. This means that each molecule of water consists of two hydrogen atoms covalently bonded to one oxygen atom.",
+      "diffu_response": "The chemical formula for water is H2O.",
+      "nli_score": 0.30016589164733887,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the speed of light?",
+      "ar_response": "The speed of light in a vacuum is approximately \\( 299,792,458 \\) meters per second (m/s), which is often rounded to \\( 30",
+      "diffu_response": "The speed of light in approximately 186,282 miles per second.",
+      "nli_score": 0.4539864957332611,
+      "hallucinated": true
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "ar_response": "Leonardo da Vinci painted \"The Mona Lisa.\" He was an Italian painter, sculptor, and scientist who lived during the Renaissance period. The Mona Lisa is one of his most famous works, known",
+      "diffu_response": "The Mona Lisa was painted by Leonardo da Vinci.",
+      "nli_score": 0.9767136573791504,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "ar_response": "The smallest country in the world by land area is Vatican City (also known as the Holy See). It occupies an area of only 0.44 square kilometers and has a population of around",
+      "diffu_response": "Vatican City",
+      "nli_score": 0.0054369596764445305,
+      "hallucinated": true
+    },
+    {
+      "question": "How many continents are there?",
+      "ar_response": "There are seven continents in the world:\n\n1. Asia\n2. Africa\n3. North America\n4. South America\n5. Antarctica (not traditionally considered a continent but often included)\n6",
+      "diffu_response": "There are seven continents. Continents is one of the major divisions divisions of Earth. The They are are Asia, Africa, Europe, Australia, Antarctica, North America, and South America..",
+      "nli_score": 0.9679775834083557,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "ar_response": "The capital of Japan is Tokyo.",
+      "diffu_response": "The capital of Japan is Tokyo.",
+      "nli_score": 0.9195445775985718,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was the first president of the United States?",
+      "ar_response": "The first president of the United States was George Washington. He served from April 30, 1789 to March 4, 1797.",
+      "diffu_response": "The first president of the United States was George Washington. He was inaugurated April 30, 1789, and served until March 4, 1797.",
+      "nli_score": 0.9826545119285583,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the boiling point of water?",
+      "ar_response": "The boiling point of water at standard atmospheric pressure (1 atmosphere or 101.325 kPa) is 100 degrees Celsius (212 degrees Fahrenheit). This temperature",
+      "diffu_response": "The boiling point of water is 100 degrees Celsius.",
+      "nli_score": 0.14901547133922577,
+      "hallucinated": true
+    },
+    {
+      "question": "How long does it take Earth to orbit the Sun?",
+      "ar_response": "The time it takes for Earth to complete one full orbit around the Sun is called its orbital period. This period is approximately 365.25 days or one year.\n\nTo break this down",
+      "diffu_response": "It takes Earth approximately 365 days to orbit the Sun.",
+      "nli_score": 0.3834914267063141,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the Pythagorean theorem?",
+      "ar_response": "The Pythagorean theorem is a fundamental principle in Euclidean geometry that describes the relationship between the sides of a right-angled triangle. It states:\n\nIn any right-angled triangle, the square of",
+      "diffu_response": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides.",
+      "nli_score": 0.5993682146072388,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote 1984?",
+      "ar_response": "George Orwell wrote \"1984\".",
+      "diffu_response": "George Orwell wrote 1984.",
+      "nli_score": 0.9918956160545349,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Great Wall of China?",
+      "ar_response": "The Great Wall of China is a series of fortifications built along the southern coast of the Asian continent to protect against invasions from northwestern nomadic groups such as the Mongols and Turkic peoples",
+      "diffu_response": "The Great Wall of China is a massive series of fort walls and defensiveions that built across the northern borders of China from protect against from invasions by nomadic tribes and other forces em powers.",
+      "nli_score": 0.6492131948471069,
+      "hallucinated": false
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "ar_response": "A triangle has three sides.",
+      "diffu_response": "A triangle has three sides.",
+      "nli_score": 0.9019916653633118,
+      "hallucinated": false
+    },
+    {
+      "question": "What is photosynthesis?",
+      "ar_response": "Photosynthesis is the process by which green plants use sunlight to convert carbon dioxide and water into glucose and oxygen. During this process, the plant's chlorophyll molecules capture light energy, which is used",
+      "diffu_response": "Photosynthesis is a process by which plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose, using carbon dioxide and water, with a byproduct of oxygen.",
+      "nli_score": 0.3233688771724701,
+      "hallucinated": true
+    },
+    {
+      "question": "Who discovered gravity?",
+      "ar_response": "The concept of gravitational force was first proposed by Sir Isaac Newton in his work \"Philosophi\u00e6 Naturalis Principia Mathematica\" published in 1687. In this work, he",
+      "diffu_response": "Sir Isaac Newton discovered gravity",
+      "nli_score": 0.9637985825538635,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the currency of Germany?",
+      "ar_response": "The currency of Germany is the Euro (\u20ac). The euro became official legal tender in 2002 after Germany joined the European Union and adopted the euro as its currency. Prior to that,",
+      "diffu_response": "The currency of Germany is the euro.).",
+      "nli_score": 0.8931500315666199,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "ar_response": "The largest ocean on Earth is the Pacific Ocean.\n\nKey points about the Pacific Ocean:\n\n1. It covers approximately 63% of the Earth's surface and contains about 40% of its",
+      "diffu_response": "The largest ocean on Earth is the Pacific Ocean. It covers approximately 64% million square miles, which is about 28% larger than the combined surface of all the other oceans.",
+      "nli_score": 0.31170809268951416,
+      "hallucinated": true
+    },
+    {
+      "question": "Who wrote the Bible?",
+      "ar_response": "The Bible was written over a period of about 1500 years, from around 280 BC to AD 300. It contains books and letters written in Hebrew, Ar",
+      "diffu_response": "The Bible was written by many authors over a period of about 1,000 years. The main authors of the Bible are Moses, David, Isaiah, John, and unknown authors",
+      "nli_score": 0.8250476717948914,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the population of China?",
+      "ar_response": "The exact population of China varies depending on when and how it's calculated. As of 2021, China had an estimated population of approximately 1.4 billion people.",
+      "diffu_response": "As of the latest data data, China has an estimated population of around 1.4 billion people. Please check that figure for the most recent information, as population can change over time.",
+      "nli_score": 0.6430888772010803,
+      "hallucinated": false
+    },
+    {
+      "question": "What is DNA?",
+      "ar_response": "DNA stands for Deoxyribonucleic Acid. It is the genetic material that contains instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses. DNA molecules",
+      "diffu_response": "DNA, or deoxyribonucleic acid, is a molecule that contains the genetic instructions used in the development and functioning of living organisms. It is often of the building blocks of life.",
+      "nli_score": 0.26654696464538574,
+      "hallucinated": true
+    },
+    {
+      "question": "Who invented the internet?",
+      "ar_response": "The Internet was invented in the 1960s and early 1970s by scientists working on military projects for the U.S. Department of Defense. The first version of what",
+      "diffu_response": "The internet was invented by Al",
+      "nli_score": 0.027184074744582176,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the distance from Earth to the Sun?",
+      "ar_response": "The average distance from the Earth to the Sun (also known as the astronomical unit) is approximately 93 million miles or about 149.6 million kilometers. This measurement has been standardized",
+      "diffu_response": "The distance from Earth to the Sun is approximately 149.6 million kilometers or 92.9 million miles. This is known to astronomers as 1 astronomical unit (AU).",
+      "nli_score": 0.9688801765441895,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote Hamlet?",
+      "ar_response": "William Shakespeare is the author of \"Hamlet.\" He was an English playwright and poet who lived from 1564 to 1616. \"Hamlet\" is one of his",
+      "diffu_response": "William Shakespeare wrote Hamlet.",
+      "nli_score": 0.9840474724769592,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "ar_response": "The capital of Brazil is Bras\u00edlia.",
+      "diffu_response": "The capital of Brazil is Bras\u00edlia.",
+      "nli_score": 0.17776180803775787,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the highest mountain in the world?",
+      "ar_response": "The highest mountain in the world is Mount Everest, which stands at an altitude of 8,848 meters above sea level on the border between China and Nepal. It was first climbed successfully in",
+      "diffu_response": "The highest mountain in the world is Mount Everest. It is located in the Himalayas.",
+      "nli_score": 0.5860940217971802,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was Abraham Lincoln?",
+      "ar_response": "Abraham Lincoln (January 12, 1809 - April 15, 1865) was an American statesman and lawyer who served as the 16",
+      "diffu_response": "Abraham Lincoln was the 16th President of the United States. He was born in 1809 and served from 1861 to 1865.",
+      "nli_score": 0.014944248832762241,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "ar_response": "The freezing point of water is 0 degrees Celsius (32 degrees Fahrenheit) or 273.15 Kelvin. At this temperature and pressure, water transitions from its liquid state to its",
+      "diffu_response": "The freezing point of water is 0 degrees Celsius (32 degrees Fahrenheit).",
+      "nli_score": 0.3814956247806549,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "ar_response": "The capital of Australia is Canberra.",
+      "diffu_response": "The capital of Australia is Canberra.",
+      "nli_score": 0.9749048948287964,
+      "hallucinated": false
+    },
+    {
+      "question": "Who invented the printing press?",
+      "ar_response": "The invention of the printing press is attributed to Johannes Gutenberg, a German goldsmith and printer who lived in Mainz from 1400 until his death in 1468. Gutenberg",
+      "diffu_response": "J printing press was invented by German Gutenberg.  This is considered device that would be a turning point in the scientific revolution.  It would allow for the spread of information among and easier.",
+      "nli_score": 0.08840018510818481,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the periodic table?",
+      "ar_response": "The periodic table is a tabular arrangement of chemical elements, ordered by atomic number, electron configuration, and recurring chemical properties. It was first published in 1869 by Dmitri Mendele",
+      "diffu_response": "The periodic table is a tab of elements elements. This is a way of organizing all of elements. The largest elements are on the bottom row, and the smallest elements are on the top row.",
+      "nli_score": 0.3125876486301422,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Egypt?",
+      "ar_response": "The capital of Egypt is Cairo.",
+      "diffu_response": "The capital of Egypt is Cairo.",
+      "nli_score": 0.930773138999939,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was Cleopatra?",
+      "ar_response": "Cleopatra VII Philopator (30 B.C.E. \u2013 5 C.E.), also known as the \"Queen of Egypt\", was an Egyptian queen and one of the most influential",
+      "diffu_response": "Cleopatra was the last pharaoh of Egypt. She was the daughter of Ptolemy and and Cleopatra. She was married by her sister also named Cleopatra.",
+      "nli_score": 0.00806084368377924,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of India?",
+      "ar_response": "The capital of India is New Delhi.",
+      "diffu_response": "The capital of India is New Delhi.",
+      "nli_score": 0.9622556567192078,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Great Barrier Reef?",
+      "ar_response": "The Great Barrier Reef is an extensive coral reef system that stretches over 2,300 kilometers along the northeastern coast of Australia. It's one of the world's largest and most diverse collections of",
+      "diffu_response": "The Great Barrier Reef is a world famous coral reef located off the coast of Queensland, Australia. It is the worlds largest reef reef system, it stretches over 2000 km long.",
+      "nli_score": 0.657285749912262,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote Pride and Prejudice?",
+      "ar_response": "Jane Austen wrote \"Pride and Prejudice\". She was an English novelist known for her witty dialogue and keen observations of the social norms of her time in works like \"Sense and Sensibility",
+      "diffu_response": "Pride and Prejudice was written by Jane Austen.",
+      "nli_score": 0.9906147718429565,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "ar_response": "The capital of Canada is Ottawa.",
+      "diffu_response": "The capital of Canada is Ottawa.",
+      "nli_score": 0.8177812099456787,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Statue of Liberty?",
+      "ar_response": "The Statue of Liberty is a colossal statue located in New York Harbor on Liberty Island, part of the United States, and has been a symbol of freedom and democracy since it was dedicated in 18",
+      "diffu_response": "The Statue of Liberty is a.",
+      "nli_score": 0.026479236781597137,
+      "hallucinated": true
+    },
+    {
+      "question": "Who invented the telephone?",
+      "ar_response": "The telephone was invented in 1876 by Alexander Graham Bell.",
+      "diffu_response": "The telephone was invented by Alexander Graham Bell.",
+      "nli_score": 0.9363039135932922,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of France?",
+      "ar_response": "The capital of France is Paris.",
+      "diffu_response": "The capital of France is Paris.",
+      "nli_score": 0.9482372999191284,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "ar_response": "The largest desert in the world is the Antarctic Desert.\n\nKey points about the Antarctic Desert:\n\n1. It covers an area of approximately 5.4 million square kilometers (2.1 million square miles",
+      "diffu_response": "The largest desert in the world is the Sahara Desert.",
+      "nli_score": 0.8060289621353149,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote War and Peace?",
+      "ar_response": "War and Peace was written by Leo Tolstoy.",
+      "diffu_response": "War and Peace was written by Leo Leovich Tolstoy.",
+      "nli_score": 0.9864510297775269,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Spain?",
+      "ar_response": "The capital of Spain is Madrid.",
+      "diffu_response": "The capital of Spain is Madrid.",
+      "nli_score": 0.9188024997711182,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Eiffel Tower?",
+      "ar_response": "The Eiffel Tower is an iconic landmark in Paris, France. It was designed and built between 1887 and 1889 by Gustave Eiffel for the World",
+      "diffu_response": "The Eiffel Tower is a wrought iron lattice tower located in Paris, France. It is a famous landmark.",
+      "nli_score": 0.7057148218154907,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was Julius Caesar?",
+      "ar_response": "Julius Caesar (100 BC \u2013 44 BC) was a Roman statesman and military leader who lived during the late Roman Republic period. He is widely regarded as one of the most",
+      "diffu_response": "Julius Caesar was a Roman general who became the dictator of the Roman Republic. He is famous for as one of the most powerful leaders of his time, who laid the foundation for the Roman Empire.",
+      "nli_score": 0.00579132791608572,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "ar_response": "The capital of Russia is Moscow.",
+      "diffu_response": "The capital of Russia is Moscow.",
+      "nli_score": 0.6357571482658386,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Amazon Rainforest?",
+      "ar_response": "The Amazon Rainforest, also known as the Amazon Jungle or Amazonia, is the world's largest tropical rainforest located in South America. It covers an area of about 5.5 million square",
+      "diffu_response": "The Amazon Rainforest is a tropical rainforest located spans across South America and South America's largest rainforest. It is home to approximately 10% of Earth's known species of life.",
+      "nli_score": 0.3899209201335907,
+      "hallucinated": true
+    },
+    {
+      "question": "Who wrote The Great Gatsby?",
+      "ar_response": "The Great Gatsby was written by F. Scott Fitzgerald.",
+      "diffu_response": "F. Scott Fitzgerald",
+      "nli_score": 0.722665548324585,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Italy?",
+      "ar_response": "The capital of Italy is Rome.",
+      "diffu_response": "The capital of Italy is Rome.",
+      "nli_score": 0.9733784794807434,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Colosseum?",
+      "ar_response": "The Colosseum (also known as the Flavian Amphitheatre) is an ancient Roman amphitheater located in Rome, Italy. It was built between 70 and 80",
+      "diffu_response": "The Colosseum is an ancient amphitheater in Rome, Italy, built between Emperor Vespasian's (70-79 AD) and Emperor Tititian's reign.",
+      "nli_score": 0.8813133239746094,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was Napoleon Bonaparte?",
+      "ar_response": "Napoleon Bonaparte (1769-1821) was an Italian-born military and political leader who played a significant role in shaping modern Europe. Here are some key points",
+      "diffu_response": "Napoleon Bonaparte was a French military leader and emperor who led France.",
+      "nli_score": 0.3874121904373169,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Mexico?",
+      "ar_response": "The capital of Mexico is Mexico City.",
+      "diffu_response": "The capital of Mexico is Mexico City.",
+      "nli_score": 0.7940316200256348,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Grand Canyon?",
+      "ar_response": "The Grand Canyon is one of the most famous natural wonders in the world and is located in Arizona, United States. It was formed over millions of years when parts of the Earth's crust were pushed up",
+      "diffu_response": "The Grand Canyon is a natural canyon and rock formation located of Arizona",
+      "nli_score": 0.09723560512065887,
+      "hallucinated": true
+    },
+    {
+      "question": "Who wrote Moby Dick?",
+      "ar_response": "Moby-Dick is a novel written by Herman Melville. It was first published in 1851 and became one of the most famous works of American literature during the mid-19",
+      "diffu_response": "Moby Dick was written by Herman Melville.",
+      "nli_score": 0.6496769785881042,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Greece?",
+      "ar_response": "The capital of Greece is Athens.",
+      "diffu_response": "The capital of Greece is Athens.",
+      "nli_score": 0.5267370343208313,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Acropolis?",
+      "ar_response": "The Acropolis (Ancient Greek: \u1f08\u03ba\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2) is an ancient citadel located on a rocky outcrop in Athens, Greece. It has served as",
+      "diffu_response": "The Acropolis of Athens is a hilltop site where the Acthenian temple built by the ancient Greeks to Athena Athena was built, and served as a political and theological center of Greece.",
+      "nli_score": 0.056491669267416,
+      "hallucinated": true
+    },
+    {
+      "question": "Who was Alexander the Great?",
+      "ar_response": "Alexander III of Macedon, also known as Alexander the Great, was a Greek king who ruled over the ancient kingdom of Macedonia from 336 to 323 BC. He is considered",
+      "diffu_response": "Alexander the Great was a.",
+      "nli_score": 0.04747913032770157,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Turkey?",
+      "ar_response": "The capital of Turkey is Ankara.",
+      "diffu_response": "The capital of Turkey is Ankara.",
+      "nli_score": 0.8828456997871399,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Taj Mahal?",
+      "ar_response": "The Taj Mahal is a mausoleum located in Agra, India. It was built between 1632 and 1653 by Mughal emperor Shah Jahan",
+      "diffu_response": "The Taj Mahal is a white marble mausoleum located in Agra, India.",
+      "nli_score": 0.5794214606285095,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote Don Quixote?",
+      "ar_response": "Don Quixote is the work of Miguel de Cervantes Saavedra, an important Spanish author from the 16th century who lived in Seville, Spain. It was first published",
+      "diffu_response": "Don Quixote is a novel written by Miguel de Cervantes.",
+      "nli_score": 0.15810735523700714,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of South Korea?",
+      "ar_response": "The capital of South Korea is Seoul.",
+      "diffu_response": "The capital of South Korea is Seoul.",
+      "nli_score": 0.9487042427062988,
+      "hallucinated": false
+    },
+    {
+      "question": "What is Mount Fuji?",
+      "ar_response": "Mount Fuji (\u5bcc\u58eb\u5c71; F\u016bseshima) is the highest peak in Japan and one of its most recognizable landmarks. Here are some key points about Mount Fuji:\n\n1. Location:",
+      "diffu_response": "Mount Fuji is a dormant volcanic volcano located in Japan.",
+      "nli_score": 0.14043211936950684,
+      "hallucinated": true
+    },
+    {
+      "question": "Who was Leonardo da Vinci?",
+      "ar_response": "Leonardo da Vinci (1452-1519) was an Italian polymath who excelled in many fields including art, science, engineering, and invention.\n\nHe is considered one",
+      "diffu_response": "Leonardo da Vinci was a Renaissance",
+      "nli_score": 0.03140830621123314,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Thailand?",
+      "ar_response": "The capital of Thailand is Bangkok.",
+      "diffu_response": "The capital of Thailand is Bangkok.",
+      "nli_score": 0.9542535543441772,
+      "hallucinated": false
+    },
+    {
+      "question": "What is Angkor Wat?",
+      "ar_response": "Angkor Wat is a massive temple complex located in Cambodia that dates back to the 12th century AD. It was built as a Hindu temple dedicated to the god Vishnu and later converted into",
+      "diffu_response": "Angkor Wat is a large temple complex located in Cambodia. It is one of the most visited and important archaeological sites in the world. It was built in the 9th century A AD.",
+      "nli_score": 0.14238430559635162,
+      "hallucinated": true
+    },
+    {
+      "question": "Who wrote Crime and Punishment?",
+      "ar_response": "Fyodor Dostoevsky is the author of \"Crime and Punishment\".",
+      "diffu_response": "Crime and Punishment was written by Fyodor Dostoevsky.",
+      "nli_score": 0.9853988885879517,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Vietnam?",
+      "ar_response": "The capital of Vietnam is Hanoi.",
+      "diffu_response": "The capital of Vietnam is Hanoi.",
+      "nli_score": 0.929632842540741,
+      "hallucinated": false
+    },
+    {
+      "question": "What is Ha Long Bay?",
+      "ar_response": "Ha Long Bay is a UNESCO World Heritage Site located in the northern part of Vietnam's Quang Ninh Province. It consists of over 1900 islands and is known for its stunning natural",
+      "diffu_response": "Ha Long Bay is a natural wonder located in the North Central region of Vietnam.",
+      "nli_score": 0.39765632152557373,
+      "hallucinated": true
+    },
+    {
+      "question": "Who was Vincent van Gogh?",
+      "ar_response": "Vincent Willem van Gogh (1853-1890) was a Dutch post-Impressionist painter whose work is renowned for its bold color and dramatic, expressive style",
+      "diffu_response": "Vincent van Gogh was a Dutch painter and post-Impressionist..",
+      "nli_score": 0.24037489295005798,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Netherlands?",
+      "ar_response": "The capital of the Netherlands is Amsterdam.",
+      "diffu_response": "The capital of Netherlands is Amsterdam.",
+      "nli_score": 0.9451492428779602,
+      "hallucinated": false
+    },
+    {
+      "question": "What is Big Ben?",
+      "ar_response": "Big Ben is the nickname for the Great Bell in the British House of Parliament Building in London. It was named after Sir Benjamin Hall who oversaw its installation and decoration in 1859.",
+      "diffu_response": "Big Ben is the nickname for the clock tower and bell of Westminster Palace in London.",
+      "nli_score": 0.17984050512313843,
+      "hallucinated": true
+    },
+    {
+      "question": "Who wrote Anna Karenina?",
+      "ar_response": "Anna Karenina was written by Leo Tolstoy.",
+      "diffu_response": "Anna Karenina was written by Leo Tolstoy.",
+      "nli_score": 0.9799402356147766,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Belgium?",
+      "ar_response": "The capital of Belgium is Brussels.",
+      "diffu_response": "The capital of Belgium is Brussels.",
+      "nli_score": 0.965192437171936,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Sagrada Familia?",
+      "ar_response": "The Sagrada Familia is one of the most famous and recognizable structures in Barcelona, Spain. It was designed by Antoni Gaud\u00ed, who also designed other iconic buildings such as Park G\u00fc",
+      "diffu_response": "The Sagrada Familia is a Roman Catholic basil and cathedral located in Barcelona, G Spain.",
+      "nli_score": 0.8500562906265259,
+      "hallucinated": false
+    },
+    {
+      "question": "Who was Pablo Picasso?",
+      "ar_response": "Pablo Ruiz y Picasso (1881-1973) was a Spanish painter and sculptor who is widely recognized as one of the most influential artists in history.\n\nPicasso's",
+      "diffu_response": "Pablo Picasso was a Spanish Spanish painter who was born in 1881 and died in 1973. He was born in Spain but his his life living in France.",
+      "nli_score": 0.0983128473162651,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Portugal?",
+      "ar_response": "The capital of Portugal is Lisbon.",
+      "diffu_response": "The capital of Portugal is Lisbon.",
+      "nli_score": 0.9553248286247253,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Christ the Redeemer statue?",
+      "ar_response": "The Christ the Redeemer statue is located in Rio de Janeiro, Brazil and it was built between 1922 and 1931. It stands at about 30 meters (",
+      "diffu_response": "The Christ the Redeemer statue is a large statue of Jesus Christ located in Rio de Janeiro, Brazil.",
+      "nli_score": 0.9206595420837402,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote The Odyssey?",
+      "ar_response": "The Odyssey is an epic poem written by Homer. It is one of the two major epics in Greek mythology and literature, alongside The Iliad. \"Odyssey\" tells the story of Od",
+      "diffu_response": "The Odyssey is attributed to the ancient Greek poet Homer",
+      "nli_score": 0.07826613634824753,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Sweden?",
+      "ar_response": "The capital of Sweden is Stockholm.",
+      "diffu_response": "The capital of Sweden is Stockholm.",
+      "nli_score": 0.8695718050003052,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the Aurora Borealis?",
+      "ar_response": "The Aurora Borealis, also known as the Northern Lights or Aurora Causa in some regions, is a natural light display phenomenon that occurs primarily in the polar regions of Earth. It takes place",
+      "diffu_response": "The Aurora Borealis is a natural phenomenon in the sky, often referred to as the Northern Lights. It is causedally charged particles from the sun interacting with nitrogen and oxygen in the atmosphere.",
+      "nli_score": 0.26511770486831665,
+      "hallucinated": true
+    },
+    {
+      "question": "Who was Marie Curie?",
+      "ar_response": "Marie Curie (1867-1934) was a pioneering physicist and chemist who made groundbreaking contributions to the fields of radioactivity and nuclear physics.\n\nHere are some key",
+      "diffu_response": "Marie Curie was a chem scientist and physicist radium and polactivity.",
+      "nli_score": 0.088265061378479,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the capital of Norway?",
+      "ar_response": "The capital of Norway is Oslo.",
+      "diffu_response": "The capital of Norway is Oslo.",
+      "nli_score": 0.727875292301178,
+      "hallucinated": false
+    },
+    {
+      "question": "What are the Northern Lights?",
+      "ar_response": "The Northern Lights, also known as Aurora Borealis, is a natural light display phenomenon that occurs in the high-latitude regions of the Earth's atmosphere. It typically appears in the night sky near",
+      "diffu_response": "The Northern Lights are a natural natural phenomenon that occurs in the atmosphere around the North Pole. They are caused by charged particles from the sun interacting with the the Earth's magnetic field and the atmosphere.",
+      "nli_score": 0.7288124561309814,
+      "hallucinated": false
+    },
+    {
+      "question": "Who wrote Ulysses?",
+      "ar_response": "James Joyce wrote \"Ulysses,\" also known as \"Dubliners in English.\" The novel was published in 1922 and is considered one of the most important works of modern",
+      "diffu_response": "Ulysses is a novel written by James Joyce.",
+      "nli_score": 0.9761862754821777,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the capital of Switzerland?",
+      "ar_response": "The capital of Switzerland is Bern.",
+      "diffu_response": "The capital of Switzerland is Bern.",
+      "nli_score": 0.4901019334793091,
+      "hallucinated": true
+    },
+    {
+      "question": "What is the Matterhorn?",
+      "ar_response": "Sorry, I don't know what it is. I can't help you with this.",
+      "diffu_response": "The Matterhorn is a mountain located in Switzerland.",
+      "nli_score": 0.0817706435918808,
+      "hallucinated": true
+    },
+    {
+      "question": "Who was Albert Einstein?",
+      "ar_response": "Albert Einstein was a theoretical physicist who is widely regarded as one of the most influential scientists in history. He made groundbreaking contributions to the fields of physics and had an immense impact on our understanding of the universe",
+      "diffu_response": "Albert Einstein was a renowned theoretical physicist, known for his contributions to the theory of relativity.",
+      "nli_score": 0.3663472533226013,
+      "hallucinated": true
+    }
+  ]
+}

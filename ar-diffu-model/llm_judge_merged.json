@@ -1,0 +1,4142 @@
+{
+ "lladamoe|0.5|0": {
+  "id": "lladamoe|0.5|0",
+  "correct": true,
+  "reason": "Paris is indeed the capital of France."
+ },
+ "lladamoe|0.5|1": {
+  "id": "lladamoe|0.5|1",
+  "correct": true,
+  "reason": "Romeo and Juliet was written by Shakespeare."
+ },
+ "lladamoe|0.5|2": {
+  "id": "lladamoe|0.5|2",
+  "correct": true,
+  "reason": "Jupiter is the largest planet in the solar system."
+ },
+ "lladamoe|0.5|3": {
+  "id": "lladamoe|0.5|3",
+  "correct": true,
+  "reason": "Adopted July 4, 1776 and formally signed shortly after is the accepted history."
+ },
+ "lladamoe|0.5|4": {
+  "id": "lladamoe|0.5|4",
+  "correct": true,
+  "reason": "The adult human body has 206 bones."
+ },
+ "lladamoe|0.5|5": {
+  "id": "lladamoe|0.5|5",
+  "correct": true,
+  "reason": "Alexander Graham Bell is credited with inventing the telephone."
+ },
+ "lladamoe|0.5|6": {
+  "id": "lladamoe|0.5|6",
+  "correct": true,
+  "reason": "Water's chemical formula is H2O."
+ },
+ "lladamoe|0.5|7": {
+  "id": "lladamoe|0.5|7",
+  "correct": true,
+  "reason": "Speed of light in vacuum is ~299,792,458 m/s."
+ },
+ "lladamoe|0.5|8": {
+  "id": "lladamoe|0.5|8",
+  "correct": true,
+  "reason": "The Mona Lisa was painted by Leonardo da Vinci."
+ },
+ "lladamoe|0.5|9": {
+  "id": "lladamoe|0.5|9",
+  "correct": true,
+  "reason": "Vatican City is the smallest country in the world."
+ },
+ "lladamoe|0.5|10": {
+  "id": "lladamoe|0.5|10",
+  "correct": true,
+  "reason": "There are seven continents, correctly listed."
+ },
+ "lladamoe|0.5|11": {
+  "id": "lladamoe|0.5|11",
+  "correct": true,
+  "reason": "Tokyo is the capital of Japan."
+ },
+ "lladamoe|0.5|12": {
+  "id": "lladamoe|0.5|12",
+  "correct": true,
+  "reason": "George Washington was the first U.S. president, serving 1789-1797."
+ },
+ "lladamoe|0.5|13": {
+  "id": "lladamoe|0.5|13",
+  "correct": true,
+  "reason": "Water boils at 100C/212F at standard pressure."
+ },
+ "lladamoe|0.5|14": {
+  "id": "lladamoe|0.5|14",
+  "correct": true,
+  "reason": "Earth's orbital period is about 365.25 days."
+ },
+ "lladamoe|0.5|15": {
+  "id": "lladamoe|0.5|15",
+  "correct": true,
+  "reason": "Correct statement of the Pythagorean theorem."
+ },
+ "lladamoe|0.5|16": {
+  "id": "lladamoe|0.5|16",
+  "correct": true,
+  "reason": "1984 was written by George Orwell."
+ },
+ "lladamoe|0.5|17": {
+  "id": "lladamoe|0.5|17",
+  "correct": true,
+  "reason": "Accurate description of the Great Wall of China."
+ },
+ "lladamoe|0.5|18": {
+  "id": "lladamoe|0.5|18",
+  "correct": true,
+  "reason": "A triangle has 3 sides."
+ },
+ "lladamoe|0.5|19": {
+  "id": "lladamoe|0.5|19",
+  "correct": true,
+  "reason": "Accurate description of photosynthesis."
+ },
+ "lladamoe|0.5|20": {
+  "id": "lladamoe|0.5|20",
+  "correct": true,
+  "reason": "Isaac Newton is credited with the theory of gravity, despite a repeated word typo."
+ },
+ "lladamoe|0.5|21": {
+  "id": "lladamoe|0.5|21",
+  "correct": true,
+  "reason": "Germany's currency is the Euro."
+ },
+ "lladamoe|0.5|22": {
+  "id": "lladamoe|0.5|22",
+  "correct": true,
+  "reason": "The Pacific Ocean is the largest ocean on Earth."
+ },
+ "lladamoe|0.5|23": {
+  "id": "lladamoe|0.5|23",
+  "correct": false,
+  "reason": "The Bible was written by many authors over centuries, not a single person, and the answer is self-contradictory/confused."
+ },
+ "lladamoe|0.5|24": {
+  "id": "lladamoe|0.5|24",
+  "correct": true,
+  "reason": "China's population is approximately 1.4 billion."
+ },
+ "lladamoe|0.5|25": {
+  "id": "lladamoe|0.5|25",
+  "correct": true,
+  "reason": "Accurate description of DNA."
+ },
+ "lladamoe|0.5|26": {
+  "id": "lladamoe|0.5|26",
+  "correct": false,
+  "reason": "The internet was not invented by Steve Jobs; this is factually wrong."
+ },
+ "lladamoe|0.5|27": {
+  "id": "lladamoe|0.5|27",
+  "correct": true,
+  "reason": "Earth-Sun distance of ~149.6 million km (1 AU) is correct."
+ },
+ "lladamoe|0.5|28": {
+  "id": "lladamoe|0.5|28",
+  "correct": true,
+  "reason": "Hamlet was written by William Shakespeare."
+ },
+ "lladamoe|0.5|29": {
+  "id": "lladamoe|0.5|29",
+  "correct": false,
+  "reason": "Brazil's capital is Bras\u00edlia, not S\u00e3o Paulo."
+ },
+ "lladamoe|0.5|30": {
+  "id": "lladamoe|0.5|30",
+  "correct": true,
+  "reason": "Mount Everest is the highest mountain, elevation correctly stated."
+ },
+ "lladamoe|0.5|31": {
+  "id": "lladamoe|0.5|31",
+  "correct": true,
+  "reason": "Abraham Lincoln was the 16th U.S. president, serving 1861-1865."
+ },
+ "lladamoe|0.5|32": {
+  "id": "lladamoe|0.5|32",
+  "correct": true,
+  "reason": "Water freezes at 0C/32F at standard pressure."
+ },
+ "lladamoe|0.5|33": {
+  "id": "lladamoe|0.5|33",
+  "correct": true,
+  "reason": "Canberra is the capital of Australia."
+ },
+ "lladamoe|0.5|34": {
+  "id": "lladamoe|0.5|34",
+  "correct": true,
+  "reason": "Johannes Gutenberg invented the printing press."
+ },
+ "lladamoe|0.5|35": {
+  "id": "lladamoe|0.5|35",
+  "correct": true,
+  "reason": "Accurate description of the periodic table."
+ },
+ "lladamoe|0.5|36": {
+  "id": "lladamoe|0.5|36",
+  "correct": true,
+  "reason": "Cairo is the capital of Egypt."
+ },
+ "lladamoe|0.5|37": {
+  "id": "lladamoe|0.5|37",
+  "correct": true,
+  "reason": "Accurate description of Cleopatra despite a minor typo."
+ },
+ "lladamoe|0.5|38": {
+  "id": "lladamoe|0.5|38",
+  "correct": true,
+  "reason": "New Delhi is the capital of India."
+ },
+ "lladamoe|0.5|39": {
+  "id": "lladamoe|0.5|39",
+  "correct": true,
+  "reason": "Accurate description of the Great Barrier Reef."
+ },
+ "lladamoe|0.5|40": {
+  "id": "lladamoe|0.5|40",
+  "correct": true,
+  "reason": "Pride and Prejudice was written by Jane Austen."
+ },
+ "lladamoe|0.5|41": {
+  "id": "lladamoe|0.5|41",
+  "correct": true,
+  "reason": "Ottawa is the capital of Canada."
+ },
+ "lladamoe|0.5|42": {
+  "id": "lladamoe|0.5|42",
+  "correct": true,
+  "reason": "Accurate description of the Statue of Liberty and its 1886 dedication."
+ },
+ "lladamoe|0.5|43": {
+  "id": "lladamoe|0.5|43",
+  "correct": true,
+  "reason": "Alexander Graham Bell invented the telephone; dates cited are reasonably accurate."
+ },
+ "lladamoe|0.5|44": {
+  "id": "lladamoe|0.5|44",
+  "correct": true,
+  "reason": "Paris is the capital of France."
+ },
+ "lladamoe|0.5|45": {
+  "id": "lladamoe|0.5|45",
+  "correct": true,
+  "reason": "The Antarctic Desert is commonly cited as the largest desert by area."
+ },
+ "lladamoe|0.5|46": {
+  "id": "lladamoe|0.5|46",
+  "correct": true,
+  "reason": "War and Peace was written by Leo Tolstoy."
+ },
+ "lladamoe|0.5|47": {
+  "id": "lladamoe|0.5|47",
+  "correct": true,
+  "reason": "Madrid is the capital of Spain."
+ },
+ "lladamoe|0.5|48": {
+  "id": "lladamoe|0.5|48",
+  "correct": true,
+  "reason": "Accurate description of the Eiffel Tower, built for the 1889 World's Fair."
+ },
+ "lladamoe|0.5|49": {
+  "id": "lladamoe|0.5|49",
+  "correct": true,
+  "reason": "Julius Caesar was indeed a Roman general and statesman tied to the Republic's transition to Empire, though repetitive."
+ },
+ "lladamoe|0.5|50": {
+  "id": "lladamoe|0.5|50",
+  "correct": true,
+  "reason": "Moscow is the capital of Russia."
+ },
+ "lladamoe|0.5|51": {
+  "id": "lladamoe|0.5|51",
+  "correct": true,
+  "reason": "The Amazon is the largest rainforest in the world."
+ },
+ "lladamoe|0.5|52": {
+  "id": "lladamoe|0.5|52",
+  "correct": true,
+  "reason": "The Great Gatsby was written by F. Scott Fitzgerald."
+ },
+ "lladamoe|0.5|53": {
+  "id": "lladamoe|0.5|53",
+  "correct": true,
+  "reason": "Rome is the capital of Italy."
+ },
+ "lladamoe|0.5|54": {
+  "id": "lladamoe|0.5|54",
+  "correct": true,
+  "reason": "Accurate description of the Colosseum despite truncation."
+ },
+ "lladamoe|0.5|55": {
+  "id": "lladamoe|0.5|55",
+  "correct": true,
+  "reason": "Napoleon was a French military leader who became Emperor in 1804, core facts correct despite an inaccurate end date."
+ },
+ "lladamoe|0.5|56": {
+  "id": "lladamoe|0.5|56",
+  "correct": true,
+  "reason": "Mexico City is the capital of Mexico."
+ },
+ "lladamoe|0.5|57": {
+  "id": "lladamoe|0.5|57",
+  "correct": true,
+  "reason": "Accurate description of the Grand Canyon."
+ },
+ "lladamoe|0.5|58": {
+  "id": "lladamoe|0.5|58",
+  "correct": true,
+  "reason": "Moby-Dick was written by Herman Melville."
+ },
+ "lladamoe|0.5|59": {
+  "id": "lladamoe|0.5|59",
+  "correct": true,
+  "reason": "Athens is the capital of Greece."
+ },
+ "lladamoe|0.5|60": {
+  "id": "lladamoe|0.5|60",
+  "correct": false,
+  "reason": "The Acropolis is located in Athens, Greece, not Rome."
+ },
+ "lladamoe|0.5|61": {
+  "id": "lladamoe|0.5|61",
+  "correct": true,
+  "reason": "Accurate description of Alexander the Great."
+ },
+ "lladamoe|0.5|62": {
+  "id": "lladamoe|0.5|62",
+  "correct": false,
+  "reason": "Turkey's capital is Ankara, not Istanbul."
+ },
+ "lladamoe|0.5|63": {
+  "id": "lladamoe|0.5|63",
+  "correct": true,
+  "reason": "Accurate description of the Taj Mahal."
+ },
+ "lladamoe|0.5|64": {
+  "id": "lladamoe|0.5|64",
+  "correct": true,
+  "reason": "Don Quixote was written by Miguel de Cervantes."
+ },
+ "lladamoe|0.5|65": {
+  "id": "lladamoe|0.5|65",
+  "correct": true,
+  "reason": "Seoul is the capital of South Korea."
+ },
+ "lladamoe|0.5|66": {
+  "id": "lladamoe|0.5|66",
+  "correct": true,
+  "reason": "Mount Fuji is Japan's highest mountain at the correct elevation, despite a wrong region detail."
+ },
+ "lladamoe|0.5|67": {
+  "id": "lladamoe|0.5|67",
+  "correct": true,
+  "reason": "Accurate description of Leonardo da Vinci."
+ },
+ "lladamoe|0.5|68": {
+  "id": "lladamoe|0.5|68",
+  "correct": true,
+  "reason": "Bangkok is the capital of Thailand."
+ },
+ "lladamoe|0.5|69": {
+  "id": "lladamoe|0.5|69",
+  "correct": true,
+  "reason": "Accurate description of Angkor Wat despite repeated wording."
+ },
+ "lladamoe|0.5|70": {
+  "id": "lladamoe|0.5|70",
+  "correct": true,
+  "reason": "Crime and Punishment was written by Fyodor Dostoevsky."
+ },
+ "lladamoe|0.5|71": {
+  "id": "lladamoe|0.5|71",
+  "correct": true,
+  "reason": "Hanoi is the capital of Vietnam."
+ },
+ "lladamoe|0.5|72": {
+  "id": "lladamoe|0.5|72",
+  "correct": true,
+  "reason": "Accurate description of Ha Long Bay."
+ },
+ "lladamoe|0.5|73": {
+  "id": "lladamoe|0.5|73",
+  "correct": true,
+  "reason": "Vincent van Gogh was indeed a Dutch painter known for his style and color."
+ },
+ "lladamoe|0.5|74": {
+  "id": "lladamoe|0.5|74",
+  "correct": true,
+  "reason": "Amsterdam is the capital of the Netherlands."
+ },
+ "lladamoe|0.5|75": {
+  "id": "lladamoe|0.5|75",
+  "correct": true,
+  "reason": "Accurate description of Big Ben in London."
+ },
+ "lladamoe|0.5|76": {
+  "id": "lladamoe|0.5|76",
+  "correct": true,
+  "reason": "Anna Karenina was written by Leo Tolstoy."
+ },
+ "lladamoe|0.5|77": {
+  "id": "lladamoe|0.5|77",
+  "correct": true,
+  "reason": "Brussels is the capital of Belgium."
+ },
+ "lladamoe|0.5|78": {
+  "id": "lladamoe|0.5|78",
+  "correct": true,
+  "reason": "Accurate description of the Sagrada Familia designed by Gaudi."
+ },
+ "lladamoe|0.5|79": {
+  "id": "lladamoe|0.5|79",
+  "correct": true,
+  "reason": "Pablo Picasso was indeed a Spanish painter and sculptor known for modern art."
+ },
+ "lladamoe|0.5|80": {
+  "id": "lladamoe|0.5|80",
+  "correct": true,
+  "reason": "Lisbon is the capital of Portugal."
+ },
+ "lladamoe|0.5|81": {
+  "id": "lladamoe|0.5|81",
+  "correct": true,
+  "reason": "Accurate description of Christ the Redeemer in Rio de Janeiro."
+ },
+ "lladamoe|0.5|82": {
+  "id": "lladamoe|0.5|82",
+  "correct": true,
+  "reason": "The Odyssey was written by Homer."
+ },
+ "lladamoe|0.5|83": {
+  "id": "lladamoe|0.5|83",
+  "correct": true,
+  "reason": "Stockholm is the capital of Sweden."
+ },
+ "lladamoe|0.5|84": {
+  "id": "lladamoe|0.5|84",
+  "correct": true,
+  "reason": "Accurate description of the Aurora Borealis."
+ },
+ "lladamoe|0.5|85": {
+  "id": "lladamoe|0.5|85",
+  "correct": true,
+  "reason": "Marie Curie was a Nobel-winning physicist/chemist and first woman Nobel laureate in 1903, core facts correct."
+ },
+ "lladamoe|0.5|86": {
+  "id": "lladamoe|0.5|86",
+  "correct": true,
+  "reason": "Oslo is the capital of Norway."
+ },
+ "lladamoe|0.5|87": {
+  "id": "lladamoe|0.5|87",
+  "correct": true,
+  "reason": "Accurate description of the Northern Lights phenomenon."
+ },
+ "lladamoe|0.5|88": {
+  "id": "lladamoe|0.5|88",
+  "correct": true,
+  "reason": "Ulysses was written by James Joyce."
+ },
+ "lladamoe|0.5|89": {
+  "id": "lladamoe|0.5|89",
+  "correct": true,
+  "reason": "Bern is the (federal) capital of Switzerland."
+ },
+ "lladamoe|0.5|90": {
+  "id": "lladamoe|0.5|90",
+  "correct": true,
+  "reason": "Accurate description of the Matterhorn in the Swiss Alps."
+ },
+ "lladamoe|0.5|91": {
+  "id": "lladamoe|0.5|91",
+  "correct": true,
+  "reason": "Einstein was a German-born physicist famous for relativity, despite a wrong detail about the photoelectric effect being mislabeled."
+ },
+ "lladamoe|0.7|0": {
+  "id": "lladamoe|0.7|0",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|1": {
+  "id": "lladamoe|0.7|1",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|2": {
+  "id": "lladamoe|0.7|2",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|3": {
+  "id": "lladamoe|0.7|3",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|4": {
+  "id": "lladamoe|0.7|4",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|5": {
+  "id": "lladamoe|0.7|5",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|6": {
+  "id": "lladamoe|0.7|6",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|7": {
+  "id": "lladamoe|0.7|7",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|8": {
+  "id": "lladamoe|0.7|8",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|9": {
+  "id": "lladamoe|0.7|9",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|10": {
+  "id": "lladamoe|0.7|10",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|11": {
+  "id": "lladamoe|0.7|11",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|12": {
+  "id": "lladamoe|0.7|12",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|13": {
+  "id": "lladamoe|0.7|13",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|14": {
+  "id": "lladamoe|0.7|14",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|15": {
+  "id": "lladamoe|0.7|15",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|16": {
+  "id": "lladamoe|0.7|16",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|17": {
+  "id": "lladamoe|0.7|17",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|18": {
+  "id": "lladamoe|0.7|18",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|19": {
+  "id": "lladamoe|0.7|19",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|20": {
+  "id": "lladamoe|0.7|20",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|21": {
+  "id": "lladamoe|0.7|21",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|22": {
+  "id": "lladamoe|0.7|22",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|23": {
+  "id": "lladamoe|0.7|23",
+  "correct": false,
+  "reason": "The answer contradicts itself, claiming a single author while also saying it was compiled by many; the Bible has no single author."
+ },
+ "lladamoe|0.7|24": {
+  "id": "lladamoe|0.7|24",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|25": {
+  "id": "lladamoe|0.7|25",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|26": {
+  "id": "lladamoe|0.7|26",
+  "correct": false,
+  "reason": "The internet was not invented by Steve Jobs; it was developed by researchers like Vint Cerf and Bob Kahn (ARPANET)."
+ },
+ "lladamoe|0.7|27": {
+  "id": "lladamoe|0.7|27",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|28": {
+  "id": "lladamoe|0.7|28",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|29": {
+  "id": "lladamoe|0.7|29",
+  "correct": false,
+  "reason": "The capital of Brazil is Bras\u00edlia, not S\u00e3o Paulo."
+ },
+ "lladamoe|0.7|30": {
+  "id": "lladamoe|0.7|30",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|31": {
+  "id": "lladamoe|0.7|31",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|32": {
+  "id": "lladamoe|0.7|32",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|33": {
+  "id": "lladamoe|0.7|33",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|34": {
+  "id": "lladamoe|0.7|34",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|35": {
+  "id": "lladamoe|0.7|35",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|36": {
+  "id": "lladamoe|0.7|36",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|37": {
+  "id": "lladamoe|0.7|37",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|38": {
+  "id": "lladamoe|0.7|38",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|39": {
+  "id": "lladamoe|0.7|39",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|40": {
+  "id": "lladamoe|0.7|40",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|41": {
+  "id": "lladamoe|0.7|41",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|42": {
+  "id": "lladamoe|0.7|42",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|43": {
+  "id": "lladamoe|0.7|43",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|44": {
+  "id": "lladamoe|0.7|44",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|45": {
+  "id": "lladamoe|0.7|45",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|46": {
+  "id": "lladamoe|0.7|46",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|47": {
+  "id": "lladamoe|0.7|47",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|48": {
+  "id": "lladamoe|0.7|48",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|49": {
+  "id": "lladamoe|0.7|49",
+  "correct": false,
+  "reason": "Julius Caesar was never emperor of Rome (Augustus was); he was a general and dictator."
+ },
+ "lladamoe|0.7|50": {
+  "id": "lladamoe|0.7|50",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|51": {
+  "id": "lladamoe|0.7|51",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|52": {
+  "id": "lladamoe|0.7|52",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|53": {
+  "id": "lladamoe|0.7|53",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|54": {
+  "id": "lladamoe|0.7|54",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|55": {
+  "id": "lladamoe|0.7|55",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|56": {
+  "id": "lladamoe|0.7|56",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|57": {
+  "id": "lladamoe|0.7|57",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|58": {
+  "id": "lladamoe|0.7|58",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|59": {
+  "id": "lladamoe|0.7|59",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|60": {
+  "id": "lladamoe|0.7|60",
+  "correct": false,
+  "reason": "The Acropolis is a hilltop citadel in Athens with ancient temples (notably the Parthenon), not simply 'an ancient city'."
+ },
+ "lladamoe|0.7|61": {
+  "id": "lladamoe|0.7|61",
+  "correct": false,
+  "reason": "Alexander the Great was Macedonian/Greek and conquered the Persian Empire; he did not found it."
+ },
+ "lladamoe|0.7|62": {
+  "id": "lladamoe|0.7|62",
+  "correct": false,
+  "reason": "The capital of Turkey is Ankara, not Istanbul."
+ },
+ "lladamoe|0.7|63": {
+  "id": "lladamoe|0.7|63",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|64": {
+  "id": "lladamoe|0.7|64",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|65": {
+  "id": "lladamoe|0.7|65",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|66": {
+  "id": "lladamoe|0.7|66",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|67": {
+  "id": "lladamoe|0.7|67",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|68": {
+  "id": "lladamoe|0.7|68",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|69": {
+  "id": "lladamoe|0.7|69",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|70": {
+  "id": "lladamoe|0.7|70",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|71": {
+  "id": "lladamoe|0.7|71",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|72": {
+  "id": "lladamoe|0.7|72",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|73": {
+  "id": "lladamoe|0.7|73",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|74": {
+  "id": "lladamoe|0.7|74",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|75": {
+  "id": "lladamoe|0.7|75",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|76": {
+  "id": "lladamoe|0.7|76",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|77": {
+  "id": "lladamoe|0.7|77",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|78": {
+  "id": "lladamoe|0.7|78",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|79": {
+  "id": "lladamoe|0.7|79",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|80": {
+  "id": "lladamoe|0.7|80",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|81": {
+  "id": "lladamoe|0.7|81",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|82": {
+  "id": "lladamoe|0.7|82",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|83": {
+  "id": "lladamoe|0.7|83",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|84": {
+  "id": "lladamoe|0.7|84",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|85": {
+  "id": "lladamoe|0.7|85",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|86": {
+  "id": "lladamoe|0.7|86",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|87": {
+  "id": "lladamoe|0.7|87",
+  "correct": false,
+  "reason": "This reverses the fact; the Northern Lights are the Aurora Borealis, not the Southern Lights."
+ },
+ "lladamoe|0.7|88": {
+  "id": "lladamoe|0.7|88",
+  "correct": false,
+  "reason": "The answer refuses to identify the author instead of stating Ulysses was written by James Joyce."
+ },
+ "lladamoe|0.7|89": {
+  "id": "lladamoe|0.7|89",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|90": {
+  "id": "lladamoe|0.7|90",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.7|91": {
+  "id": "lladamoe|0.7|91",
+  "correct": true,
+  "reason": "The answer states the correct core fact in response to the question."
+ },
+ "lladamoe|0.9|0": {
+  "id": "lladamoe|0.9|0",
+  "correct": true,
+  "reason": "Correctly identifies Paris as the capital of France."
+ },
+ "lladamoe|0.9|1": {
+  "id": "lladamoe|0.9|1",
+  "correct": true,
+  "reason": "Correctly attributes Romeo and Juliet to William Shakespeare."
+ },
+ "lladamoe|0.9|2": {
+  "id": "lladamoe|0.9|2",
+  "correct": true,
+  "reason": "Correctly identifies Jupiter as the largest planet."
+ },
+ "lladamoe|0.9|3": {
+  "id": "lladamoe|0.9|3",
+  "correct": true,
+  "reason": "Correctly gives July 4, 1776 as the date the Declaration was adopted."
+ },
+ "lladamoe|0.9|4": {
+  "id": "lladamoe|0.9|4",
+  "correct": true,
+  "reason": "Correctly states the human body has 206 bones."
+ },
+ "lladamoe|0.9|5": {
+  "id": "lladamoe|0.9|5",
+  "correct": true,
+  "reason": "Correctly attributes the telephone's invention to Alexander Graham Bell."
+ },
+ "lladamoe|0.9|6": {
+  "id": "lladamoe|0.9|6",
+  "correct": true,
+  "reason": "Correctly gives H2O as the chemical formula for water."
+ },
+ "lladamoe|0.9|7": {
+  "id": "lladamoe|0.9|7",
+  "correct": true,
+  "reason": "Correctly gives the speed of light as approximately 299,792,458 m/s."
+ },
+ "lladamoe|0.9|8": {
+  "id": "lladamoe|0.9|8",
+  "correct": true,
+  "reason": "Correctly attributes the Mona Lisa to Leonardo da Vinci."
+ },
+ "lladamoe|0.9|9": {
+  "id": "lladamoe|0.9|9",
+  "correct": true,
+  "reason": "Correctly identifies Vatican City as the smallest country."
+ },
+ "lladamoe|0.9|10": {
+  "id": "lladamoe|0.9|10",
+  "correct": false,
+  "reason": "Lists 'Australia and Oceania' as separate continents instead of the standard list including Antarctica; Oceania is not a standard continent."
+ },
+ "lladamoe|0.9|11": {
+  "id": "lladamoe|0.9|11",
+  "correct": true,
+  "reason": "Correctly identifies Tokyo as the capital of Japan."
+ },
+ "lladamoe|0.9|12": {
+  "id": "lladamoe|0.9|12",
+  "correct": true,
+  "reason": "Correctly identifies George Washington as the first U.S. president."
+ },
+ "lladamoe|0.9|13": {
+  "id": "lladamoe|0.9|13",
+  "correct": true,
+  "reason": "Correctly gives water's boiling point as 100\u00b0C / 212\u00b0F."
+ },
+ "lladamoe|0.9|14": {
+  "id": "lladamoe|0.9|14",
+  "correct": true,
+  "reason": "Correctly states Earth's orbit takes about 365.25 days."
+ },
+ "lladamoe|0.9|15": {
+  "id": "lladamoe|0.9|15",
+  "correct": true,
+  "reason": "Correctly states the Pythagorean theorem."
+ },
+ "lladamoe|0.9|16": {
+  "id": "lladamoe|0.9|16",
+  "correct": false,
+  "reason": "1984 was written by George Orwell; the answer '1951' is a non-answer and factually wrong."
+ },
+ "lladamoe|0.9|17": {
+  "id": "lladamoe|0.9|17",
+  "correct": true,
+  "reason": "Correctly describes the Great Wall of China's purpose."
+ },
+ "lladamoe|0.9|18": {
+  "id": "lladamoe|0.9|18",
+  "correct": true,
+  "reason": "Correctly states a triangle has 3 sides."
+ },
+ "lladamoe|0.9|19": {
+  "id": "lladamoe|0.9|19",
+  "correct": true,
+  "reason": "Correctly describes photosynthesis."
+ },
+ "lladamoe|0.9|20": {
+  "id": "lladamoe|0.9|20",
+  "correct": true,
+  "reason": "Correctly attributes the discovery/formulation of gravity to Isaac Newton."
+ },
+ "lladamoe|0.9|21": {
+  "id": "lladamoe|0.9|21",
+  "correct": true,
+  "reason": "Correctly identifies the Euro as Germany's currency."
+ },
+ "lladamoe|0.9|22": {
+  "id": "lladamoe|0.9|22",
+  "correct": true,
+  "reason": "Correctly identifies the Pacific as the largest ocean."
+ },
+ "lladamoe|0.9|23": {
+  "id": "lladamoe|0.9|23",
+  "correct": true,
+  "reason": "Reasonably describes the Bible as compiled by many people over time."
+ },
+ "lladamoe|0.9|24": {
+  "id": "lladamoe|0.9|24",
+  "correct": true,
+  "reason": "Correctly states China's population is around 1.4 billion."
+ },
+ "lladamoe|0.9|25": {
+  "id": "lladamoe|0.9|25",
+  "correct": true,
+  "reason": "Correctly describes DNA as the molecule carrying genetic information."
+ },
+ "lladamoe|0.9|26": {
+  "id": "lladamoe|0.9|26",
+  "correct": true,
+  "reason": "Correctly notes the internet was a collaborative effort, not invented by one person."
+ },
+ "lladamoe|0.9|27": {
+  "id": "lladamoe|0.9|27",
+  "correct": true,
+  "reason": "Correctly gives the Earth-Sun distance as about 149.6 million km (1 AU)."
+ },
+ "lladamoe|0.9|28": {
+  "id": "lladamoe|0.9|28",
+  "correct": true,
+  "reason": "Correctly attributes Hamlet to William Shakespeare."
+ },
+ "lladamoe|0.9|29": {
+  "id": "lladamoe|0.9|29",
+  "correct": false,
+  "reason": "The capital of Brazil is Bras\u00edlia, not S\u00e3o Paulo."
+ },
+ "lladamoe|0.9|30": {
+  "id": "lladamoe|0.9|30",
+  "correct": true,
+  "reason": "Correctly identifies Mount Everest as the highest mountain."
+ },
+ "lladamoe|0.9|31": {
+  "id": "lladamoe|0.9|31",
+  "correct": true,
+  "reason": "Correctly describes Abraham Lincoln as the 16th U.S. president."
+ },
+ "lladamoe|0.9|32": {
+  "id": "lladamoe|0.9|32",
+  "correct": true,
+  "reason": "Correctly gives water's freezing point as 0\u00b0C / 32\u00b0F."
+ },
+ "lladamoe|0.9|33": {
+  "id": "lladamoe|0.9|33",
+  "correct": true,
+  "reason": "Correctly identifies Canberra as the capital of Australia."
+ },
+ "lladamoe|0.9|34": {
+  "id": "lladamoe|0.9|34",
+  "correct": true,
+  "reason": "Correctly attributes the printing press to Johannes Gutenberg."
+ },
+ "lladamoe|0.9|35": {
+  "id": "lladamoe|0.9|35",
+  "correct": true,
+  "reason": "Correctly describes the periodic table."
+ },
+ "lladamoe|0.9|36": {
+  "id": "lladamoe|0.9|36",
+  "correct": true,
+  "reason": "Correctly identifies Cairo as the capital of Egypt."
+ },
+ "lladamoe|0.9|37": {
+  "id": "lladamoe|0.9|37",
+  "correct": true,
+  "reason": "Correctly describes Cleopatra as the last ruler of Ptolemaic Egypt."
+ },
+ "lladamoe|0.9|38": {
+  "id": "lladamoe|0.9|38",
+  "correct": true,
+  "reason": "Correctly identifies New Delhi as the capital of India."
+ },
+ "lladamoe|0.9|39": {
+  "id": "lladamoe|0.9|39",
+  "correct": true,
+  "reason": "Correctly describes the Great Barrier Reef."
+ },
+ "lladamoe|0.9|40": {
+  "id": "lladamoe|0.9|40",
+  "correct": true,
+  "reason": "Correctly attributes Pride and Prejudice to Jane Austen."
+ },
+ "lladamoe|0.9|41": {
+  "id": "lladamoe|0.9|41",
+  "correct": true,
+  "reason": "Correctly identifies Ottawa as the capital of Canada."
+ },
+ "lladamoe|0.9|42": {
+  "id": "lladamoe|0.9|42",
+  "correct": true,
+  "reason": "Correctly describes the Statue of Liberty."
+ },
+ "lladamoe|0.9|43": {
+  "id": "lladamoe|0.9|43",
+  "correct": true,
+  "reason": "Correctly attributes the telephone's invention to Alexander Graham Bell."
+ },
+ "lladamoe|0.9|44": {
+  "id": "lladamoe|0.9|44",
+  "correct": true,
+  "reason": "Correctly identifies Paris as the capital of France."
+ },
+ "lladamoe|0.9|45": {
+  "id": "lladamoe|0.9|45",
+  "correct": true,
+  "reason": "Correctly identifies the Antarctic Desert as the largest desert."
+ },
+ "lladamoe|0.9|46": {
+  "id": "lladamoe|0.9|46",
+  "correct": true,
+  "reason": "Correctly attributes War and Peace to Leo Tolstoy."
+ },
+ "lladamoe|0.9|47": {
+  "id": "lladamoe|0.9|47",
+  "correct": true,
+  "reason": "Correctly identifies Madrid as the capital of Spain."
+ },
+ "lladamoe|0.9|48": {
+  "id": "lladamoe|0.9|48",
+  "correct": true,
+  "reason": "Correctly describes the Eiffel Tower."
+ },
+ "lladamoe|0.9|49": {
+  "id": "lladamoe|0.9|49",
+  "correct": false,
+  "reason": "Julius Caesar did not found the Roman Empire; Augustus founded it after Caesar's assassination."
+ },
+ "lladamoe|0.9|50": {
+  "id": "lladamoe|0.9|50",
+  "correct": true,
+  "reason": "Correctly identifies Moscow as the capital of Russia."
+ },
+ "lladamoe|0.9|51": {
+  "id": "lladamoe|0.9|51",
+  "correct": true,
+  "reason": "Correctly describes the Amazon Rainforest."
+ },
+ "lladamoe|0.9|52": {
+  "id": "lladamoe|0.9|52",
+  "correct": true,
+  "reason": "Correctly attributes The Great Gatsby to F. Scott Fitzgerald."
+ },
+ "lladamoe|0.9|53": {
+  "id": "lladamoe|0.9|53",
+  "correct": true,
+  "reason": "Correctly identifies Rome as the capital of Italy."
+ },
+ "lladamoe|0.9|54": {
+  "id": "lladamoe|0.9|54",
+  "correct": true,
+  "reason": "Correctly describes the Colosseum."
+ },
+ "lladamoe|0.9|55": {
+  "id": "lladamoe|0.9|55",
+  "correct": true,
+  "reason": "Correctly describes Napoleon Bonaparte becoming Emperor of France in 1804."
+ },
+ "lladamoe|0.9|56": {
+  "id": "lladamoe|0.9|56",
+  "correct": true,
+  "reason": "Correctly identifies Mexico City as the capital of Mexico."
+ },
+ "lladamoe|0.9|57": {
+  "id": "lladamoe|0.9|57",
+  "correct": true,
+  "reason": "Correctly describes the Grand Canyon's dramatic cliffs."
+ },
+ "lladamoe|0.9|58": {
+  "id": "lladamoe|0.9|58",
+  "correct": true,
+  "reason": "Correctly attributes Moby Dick to Herman Melville."
+ },
+ "lladamoe|0.9|59": {
+  "id": "lladamoe|0.9|59",
+  "correct": true,
+  "reason": "Correctly identifies Athens as the capital of Greece."
+ },
+ "lladamoe|0.9|60": {
+  "id": "lladamoe|0.9|60",
+  "correct": true,
+  "reason": "Correctly describes the Acropolis in Athens."
+ },
+ "lladamoe|0.9|61": {
+  "id": "lladamoe|0.9|61",
+  "correct": false,
+  "reason": "Alexander the Great founded the Macedonian Empire, not the Roman Empire."
+ },
+ "lladamoe|0.9|62": {
+  "id": "lladamoe|0.9|62",
+  "correct": false,
+  "reason": "The capital of Turkey is Ankara, not Istanbul."
+ },
+ "lladamoe|0.9|63": {
+  "id": "lladamoe|0.9|63",
+  "correct": true,
+  "reason": "Correctly describes the Taj Mahal in Agra, India."
+ },
+ "lladamoe|0.9|64": {
+  "id": "lladamoe|0.9|64",
+  "correct": true,
+  "reason": "Correctly attributes Don Quixote to Miguel de Cervantes."
+ },
+ "lladamoe|0.9|65": {
+  "id": "lladamoe|0.9|65",
+  "correct": true,
+  "reason": "Correctly identifies Seoul as the capital of South Korea."
+ },
+ "lladamoe|0.9|66": {
+  "id": "lladamoe|0.9|66",
+  "correct": true,
+  "reason": "Correctly describes Mount Fuji as Japan's highest mountain."
+ },
+ "lladamoe|0.9|67": {
+  "id": "lladamoe|0.9|67",
+  "correct": true,
+  "reason": "Correctly describes Leonardo da Vinci as an Italian polymath."
+ },
+ "lladamoe|0.9|68": {
+  "id": "lladamoe|0.9|68",
+  "correct": true,
+  "reason": "Correctly identifies Bangkok as the capital of Thailand."
+ },
+ "lladamoe|0.9|69": {
+  "id": "lladamoe|0.9|69",
+  "correct": false,
+  "reason": "Angkor Wat is located in Cambodia, not China."
+ },
+ "lladamoe|0.9|70": {
+  "id": "lladamoe|0.9|70",
+  "correct": true,
+  "reason": "Correctly attributes Crime and Punishment to Fyodor Dostoevsky."
+ },
+ "lladamoe|0.9|71": {
+  "id": "lladamoe|0.9|71",
+  "correct": true,
+  "reason": "Correctly identifies Hanoi as the capital of Vietnam."
+ },
+ "lladamoe|0.9|72": {
+  "id": "lladamoe|0.9|72",
+  "correct": true,
+  "reason": "Correctly describes Ha Long Bay in northern Vietnam."
+ },
+ "lladamoe|0.9|73": {
+  "id": "lladamoe|0.9|73",
+  "correct": true,
+  "reason": "Correctly describes Vincent van Gogh as a Dutch painter."
+ },
+ "lladamoe|0.9|74": {
+  "id": "lladamoe|0.9|74",
+  "correct": true,
+  "reason": "Correctly identifies Amsterdam as the capital of the Netherlands."
+ },
+ "lladamoe|0.9|75": {
+  "id": "lladamoe|0.9|75",
+  "correct": true,
+  "reason": "Correctly describes Big Ben as a clock tower in London."
+ },
+ "lladamoe|0.9|76": {
+  "id": "lladamoe|0.9|76",
+  "correct": true,
+  "reason": "Correctly attributes Anna Karenina to Leo Tolstoy."
+ },
+ "lladamoe|0.9|77": {
+  "id": "lladamoe|0.9|77",
+  "correct": true,
+  "reason": "Correctly identifies Brussels as the capital of Belgium."
+ },
+ "lladamoe|0.9|78": {
+  "id": "lladamoe|0.9|78",
+  "correct": true,
+  "reason": "Correctly describes the Sagrada Familia designed by Antoni Gaud\u00ed."
+ },
+ "lladamoe|0.9|79": {
+  "id": "lladamoe|0.9|79",
+  "correct": true,
+  "reason": "Correctly describes Pablo Picasso as a Spanish Cubist artist."
+ },
+ "lladamoe|0.9|80": {
+  "id": "lladamoe|0.9|80",
+  "correct": true,
+  "reason": "Correctly identifies Lisbon as the capital of Portugal."
+ },
+ "lladamoe|0.9|81": {
+  "id": "lladamoe|0.9|81",
+  "correct": true,
+  "reason": "Correctly describes the Christ the Redeemer statue in Rio de Janeiro."
+ },
+ "lladamoe|0.9|82": {
+  "id": "lladamoe|0.9|82",
+  "correct": true,
+  "reason": "Correctly attributes The Odyssey to Homer."
+ },
+ "lladamoe|0.9|83": {
+  "id": "lladamoe|0.9|83",
+  "correct": true,
+  "reason": "Correctly identifies Stockholm as the capital of Sweden."
+ },
+ "lladamoe|0.9|84": {
+  "id": "lladamoe|0.9|84",
+  "correct": true,
+  "reason": "Correctly describes the Aurora Borealis (Northern Lights) phenomenon."
+ },
+ "lladamoe|0.9|85": {
+  "id": "lladamoe|0.9|85",
+  "correct": true,
+  "reason": "Correctly describes Marie Curie's Nobel Prize-winning radioactivity research."
+ },
+ "lladamoe|0.9|86": {
+  "id": "lladamoe|0.9|86",
+  "correct": true,
+  "reason": "Correctly identifies Oslo as the capital of Norway."
+ },
+ "lladamoe|0.9|87": {
+  "id": "lladamoe|0.9|87",
+  "correct": true,
+  "reason": "Correctly describes the Northern Lights near the Arctic Circle."
+ },
+ "lladamoe|0.9|88": {
+  "id": "lladamoe|0.9|88",
+  "correct": true,
+  "reason": "Correctly attributes Ulysses to James Joyce despite a garbled title spelling."
+ },
+ "lladamoe|0.9|89": {
+  "id": "lladamoe|0.9|89",
+  "correct": true,
+  "reason": "Correctly identifies Bern as the capital of Switzerland."
+ },
+ "lladamoe|0.9|90": {
+  "id": "lladamoe|0.9|90",
+  "correct": true,
+  "reason": "Correctly describes the Matterhorn as a pyramid-shaped peak in Switzerland."
+ },
+ "lladamoe|0.9|91": {
+  "id": "lladamoe|0.9|91",
+  "correct": true,
+  "reason": "Correctly describes Albert Einstein as the physicist behind relativity."
+ },
+ "dream|0.5|0": {
+  "id": "dream|0.5|0",
+  "correct": true,
+  "reason": "Correctly identifies Paris as the capital of France."
+ },
+ "dream|0.5|1": {
+  "id": "dream|0.5|1",
+  "correct": true,
+  "reason": "Correctly attributes Romeo and Juliet to William Shakespeare."
+ },
+ "dream|0.5|2": {
+  "id": "dream|0.5|2",
+  "correct": true,
+  "reason": "Correctly identifies Jupiter as the largest planet."
+ },
+ "dream|0.5|3": {
+  "id": "dream|0.5|3",
+  "correct": true,
+  "reason": "Correctly gives July 4, 1776 as the signing date."
+ },
+ "dream|0.5|4": {
+  "id": "dream|0.5|4",
+  "correct": true,
+  "reason": "Correctly states 206 bones in the human body."
+ },
+ "dream|0.5|5": {
+  "id": "dream|0.5|5",
+  "correct": true,
+  "reason": "Correctly names Alexander Graham Bell as the inventor of the telephone."
+ },
+ "dream|0.5|6": {
+  "id": "dream|0.5|6",
+  "correct": true,
+  "reason": "Correctly gives H2O as water's chemical formula."
+ },
+ "dream|0.5|7": {
+  "id": "dream|0.5|7",
+  "correct": true,
+  "reason": "Correctly gives the speed of light (minor digit error, but essentially correct)."
+ },
+ "dream|0.5|8": {
+  "id": "dream|0.5|8",
+  "correct": true,
+  "reason": "Correctly attributes the Mona Lisa to Leonardo da Vinci."
+ },
+ "dream|0.5|9": {
+  "id": "dream|0.5|9",
+  "correct": true,
+  "reason": "Correctly identifies Vatican City as the smallest country."
+ },
+ "dream|0.5|10": {
+  "id": "dream|0.5|10",
+  "correct": true,
+  "reason": "Correctly states there are seven continents."
+ },
+ "dream|0.5|11": {
+  "id": "dream|0.5|11",
+  "correct": true,
+  "reason": "Correctly identifies Tokyo as the capital of Japan."
+ },
+ "dream|0.5|12": {
+  "id": "dream|0.5|12",
+  "correct": true,
+  "reason": "Correctly names George Washington as the first U.S. president."
+ },
+ "dream|0.5|13": {
+  "id": "dream|0.5|13",
+  "correct": true,
+  "reason": "Correctly gives 100\u00b0C/212\u00b0F as water's boiling point."
+ },
+ "dream|0.5|14": {
+  "id": "dream|0.5|14",
+  "correct": true,
+  "reason": "Correctly states Earth takes about 365 days to orbit the Sun."
+ },
+ "dream|0.5|15": {
+  "id": "dream|0.5|15",
+  "correct": true,
+  "reason": "Correctly states the Pythagorean theorem."
+ },
+ "dream|0.5|16": {
+  "id": "dream|0.5|16",
+  "correct": true,
+  "reason": "Correctly attributes 1984 to George Orwell."
+ },
+ "dream|0.5|17": {
+  "id": "dream|0.5|17",
+  "correct": true,
+  "reason": "Correctly describes the Great Wall of China despite minor phrasing issues."
+ },
+ "dream|0.5|18": {
+  "id": "dream|0.5|18",
+  "correct": true,
+  "reason": "Correctly states a triangle has three sides."
+ },
+ "dream|0.5|19": {
+  "id": "dream|0.5|19",
+  "correct": true,
+  "reason": "Correctly describes photosynthesis."
+ },
+ "dream|0.5|20": {
+  "id": "dream|0.5|20",
+  "correct": true,
+  "reason": "Recognizable garbled reference to Isaac Newton, correctly credited with gravity."
+ },
+ "dream|0.5|21": {
+  "id": "dream|0.5|21",
+  "correct": true,
+  "reason": "Correctly identifies the Euro as Germany's currency despite formatting artifact."
+ },
+ "dream|0.5|22": {
+  "id": "dream|0.5|22",
+  "correct": true,
+  "reason": "Correctly identifies the Pacific Ocean as the largest ocean."
+ },
+ "dream|0.5|23": {
+  "id": "dream|0.5|23",
+  "correct": false,
+  "reason": "The answer is cut off and never actually names an author for the Bible."
+ },
+ "dream|0.5|24": {
+  "id": "dream|0.5|24",
+  "correct": true,
+  "reason": "Gives a reasonable, roughly correct population figure for China."
+ },
+ "dream|0.5|25": {
+  "id": "dream|0.5|25",
+  "correct": true,
+  "reason": "Correctly describes DNA as the genetic molecule."
+ },
+ "dream|0.5|26": {
+  "id": "dream|0.5|26",
+  "correct": false,
+  "reason": "The answer is garbled and fails to name any actual figure(s) credited with inventing the internet."
+ },
+ "dream|0.5|27": {
+  "id": "dream|0.5|27",
+  "correct": true,
+  "reason": "Correctly gives the Earth-Sun distance (~149.6 million km)."
+ },
+ "dream|0.5|28": {
+  "id": "dream|0.5|28",
+  "correct": true,
+  "reason": "Correctly attributes Hamlet to William Shakespeare."
+ },
+ "dream|0.5|29": {
+  "id": "dream|0.5|29",
+  "correct": true,
+  "reason": "Correctly identifies Bras\u00edlia as the capital of Brazil."
+ },
+ "dream|0.5|30": {
+  "id": "dream|0.5|30",
+  "correct": true,
+  "reason": "Correctly identifies Mount Everest as the highest mountain."
+ },
+ "dream|0.5|31": {
+  "id": "dream|0.5|31",
+  "correct": true,
+  "reason": "Correctly describes Abraham Lincoln as the 16th U.S. President."
+ },
+ "dream|0.5|32": {
+  "id": "dream|0.5|32",
+  "correct": true,
+  "reason": "Correctly gives 0\u00b0C/32\u00b0F as water's freezing point."
+ },
+ "dream|0.5|33": {
+  "id": "dream|0.5|33",
+  "correct": true,
+  "reason": "Correctly identifies Canberra as the capital of Australia."
+ },
+ "dream|0.5|34": {
+  "id": "dream|0.5|34",
+  "correct": false,
+  "reason": "The answer is truncated to just 'Joh', not identifying Johannes Gutenberg or any inventor."
+ },
+ "dream|0.5|35": {
+  "id": "dream|0.5|35",
+  "correct": true,
+  "reason": "Correctly describes the periodic table."
+ },
+ "dream|0.5|36": {
+  "id": "dream|0.5|36",
+  "correct": true,
+  "reason": "Correctly identifies Cairo as the capital of Egypt."
+ },
+ "dream|0.5|37": {
+  "id": "dream|0.5|37",
+  "correct": true,
+  "reason": "Correctly describes Cleopatra as the last pharaoh of Egypt."
+ },
+ "dream|0.5|38": {
+  "id": "dream|0.5|38",
+  "correct": true,
+  "reason": "Correctly identifies New Delhi as the capital of India."
+ },
+ "dream|0.5|39": {
+  "id": "dream|0.5|39",
+  "correct": true,
+  "reason": "Correctly describes the Great Barrier Reef."
+ },
+ "dream|0.5|40": {
+  "id": "dream|0.5|40",
+  "correct": true,
+  "reason": "Correctly attributes Pride and Prejudice to Jane Austen."
+ },
+ "dream|0.5|41": {
+  "id": "dream|0.5|41",
+  "correct": true,
+  "reason": "Correctly identifies Ottawa as the capital of Canada."
+ },
+ "dream|0.5|42": {
+  "id": "dream|0.5|42",
+  "correct": true,
+  "reason": "Correctly describes the Statue of Liberty despite minor phrasing issues."
+ },
+ "dream|0.5|43": {
+  "id": "dream|0.5|43",
+  "correct": true,
+  "reason": "Correctly names Alexander Graham Bell as the inventor of the telephone."
+ },
+ "dream|0.5|44": {
+  "id": "dream|0.5|44",
+  "correct": true,
+  "reason": "Correctly identifies Paris as the capital of France."
+ },
+ "dream|0.5|45": {
+  "id": "dream|0.5|45",
+  "correct": true,
+  "reason": "Correctly identifies the Antarctic Desert as the largest desert (by area)."
+ },
+ "dream|0.5|46": {
+  "id": "dream|0.5|46",
+  "correct": true,
+  "reason": "Correctly attributes War and Peace to Leo Tolstoy."
+ },
+ "dream|0.5|47": {
+  "id": "dream|0.5|47",
+  "correct": true,
+  "reason": "Correctly identifies Madrid as the capital of Spain."
+ },
+ "dream|0.5|48": {
+  "id": "dream|0.5|48",
+  "correct": true,
+  "reason": "Correctly describes the Eiffel Tower."
+ },
+ "dream|0.5|49": {
+  "id": "dream|0.5|49",
+  "correct": true,
+  "reason": "Correctly describes Julius Caesar as a Roman general/statesman."
+ },
+ "dream|0.5|50": {
+  "id": "dream|0.5|50",
+  "correct": true,
+  "reason": "Correctly identifies Moscow as the capital of Russia."
+ },
+ "dream|0.5|51": {
+  "id": "dream|0.5|51",
+  "correct": true,
+  "reason": "Correctly describes the Amazon Rainforest despite grammatical issues."
+ },
+ "dream|0.5|52": {
+  "id": "dream|0.5|52",
+  "correct": true,
+  "reason": "Correctly attributes The Great Gatsby to F. Scott Fitzgerald."
+ },
+ "dream|0.5|53": {
+  "id": "dream|0.5|53",
+  "correct": true,
+  "reason": "Correctly identifies Rome as the capital of Italy."
+ },
+ "dream|0.5|54": {
+  "id": "dream|0.5|54",
+  "correct": true,
+  "reason": "Correctly describes the Colosseum as an ancient Roman amphitheater."
+ },
+ "dream|0.5|55": {
+  "id": "dream|0.5|55",
+  "correct": true,
+  "reason": "Correctly describes Napoleon Bonaparte as French military/political leader."
+ },
+ "dream|0.5|56": {
+  "id": "dream|0.5|56",
+  "correct": true,
+  "reason": "Correctly identifies Mexico City as the capital of Mexico."
+ },
+ "dream|0.5|57": {
+  "id": "dream|0.5|57",
+  "correct": true,
+  "reason": "Correctly describes the Grand Canyon."
+ },
+ "dream|0.5|58": {
+  "id": "dream|0.5|58",
+  "correct": true,
+  "reason": "Correctly attributes Moby Dick to Herman Melville."
+ },
+ "dream|0.5|59": {
+  "id": "dream|0.5|59",
+  "correct": true,
+  "reason": "Correctly identifies Athens as the capital of Greece."
+ },
+ "dream|0.5|60": {
+  "id": "dream|0.5|60",
+  "correct": true,
+  "reason": "Correctly describes the Acropolis and Parthenon in Athens."
+ },
+ "dream|0.5|61": {
+  "id": "dream|0.5|61",
+  "correct": true,
+  "reason": "Recognizably describes Alexander the Great and his conquests despite a garbled word."
+ },
+ "dream|0.5|62": {
+  "id": "dream|0.5|62",
+  "correct": true,
+  "reason": "Correctly identifies Ankara as the capital of Turkey."
+ },
+ "dream|0.5|63": {
+  "id": "dream|0.5|63",
+  "correct": true,
+  "reason": "Correctly describes the Taj Mahal and Shah Jahan."
+ },
+ "dream|0.5|64": {
+  "id": "dream|0.5|64",
+  "correct": true,
+  "reason": "Correctly attributes Don Quixote to Miguel de Cervantes."
+ },
+ "dream|0.5|65": {
+  "id": "dream|0.5|65",
+  "correct": true,
+  "reason": "Correctly identifies Seoul as the capital of South Korea."
+ },
+ "dream|0.5|66": {
+  "id": "dream|0.5|66",
+  "correct": true,
+  "reason": "Correctly identifies Mount Fuji as a volcanic mountain in Japan."
+ },
+ "dream|0.5|67": {
+  "id": "dream|0.5|67",
+  "correct": true,
+  "reason": "Correctly describes Leonardo da Vinci's many roles."
+ },
+ "dream|0.5|68": {
+  "id": "dream|0.5|68",
+  "correct": true,
+  "reason": "Correctly identifies Bangkok as the capital of Thailand."
+ },
+ "dream|0.5|69": {
+  "id": "dream|0.5|69",
+  "correct": true,
+  "reason": "Correctly describes Angkor Wat as a temple complex in Cambodia."
+ },
+ "dream|0.5|70": {
+  "id": "dream|0.5|70",
+  "correct": true,
+  "reason": "Correctly attributes Crime and Punishment to Fyodor Dostoevsky."
+ },
+ "dream|0.5|71": {
+  "id": "dream|0.5|71",
+  "correct": true,
+  "reason": "Correctly identifies Hanoi as the capital of Vietnam."
+ },
+ "dream|0.5|72": {
+  "id": "dream|0.5|72",
+  "correct": true,
+  "reason": "Correctly describes Ha Long Bay as a UNESCO site in Vietnam."
+ },
+ "dream|0.5|73": {
+  "id": "dream|0.5|73",
+  "correct": true,
+  "reason": "Correctly describes Vincent van Gogh and his famous works."
+ },
+ "dream|0.5|74": {
+  "id": "dream|0.5|74",
+  "correct": true,
+  "reason": "Correctly identifies Amsterdam as the capital of the Netherlands."
+ },
+ "dream|0.5|75": {
+  "id": "dream|0.5|75",
+  "correct": true,
+  "reason": "Correctly describes Big Ben at the Palace of Westminster."
+ },
+ "dream|0.5|76": {
+  "id": "dream|0.5|76",
+  "correct": true,
+  "reason": "Correctly attributes Anna Karenina to Leo Tolstoy."
+ },
+ "dream|0.5|77": {
+  "id": "dream|0.5|77",
+  "correct": true,
+  "reason": "Correctly identifies Brussels as the capital of Belgium."
+ },
+ "dream|0.5|78": {
+  "id": "dream|0.5|78",
+  "correct": true,
+  "reason": "Correctly identifies the Sagrada Familia as Gaud\u00ed's church in Barcelona."
+ },
+ "dream|0.5|79": {
+  "id": "dream|0.5|79",
+  "correct": true,
+  "reason": "Correctly identifies Pablo Picasso as a Spanish artist, despite repetitive phrasing."
+ },
+ "dream|0.5|80": {
+  "id": "dream|0.5|80",
+  "correct": true,
+  "reason": "Correctly identifies Lisbon as the capital of Portugal."
+ },
+ "dream|0.5|81": {
+  "id": "dream|0.5|81",
+  "correct": false,
+  "reason": "The answer is incomplete/garbled and never describes what the statue actually depicts (Jesus Christ) or where."
+ },
+ "dream|0.5|82": {
+  "id": "dream|0.5|82",
+  "correct": true,
+  "reason": "Correctly attributes The Odyssey to Homer."
+ },
+ "dream|0.5|83": {
+  "id": "dream|0.5|83",
+  "correct": true,
+  "reason": "Correctly identifies Stockholm as the capital of Sweden."
+ },
+ "dream|0.5|84": {
+  "id": "dream|0.5|84",
+  "correct": true,
+  "reason": "Correctly describes the Aurora Borealis/Northern Lights phenomenon."
+ },
+ "dream|0.5|85": {
+  "id": "dream|0.5|85",
+  "correct": true,
+  "reason": "Correctly identifies Marie Curie as a (Polish-born) physicist."
+ },
+ "dream|0.5|86": {
+  "id": "dream|0.5|86",
+  "correct": true,
+  "reason": "Correctly identifies Oslo as the capital of Norway."
+ },
+ "dream|0.5|87": {
+  "id": "dream|0.5|87",
+  "correct": true,
+  "reason": "Correctly describes the Northern Lights phenomenon."
+ },
+ "dream|0.5|88": {
+  "id": "dream|0.5|88",
+  "correct": true,
+  "reason": "Correctly attributes Ulysses to James Joyce."
+ },
+ "dream|0.5|89": {
+  "id": "dream|0.5|89",
+  "correct": true,
+  "reason": "Correctly identifies Bern as the capital of Switzerland."
+ },
+ "dream|0.5|90": {
+  "id": "dream|0.5|90",
+  "correct": true,
+  "reason": "Correctly describes the Matterhorn's location in the Swiss Alps."
+ },
+ "dream|0.5|91": {
+  "id": "dream|0.5|91",
+  "correct": true,
+  "reason": "Correctly describes Albert Einstein and his Nobel Prize/relativity work."
+ },
+ "dream|0.7|0": {
+  "id": "dream|0.7|0",
+  "correct": true,
+  "reason": "Correctly states Paris as the capital of France."
+ },
+ "dream|0.7|1": {
+  "id": "dream|0.7|1",
+  "correct": true,
+  "reason": "Correctly attributes Romeo and Juliet to William Shakespeare."
+ },
+ "dream|0.7|2": {
+  "id": "dream|0.7|2",
+  "correct": true,
+  "reason": "Correctly identifies Jupiter as the largest planet."
+ },
+ "dream|0.7|3": {
+  "id": "dream|0.7|3",
+  "correct": true,
+  "reason": "Correctly states July 4, 1776 as the Declaration's date."
+ },
+ "dream|0.7|4": {
+  "id": "dream|0.7|4",
+  "correct": true,
+  "reason": "Correctly states 206 bones despite garbled trailing text."
+ },
+ "dream|0.7|5": {
+  "id": "dream|0.7|5",
+  "correct": true,
+  "reason": "Correctly credits Alexander Graham Bell with inventing the telephone."
+ },
+ "dream|0.7|6": {
+  "id": "dream|0.7|6",
+  "correct": true,
+  "reason": "Correctly gives H2O as water's chemical formula."
+ },
+ "dream|0.7|7": {
+  "id": "dream|0.7|7",
+  "correct": true,
+  "reason": "Correct speed of light figure (186,282 mi/s) despite minor grammar issue."
+ },
+ "dream|0.7|8": {
+  "id": "dream|0.7|8",
+  "correct": true,
+  "reason": "Correctly credits Leonardo da Vinci for the Mona Lisa."
+ },
+ "dream|0.7|9": {
+  "id": "dream|0.7|9",
+  "correct": true,
+  "reason": "Correctly names Vatican City as smallest country."
+ },
+ "dream|0.7|10": {
+  "id": "dream|0.7|10",
+  "correct": true,
+  "reason": "Correctly lists seven continents despite repeated/garbled words."
+ },
+ "dream|0.7|11": {
+  "id": "dream|0.7|11",
+  "correct": true,
+  "reason": "Correctly states Tokyo as Japan's capital."
+ },
+ "dream|0.7|12": {
+  "id": "dream|0.7|12",
+  "correct": true,
+  "reason": "Correctly names George Washington with accurate term dates."
+ },
+ "dream|0.7|13": {
+  "id": "dream|0.7|13",
+  "correct": true,
+  "reason": "Correctly states 100 degrees Celsius as water's boiling point."
+ },
+ "dream|0.7|14": {
+  "id": "dream|0.7|14",
+  "correct": true,
+  "reason": "Correctly states ~365 days for Earth's orbit."
+ },
+ "dream|0.7|15": {
+  "id": "dream|0.7|15",
+  "correct": true,
+  "reason": "Correctly and accurately states the Pythagorean theorem."
+ },
+ "dream|0.7|16": {
+  "id": "dream|0.7|16",
+  "correct": true,
+  "reason": "Correctly attributes 1984 to George Orwell."
+ },
+ "dream|0.7|17": {
+  "id": "dream|0.7|17",
+  "correct": true,
+  "reason": "Correctly describes the Great Wall despite garbled phrasing."
+ },
+ "dream|0.7|18": {
+  "id": "dream|0.7|18",
+  "correct": true,
+  "reason": "Correctly states a triangle has three sides."
+ },
+ "dream|0.7|19": {
+  "id": "dream|0.7|19",
+  "correct": true,
+  "reason": "Accurate description of photosynthesis."
+ },
+ "dream|0.7|20": {
+  "id": "dream|0.7|20",
+  "correct": true,
+  "reason": "Correctly credits Isaac Newton with discovering gravity (commonly accepted answer)."
+ },
+ "dream|0.7|21": {
+  "id": "dream|0.7|21",
+  "correct": true,
+  "reason": "Correctly states the euro as Germany's currency."
+ },
+ "dream|0.7|22": {
+  "id": "dream|0.7|22",
+  "correct": true,
+  "reason": "Correctly identifies the Pacific as the largest ocean despite garbled stats."
+ },
+ "dream|0.7|23": {
+  "id": "dream|0.7|23",
+  "correct": true,
+  "reason": "Reasonable answer noting multiple biblical authors including Moses and Isaiah."
+ },
+ "dream|0.7|24": {
+  "id": "dream|0.7|24",
+  "correct": true,
+  "reason": "Gives a reasonable current population estimate (~1.4 billion) for China."
+ },
+ "dream|0.7|25": {
+  "id": "dream|0.7|25",
+  "correct": true,
+  "reason": "Accurate definition of DNA."
+ },
+ "dream|0.7|26": {
+  "id": "dream|0.7|26",
+  "correct": false,
+  "reason": "Answer is truncated to 'Al' and never names an actual inventor."
+ },
+ "dream|0.7|27": {
+  "id": "dream|0.7|27",
+  "correct": true,
+  "reason": "Correct Earth-Sun distance (~149.6 million km / 1 AU)."
+ },
+ "dream|0.7|28": {
+  "id": "dream|0.7|28",
+  "correct": true,
+  "reason": "Correctly attributes Hamlet to Shakespeare."
+ },
+ "dream|0.7|29": {
+  "id": "dream|0.7|29",
+  "correct": true,
+  "reason": "Correctly states Bras\u00edlia as Brazil's capital."
+ },
+ "dream|0.7|30": {
+  "id": "dream|0.7|30",
+  "correct": true,
+  "reason": "Correctly identifies Mount Everest as the highest mountain."
+ },
+ "dream|0.7|31": {
+  "id": "dream|0.7|31",
+  "correct": true,
+  "reason": "Correctly describes Lincoln as 16th U.S. president with accurate dates."
+ },
+ "dream|0.7|32": {
+  "id": "dream|0.7|32",
+  "correct": true,
+  "reason": "Correctly states 0\u00b0C/32\u00b0F as water's freezing point."
+ },
+ "dream|0.7|33": {
+  "id": "dream|0.7|33",
+  "correct": true,
+  "reason": "Correctly states Canberra as Australia's capital."
+ },
+ "dream|0.7|34": {
+  "id": "dream|0.7|34",
+  "correct": true,
+  "reason": "Correctly credits (Johannes) Gutenberg, a German, with the printing press."
+ },
+ "dream|0.7|35": {
+  "id": "dream|0.7|35",
+  "correct": true,
+  "reason": "Conveys the core idea that the periodic table organizes elements."
+ },
+ "dream|0.7|36": {
+  "id": "dream|0.7|36",
+  "correct": true,
+  "reason": "Correctly states Cairo as Egypt's capital."
+ },
+ "dream|0.7|37": {
+  "id": "dream|0.7|37",
+  "correct": true,
+  "reason": "Correctly identifies Cleopatra as Egypt's last pharaoh, daughter of Ptolemy."
+ },
+ "dream|0.7|38": {
+  "id": "dream|0.7|38",
+  "correct": true,
+  "reason": "Correctly states New Delhi as India's capital."
+ },
+ "dream|0.7|39": {
+  "id": "dream|0.7|39",
+  "correct": true,
+  "reason": "Correctly describes the Great Barrier Reef off Queensland, Australia."
+ },
+ "dream|0.7|40": {
+  "id": "dream|0.7|40",
+  "correct": true,
+  "reason": "Correctly attributes Pride and Prejudice to Jane Austen."
+ },
+ "dream|0.7|41": {
+  "id": "dream|0.7|41",
+  "correct": true,
+  "reason": "Correctly states Ottawa as Canada's capital."
+ },
+ "dream|0.7|42": {
+  "id": "dream|0.7|42",
+  "correct": false,
+  "reason": "Answer is cut off with no actual content ('is a.')."
+ },
+ "dream|0.7|43": {
+  "id": "dream|0.7|43",
+  "correct": true,
+  "reason": "Correctly credits Alexander Graham Bell with inventing the telephone."
+ },
+ "dream|0.7|44": {
+  "id": "dream|0.7|44",
+  "correct": true,
+  "reason": "Correctly states Paris as France's capital."
+ },
+ "dream|0.7|45": {
+  "id": "dream|0.7|45",
+  "correct": true,
+  "reason": "Correctly names the Sahara as the (commonly cited) largest desert."
+ },
+ "dream|0.7|46": {
+  "id": "dream|0.7|46",
+  "correct": true,
+  "reason": "Correctly attributes War and Peace to Leo Tolstoy despite name garbling."
+ },
+ "dream|0.7|47": {
+  "id": "dream|0.7|47",
+  "correct": true,
+  "reason": "Correctly states Madrid as Spain's capital."
+ },
+ "dream|0.7|48": {
+  "id": "dream|0.7|48",
+  "correct": true,
+  "reason": "Accurate description of the Eiffel Tower in Paris."
+ },
+ "dream|0.7|49": {
+  "id": "dream|0.7|49",
+  "correct": true,
+  "reason": "Accurate description of Julius Caesar as Roman general/dictator."
+ },
+ "dream|0.7|50": {
+  "id": "dream|0.7|50",
+  "correct": true,
+  "reason": "Correctly states Moscow as Russia's capital."
+ },
+ "dream|0.7|51": {
+  "id": "dream|0.7|51",
+  "correct": true,
+  "reason": "Correctly describes the Amazon Rainforest in South America despite garbling."
+ },
+ "dream|0.7|52": {
+  "id": "dream|0.7|52",
+  "correct": true,
+  "reason": "Correctly attributes The Great Gatsby to F. Scott Fitzgerald."
+ },
+ "dream|0.7|53": {
+  "id": "dream|0.7|53",
+  "correct": true,
+  "reason": "Correctly states Rome as Italy's capital."
+ },
+ "dream|0.7|54": {
+  "id": "dream|0.7|54",
+  "correct": true,
+  "reason": "Correctly describes the Colosseum's Roman origin under Vespasian/Titus era."
+ },
+ "dream|0.7|55": {
+  "id": "dream|0.7|55",
+  "correct": true,
+  "reason": "Correctly describes Napoleon as French military leader/emperor."
+ },
+ "dream|0.7|56": {
+  "id": "dream|0.7|56",
+  "correct": true,
+  "reason": "Correctly states Mexico City as Mexico's capital."
+ },
+ "dream|0.7|57": {
+  "id": "dream|0.7|57",
+  "correct": true,
+  "reason": "Correctly identifies the Grand Canyon as located in Arizona."
+ },
+ "dream|0.7|58": {
+  "id": "dream|0.7|58",
+  "correct": true,
+  "reason": "Correctly attributes Moby Dick to Herman Melville."
+ },
+ "dream|0.7|59": {
+  "id": "dream|0.7|59",
+  "correct": true,
+  "reason": "Correctly states Athens as Greece's capital."
+ },
+ "dream|0.7|60": {
+  "id": "dream|0.7|60",
+  "correct": true,
+  "reason": "Reasonably describes the Acropolis as an Athenian hilltop site with a temple to Athena."
+ },
+ "dream|0.7|61": {
+  "id": "dream|0.7|61",
+  "correct": false,
+  "reason": "Answer is cut off with no actual content ('was a.')."
+ },
+ "dream|0.7|62": {
+  "id": "dream|0.7|62",
+  "correct": true,
+  "reason": "Correctly states Ankara as Turkey's capital."
+ },
+ "dream|0.7|63": {
+  "id": "dream|0.7|63",
+  "correct": true,
+  "reason": "Correctly describes the Taj Mahal as a mausoleum in Agra, India."
+ },
+ "dream|0.7|64": {
+  "id": "dream|0.7|64",
+  "correct": true,
+  "reason": "Correctly attributes Don Quixote to Miguel de Cervantes."
+ },
+ "dream|0.7|65": {
+  "id": "dream|0.7|65",
+  "correct": true,
+  "reason": "Correctly states Seoul as South Korea's capital."
+ },
+ "dream|0.7|66": {
+  "id": "dream|0.7|66",
+  "correct": true,
+  "reason": "Correctly describes Mount Fuji as a volcano in Japan."
+ },
+ "dream|0.7|67": {
+  "id": "dream|0.7|67",
+  "correct": true,
+  "reason": "Correctly identifies da Vinci as a Renaissance figure despite truncation."
+ },
+ "dream|0.7|68": {
+  "id": "dream|0.7|68",
+  "correct": true,
+  "reason": "Correctly states Bangkok as Thailand's capital."
+ },
+ "dream|0.7|69": {
+  "id": "dream|0.7|69",
+  "correct": true,
+  "reason": "Correctly describes Angkor Wat as a temple complex in Cambodia."
+ },
+ "dream|0.7|70": {
+  "id": "dream|0.7|70",
+  "correct": true,
+  "reason": "Correctly attributes Crime and Punishment to Fyodor Dostoevsky."
+ },
+ "dream|0.7|71": {
+  "id": "dream|0.7|71",
+  "correct": true,
+  "reason": "Correctly states Hanoi as Vietnam's capital."
+ },
+ "dream|0.7|72": {
+  "id": "dream|0.7|72",
+  "correct": true,
+  "reason": "Correctly identifies Ha Long Bay as a natural wonder in (northern) Vietnam."
+ },
+ "dream|0.7|73": {
+  "id": "dream|0.7|73",
+  "correct": true,
+  "reason": "Correctly describes Van Gogh as a Dutch post-Impressionist painter."
+ },
+ "dream|0.7|74": {
+  "id": "dream|0.7|74",
+  "correct": true,
+  "reason": "Correctly states Amsterdam as the Netherlands' capital."
+ },
+ "dream|0.7|75": {
+  "id": "dream|0.7|75",
+  "correct": true,
+  "reason": "Correctly describes Big Ben as the clock/bell tower at Westminster."
+ },
+ "dream|0.7|76": {
+  "id": "dream|0.7|76",
+  "correct": true,
+  "reason": "Correctly attributes Anna Karenina to Leo Tolstoy."
+ },
+ "dream|0.7|77": {
+  "id": "dream|0.7|77",
+  "correct": true,
+  "reason": "Correctly states Brussels as Belgium's capital."
+ },
+ "dream|0.7|78": {
+  "id": "dream|0.7|78",
+  "correct": true,
+  "reason": "Correctly describes the Sagrada Familia as a Barcelona basilica/cathedral."
+ },
+ "dream|0.7|79": {
+  "id": "dream|0.7|79",
+  "correct": true,
+  "reason": "Correctly describes Picasso as a Spanish painter with accurate birth/death years."
+ },
+ "dream|0.7|80": {
+  "id": "dream|0.7|80",
+  "correct": true,
+  "reason": "Correctly states Lisbon as Portugal's capital."
+ },
+ "dream|0.7|81": {
+  "id": "dream|0.7|81",
+  "correct": true,
+  "reason": "Correctly describes Christ the Redeemer statue in Rio de Janeiro."
+ },
+ "dream|0.7|82": {
+  "id": "dream|0.7|82",
+  "correct": true,
+  "reason": "Correctly attributes The Odyssey to Homer."
+ },
+ "dream|0.7|83": {
+  "id": "dream|0.7|83",
+  "correct": true,
+  "reason": "Correctly states Stockholm as Sweden's capital."
+ },
+ "dream|0.7|84": {
+  "id": "dream|0.7|84",
+  "correct": true,
+  "reason": "Correctly describes Aurora Borealis as the Northern Lights phenomenon."
+ },
+ "dream|0.7|85": {
+  "id": "dream|0.7|85",
+  "correct": true,
+  "reason": "Correctly identifies Marie Curie's work on radium/radioactivity despite garbling."
+ },
+ "dream|0.7|86": {
+  "id": "dream|0.7|86",
+  "correct": true,
+  "reason": "Correctly states Oslo as Norway's capital."
+ },
+ "dream|0.7|87": {
+  "id": "dream|0.7|87",
+  "correct": true,
+  "reason": "Correctly describes the Northern Lights phenomenon."
+ },
+ "dream|0.7|88": {
+  "id": "dream|0.7|88",
+  "correct": true,
+  "reason": "Correctly attributes Ulysses to James Joyce."
+ },
+ "dream|0.7|89": {
+  "id": "dream|0.7|89",
+  "correct": true,
+  "reason": "Correctly states Bern as Switzerland's capital."
+ },
+ "dream|0.7|90": {
+  "id": "dream|0.7|90",
+  "correct": true,
+  "reason": "Correctly describes the Matterhorn as a mountain in Switzerland."
+ },
+ "dream|0.7|91": {
+  "id": "dream|0.7|91",
+  "correct": true,
+  "reason": "Correctly describes Einstein as a theoretical physicist known for relativity."
+ },
+ "dream|0.9|0": {
+  "id": "dream|0.9|0",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of France is Paris.\""
+ },
+ "dream|0.9|1": {
+  "id": "dream|0.9|1",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Romeo and Juliet is a play written by William Shakespeare, an English poet.\""
+ },
+ "dream|0.9|2": {
+  "id": "dream|0.9|2",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Jupiter is the largest planet in our solar system.\""
+ },
+ "dream|0.9|3": {
+  "id": "dream|0.9|3",
+  "correct": false,
+  "reason": "States the Declaration was signed August 2, 1777, but it was actually signed in 1776."
+ },
+ "dream|0.9|4": {
+  "id": "dream|0.9|4",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The human body consists of 200 bones at birth, but by the time someone are an adult, the will be 206 bones, as some bones fuse and develop.\""
+ },
+ "dream|0.9|5": {
+  "id": "dream|0.9|5",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The telephone was invented by Alexander Graham Bell in 1876.\""
+ },
+ "dream|0.9|6": {
+  "id": "dream|0.9|6",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The chemical formula for water is H\u2082O.\""
+ },
+ "dream|0.9|7": {
+  "id": "dream|0.9|7",
+  "correct": false,
+  "reason": "Gives the speed of light as 299,972,458 m/s, but the correct value is 299,792,458 m/s."
+ },
+ "dream|0.9|8": {
+  "id": "dream|0.9|8",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Mona Lisa, a known as La Gioconda or is an oil-on-ustred panel panel painting by Italian artist Leonardo da Vinci between 1503 and 1506.\""
+ },
+ "dream|0.9|9": {
+  "id": "dream|0.9|9",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The smallest country in the world by land area is the Vatican City.\""
+ },
+ "dream|0.9|10": {
+  "id": "dream|0.9|10",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"There are seven continents on Earth.\""
+ },
+ "dream|0.9|11": {
+  "id": "dream|0.9|11",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Japan is Tokyo, located is the eastern part of Japan.\""
+ },
+ "dream|0.9|12": {
+  "id": "dream|0.9|12",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The first president of the United States was George Washington.\""
+ },
+ "dream|0.9|13": {
+  "id": "dream|0.9|13",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The boiling point of water is 212 degrees Fahrenheit (100 degrees Celsius).\""
+ },
+ "dream|0.9|14": {
+  "id": "dream|0.9|14",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The takes Earth Earth 365.24 days to orbit the Sun.\""
+ },
+ "dream|0.9|15": {
+  "id": "dream|0.9|15",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Pythagorean theorem is a mathematical theorem that states that in a right-angled triangle, the square of the hypoten triangle is equal...\""
+ },
+ "dream|0.9|16": {
+  "id": "dream|0.9|16",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"1984 is a dystopian novel by by George author: George Orwell.\""
+ },
+ "dream|0.9|17": {
+  "id": "dream|0.9|17",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Great Wall of China is an ancient fortifications built along China's northern border, serving to protect the country from inv raiding...\""
+ },
+ "dream|0.9|18": {
+  "id": "dream|0.9|18",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"A triangle has three sides.\""
+ },
+ "dream|0.9|19": {
+  "id": "dream|0.9|19",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Photosynthesis is a process used by plants to convert light energy into chemical energy stored in glucose...\""
+ },
+ "dream|0.9|20": {
+  "id": "dream|0.9|20",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Gravity, been known as a force in attraction, two bodies in the universe are are attracted to each other, was discovered by Sir Isaac...\""
+ },
+ "dream|0.9|21": {
+  "id": "dream|0.9|21",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The currency of Germany is the Euro, \u20ac).\""
+ },
+ "dream|0.9|22": {
+  "id": "dream|0.9|22",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The largest ocean on Earth is the Pacific Ocean, covering about 36% of the planet's surface..\""
+ },
+ "dream|0.9|23": {
+  "id": "dream|0.9|23",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Bible is written ancient literature and was written by many writers over centuries from their lives, but inspired by God.\""
+ },
+ "dream|0.9|24": {
+  "id": "dream|0.9|24",
+  "correct": false,
+  "reason": "Answer is garbled/incoherent ('approximately 1.447 people'), missing the actual population figure."
+ },
+ "dream|0.9|25": {
+  "id": "dream|0.9|25",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"DNA, or deoxyribonucleic acid, is a long molecule made of genes that carries the genetic information of an organism.\""
+ },
+ "dream|0.9|26": {
+  "id": "dream|0.9|26",
+  "correct": false,
+  "reason": "Answer is truncated to a non-answer ('The internet was...') with no actual content."
+ },
+ "dream|0.9|27": {
+  "id": "dream|0.9|27",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The average distance from Earth to the Sun is approximately 149.6 million kilometers or 92.9 million miles.\""
+ },
+ "dream|0.9|28": {
+  "id": "dream|0.9|28",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"William Shakespeare wrote.\""
+ },
+ "dream|0.9|29": {
+  "id": "dream|0.9|29",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Brazil is Bras\u00edlia.\""
+ },
+ "dream|0.9|30": {
+  "id": "dream|0.9|30",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The highest mountain in the world is Mount Everest, located in the Himalayas between China and Tibet.\""
+ },
+ "dream|0.9|31": {
+  "id": "dream|0.9|31",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Abraham Lincoln was the 16th President of the United States.\""
+ },
+ "dream|0.9|32": {
+  "id": "dream|0.9|32",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The freezing point of water is 0 degrees Celsius or 32 degrees Fahrenheit.\""
+ },
+ "dream|0.9|33": {
+  "id": "dream|0.9|33",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Australia is Canberra.\""
+ },
+ "dream|0.9|34": {
+  "id": "dream|0.9|34",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Gutenberg\""
+ },
+ "dream|0.9|35": {
+  "id": "dream|0.9|35",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The periodic table is a system for organizing all the inorganic elements in the science of chemistry.\""
+ },
+ "dream|0.9|36": {
+  "id": "dream|0.9|36",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Egypt is Cairo.\""
+ },
+ "dream|0.9|37": {
+  "id": "dream|0.9|37",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Cleopatra was a female who ruled in ancient Egypt.\""
+ },
+ "dream|0.9|38": {
+  "id": "dream|0.9|38",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of India is New Delhi.\""
+ },
+ "dream|0.9|39": {
+  "id": "dream|0.9|39",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia.\""
+ },
+ "dream|0.9|40": {
+  "id": "dream|0.9|40",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Pride and Prejudice, or in Sensibility and Sensibility was novel by Jane Austin.\""
+ },
+ "dream|0.9|41": {
+  "id": "dream|0.9|41",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Canada is Ottawa.\""
+ },
+ "dream|0.9|42": {
+  "id": "dream|0.9|42",
+  "correct": false,
+  "reason": "Answer is a non-answer fragment ('The Statue of Liberty,.') with no descriptive content."
+ },
+ "dream|0.9|43": {
+  "id": "dream|0.9|43",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The telephone was invented by Alexander Graham Bell on March 10, 1876.\""
+ },
+ "dream|0.9|44": {
+  "id": "dream|0.9|44",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of France is Paris.\""
+ },
+ "dream|0.9|45": {
+  "id": "dream|0.9|45",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The largest desert in the world is the Antarctic Desert.\""
+ },
+ "dream|0.9|46": {
+  "id": "dream|0.9|46",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"War and Peace is written by Leo Tolstoy, a famous Russian author.\""
+ },
+ "dream|0.9|47": {
+  "id": "dream|0.9|47",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Spain is Madrid.\""
+ },
+ "dream|0.9|48": {
+  "id": "dream|0.9|48",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Eiffel Tower is a famous iron lattice tower located in Paris, France.\""
+ },
+ "dream|0.9|49": {
+  "id": "dream|0.9|49",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Julius Caesar was a Roman general and statesman, known for his military politicals that contributed to the overthrow of the Roman Republic...\""
+ },
+ "dream|0.9|50": {
+  "id": "dream|0.9|50",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Russia is Moscow, located in the northern of Russia..\""
+ },
+ "dream|0.9|51": {
+  "id": "dream|0.9|51",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Amazon Rainforest is one largest rainforest in the world.\""
+ },
+ "dream|0.9|52": {
+  "id": "dream|0.9|52",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Great Gatsby is a novel written by American writer F.\""
+ },
+ "dream|0.9|53": {
+  "id": "dream|0.9|53",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Italy is Rome.\""
+ },
+ "dream|0.9|54": {
+  "id": "dream|0.9|54",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Colosseum is an amph amphitheater built Rome.\""
+ },
+ "dream|0.9|55": {
+  "id": "dream|0.9|55",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Napoleon Bonaparte was a French military, states, and political leader who ruled as Emperor during the Napoleonic Wars.\""
+ },
+ "dream|0.9|56": {
+  "id": "dream|0.9|56",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Mexico is Mexico City.\""
+ },
+ "dream|0.9|57": {
+  "id": "dream|0.9|57",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Grand Canyon is a massive tourist formation in the western United It was formed by the Colorado River..\""
+ },
+ "dream|0.9|58": {
+  "id": "dream|0.9|58",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Moby Dick was written by Herman Melville.\""
+ },
+ "dream|0.9|59": {
+  "id": "dream|0.9|59",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Greece is Athens.\""
+ },
+ "dream|0.9|60": {
+  "id": "dream|0.9|60",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Acropolis is a hill in Athens..\""
+ },
+ "dream|0.9|61": {
+  "id": "dream|0.9|61",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Alexander the Great was an ancient Greek king who expanded an empire that would from the Ae of Greece to the Indus River.\""
+ },
+ "dream|0.9|62": {
+  "id": "dream|0.9|62",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Turkey is Ankara.\""
+ },
+ "dream|0.9|63": {
+  "id": "dream|0.9|63",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Taj Mahal is a beautiful mausoleum located in Agra, India.\""
+ },
+ "dream|0.9|64": {
+  "id": "dream|0.9|64",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Don Quixote was written by Miguel de Cervantes.\""
+ },
+ "dream|0.9|65": {
+  "id": "dream|0.9|65",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Seoul\""
+ },
+ "dream|0.9|66": {
+  "id": "dream|0.9|66",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Mount Fuji is a iconic volcano located in Japan.\""
+ },
+ "dream|0.9|67": {
+  "id": "dream|0.9|67",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Leonardo da Vinci was a Renaissance Italian polym who lived in the 15th century.\""
+ },
+ "dream|0.9|68": {
+  "id": "dream|0.9|68",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Thailand is Bangkok.\""
+ },
+ "dream|0.9|69": {
+  "id": "dream|0.9|69",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Angkor Wat is a large complex of religious buildings, including of a temple temple complex, built by 12th century Khmer Empire in the...\""
+ },
+ "dream|0.9|70": {
+  "id": "dream|0.9|70",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Crime and Punishment was written by Fyodor Dostoevsky.\""
+ },
+ "dream|0.9|71": {
+  "id": "dream|0.9|71",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Vietnam is Hanoi.\""
+ },
+ "dream|0.9|72": {
+  "id": "dream|0.9|72",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Ha Long Bay is a protected natural area located in northern Vietnam, featuring for over 2,200 islands that are characterized by unique...\""
+ },
+ "dream|0.9|73": {
+  "id": "dream|0.9|73",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Vincent van Gogh was a Dutch post-impressionist artist who for most long his of his career was little known as a artist but has work has...\""
+ },
+ "dream|0.9|74": {
+  "id": "dream|0.9|74",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital is Amsterdam.\""
+ },
+ "dream|0.9|75": {
+  "id": "dream|0.9|75",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Big Ben refers to the main tower at the Palace of Westminster in London.\""
+ },
+ "dream|0.9|76": {
+  "id": "dream|0.9|76",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Anna Karenina was written by Leo Tolstoy.\""
+ },
+ "dream|0.9|77": {
+  "id": "dream|0.9|77",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Brussels.\""
+ },
+ "dream|0.9|78": {
+  "id": "dream|0.9|78",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Sagrada Familia is a prominent church in Barcelona designed by Antoni Gaud\u00ed.\""
+ },
+ "dream|0.9|79": {
+  "id": "dream|0.9|79",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Pablo Picasso was a Spanish artist, for being one leading figures of the 20th century Art.\""
+ },
+ "dream|0.9|80": {
+  "id": "dream|0.9|80",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Portugal is Lisbon.\""
+ },
+ "dream|0.9|81": {
+  "id": "dream|0.9|81",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Christ the Redeemer is a statue statue that Jesus Christ.\""
+ },
+ "dream|0.9|82": {
+  "id": "dream|0.9|82",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Odyssey was written by Greek epic poet Homer.\""
+ },
+ "dream|0.9|83": {
+  "id": "dream|0.9|83",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Sweden is Stockholm.\""
+ },
+ "dream|0.9|84": {
+  "id": "dream|0.9|84",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Aurora Borealis, also known as the Northern Lights, is a natural light display in the Earth's upper atmosphere that appears as shimmering...\""
+ },
+ "dream|0.9|85": {
+  "id": "dream|0.9|85",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Marie Curie, a Polish physicist and chemist, discovered and element radium and other substances.\""
+ },
+ "dream|0.9|86": {
+  "id": "dream|0.9|86",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Norway is Oslo.\""
+ },
+ "dream|0.9|87": {
+  "id": "dream|0.9|87",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Northern Lights are also known as theora boreore or Aurora are a naturally of lightur occurring in the night sky, usually around the...\""
+ },
+ "dream|0.9|88": {
+  "id": "dream|0.9|88",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Ulysses was written by James Joyce.\""
+ },
+ "dream|0.9|89": {
+  "id": "dream|0.9|89",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The capital of Switzerland is Bern.\""
+ },
+ "dream|0.9|90": {
+  "id": "dream|0.9|90",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"The Matterhorn is a mountain in the Swiss Alps.\""
+ },
+ "dream|0.9|91": {
+  "id": "dream|0.9|91",
+  "correct": true,
+  "reason": "Correctly answers the question, stating: \"Albert Einstein was a German theoretical physicist known for his theory of relativity.\""
+ },
+ "minicpm5|0.5|0": {
+  "id": "minicpm5|0.5|0",
+  "correct": true,
+  "reason": "Paris appears as the first and repeated answer, correct capital of France."
+ },
+ "minicpm5|0.5|1": {
+  "id": "minicpm5|0.5|1",
+  "correct": true,
+  "reason": "Shakespeare is the correct author of Romeo and Juliet."
+ },
+ "minicpm5|0.5|2": {
+  "id": "minicpm5|0.5|2",
+  "correct": true,
+  "reason": "Jupiter, listed first, is correctly the largest planet."
+ },
+ "minicpm5|0.5|3": {
+  "id": "minicpm5|0.5|3",
+  "correct": true,
+  "reason": "'4, 1776' correctly indicates July 4, 1776, the signing date."
+ },
+ "minicpm5|0.5|4": {
+  "id": "minicpm5|0.5|4",
+  "correct": true,
+  "reason": "206 bones is the correct number of bones in the adult human body."
+ },
+ "minicpm5|0.5|5": {
+  "id": "minicpm5|0.5|5",
+  "correct": true,
+  "reason": "Contains '1876' and 'Bell', correctly identifying Alexander Graham Bell as inventor."
+ },
+ "minicpm5|0.5|6": {
+  "id": "minicpm5|0.5|6",
+  "correct": false,
+  "reason": "'2H2H2O' is a garbled, incorrect chemical formula; water is H2O."
+ },
+ "minicpm5|0.5|7": {
+  "id": "minicpm5|0.5|7",
+  "correct": true,
+  "reason": "299,792,458 meters per second is the correct speed of light."
+ },
+ "minicpm5|0.5|8": {
+  "id": "minicpm5|0.5|8",
+  "correct": true,
+  "reason": "Correctly names Leonardo da Vinci as the painter of the Mona Lisa."
+ },
+ "minicpm5|0.5|9": {
+  "id": "minicpm5|0.5|9",
+  "correct": false,
+  "reason": "Answer is garbled numbers/punctuation with no country named (correct answer is Vatican City)."
+ },
+ "minicpm5|0.5|10": {
+  "id": "minicpm5|0.5|10",
+  "correct": true,
+  "reason": "Correctly states there are 7 continents."
+ },
+ "minicpm5|0.5|11": {
+  "id": "minicpm5|0.5|11",
+  "correct": true,
+  "reason": "Tokyo is the correct capital of Japan."
+ },
+ "minicpm5|0.5|12": {
+  "id": "minicpm5|0.5|12",
+  "correct": true,
+  "reason": "George Washington, listed first, is the correct first U.S. president."
+ },
+ "minicpm5|0.5|13": {
+  "id": "minicpm5|0.5|13",
+  "correct": true,
+  "reason": "100\u00b0C / 212\u00b0F is the correct boiling point of water."
+ },
+ "minicpm5|0.5|14": {
+  "id": "minicpm5|0.5|14",
+  "correct": true,
+  "reason": "365 days is approximately correct for Earth's orbital period."
+ },
+ "minicpm5|0.5|15": {
+  "id": "minicpm5|0.5|15",
+  "correct": true,
+  "reason": "a^2 + b^2 = c^2 is the correct Pythagorean theorem."
+ },
+ "minicpm5|0.5|16": {
+  "id": "minicpm5|0.5|16",
+  "correct": false,
+  "reason": "Just repeats '1984' with no author named; correct answer is George Orwell."
+ },
+ "minicpm5|0.5|17": {
+  "id": "minicpm5|0.5|17",
+  "correct": false,
+  "reason": "Garbled numbers with no coherent description of the Great Wall of China."
+ },
+ "minicpm5|0.5|18": {
+  "id": "minicpm5|0.5|18",
+  "correct": true,
+  "reason": "Correctly states a triangle has 3 sides."
+ },
+ "minicpm5|0.5|19": {
+  "id": "minicpm5|0.5|19",
+  "correct": true,
+  "reason": "Captures the core idea of photosynthesis as converting energy into organic molecules, despite garbling."
+ },
+ "minicpm5|0.5|20": {
+  "id": "minicpm5|0.5|20",
+  "correct": false,
+  "reason": "Just a list of numbers, no mention of Newton or gravity discovery."
+ },
+ "minicpm5|0.5|21": {
+  "id": "minicpm5|0.5|21",
+  "correct": false,
+  "reason": "Answer is empty/garbled numbers, no mention of Euro (Germany's currency)."
+ },
+ "minicpm5|0.5|22": {
+  "id": "minicpm5|0.5|22",
+  "correct": true,
+  "reason": "'The Pacific', listed first, is correctly the largest ocean."
+ },
+ "minicpm5|0.5|23": {
+  "id": "minicpm5|0.5|23",
+  "correct": false,
+  "reason": "Answer is just a numbered list with no content about the Bible's authorship."
+ },
+ "minicpm5|0.5|24": {
+  "id": "minicpm5|0.5|24",
+  "correct": true,
+  "reason": "1.3 billion is a reasonably correct approximation of China's population."
+ },
+ "minicpm5|0.5|25": {
+  "id": "minicpm5|0.5|25",
+  "correct": false,
+  "reason": "Describes DNA vaguely/inaccurately as 'a molecule of carbon and nitrogen', missing the actual definition."
+ },
+ "minicpm5|0.5|26": {
+  "id": "minicpm5|0.5|26",
+  "correct": false,
+  "reason": "Repeats 'Internet' with no inventor named (e.g., ARPANET researchers/Tim Berners-Lee)."
+ },
+ "minicpm5|0.5|27": {
+  "id": "minicpm5|0.5|27",
+  "correct": true,
+  "reason": "93 million miles / 150 million km is the correct Earth-Sun distance."
+ },
+ "minicpm5|0.5|28": {
+  "id": "minicpm5|0.5|28",
+  "correct": false,
+  "reason": "Answer is just numbers, no mention of Shakespeare as author of Hamlet."
+ },
+ "minicpm5|0.5|29": {
+  "id": "minicpm5|0.5|29",
+  "correct": false,
+  "reason": "Answer is garbled numbers/punctuation, no mention of Bras\u00edlia."
+ },
+ "minicpm5|0.5|30": {
+  "id": "minicpm5|0.5|30",
+  "correct": true,
+  "reason": "Correctly identifies Mount Everest at 8,848 meters as the highest mountain."
+ },
+ "minicpm5|0.5|31": {
+  "id": "minicpm5|0.5|31",
+  "correct": true,
+  "reason": "Correctly states Lincoln was the 16th President."
+ },
+ "minicpm5|0.5|32": {
+  "id": "minicpm5|0.5|32",
+  "correct": true,
+  "reason": "0.01\u00b0C is essentially the correct freezing point of water (~0\u00b0C)."
+ },
+ "minicpm5|0.5|33": {
+  "id": "minicpm5|0.5|33",
+  "correct": true,
+  "reason": "Canberra, listed first, is the correct capital of Australia."
+ },
+ "minicpm5|0.5|34": {
+  "id": "minicpm5|0.5|34",
+  "correct": true,
+  "reason": "Correctly names Johannes Gutenberg (Germany) as inventor of the printing press."
+ },
+ "minicpm5|0.5|35": {
+  "id": "minicpm5|0.5|35",
+  "correct": false,
+  "reason": "Answer is just a list of numbers with no description of the periodic table."
+ },
+ "minicpm5|0.5|36": {
+  "id": "minicpm5|0.5|36",
+  "correct": true,
+  "reason": "Cairo, listed first, is the correct capital of Egypt."
+ },
+ "minicpm5|0.5|37": {
+  "id": "minicpm5|0.5|37",
+  "correct": false,
+  "reason": "Answer is repetitive 'years old' text with no information about who Cleopatra was."
+ },
+ "minicpm5|0.5|38": {
+  "id": "minicpm5|0.5|38",
+  "correct": true,
+  "reason": "New Delhi is the correct capital of India."
+ },
+ "minicpm5|0.5|39": {
+  "id": "minicpm5|0.5|39",
+  "correct": false,
+  "reason": "Gives only a vague/incorrect length figure without identifying it as Australia's coral reef system."
+ },
+ "minicpm5|0.5|40": {
+  "id": "minicpm5|0.5|40",
+  "correct": true,
+  "reason": "Correctly names Jane Austen as author of Pride and Prejudice."
+ },
+ "minicpm5|0.5|41": {
+  "id": "minicpm5|0.5|41",
+  "correct": true,
+  "reason": "Ottawa, listed first, is the correct capital of Canada."
+ },
+ "minicpm5|0.5|42": {
+  "id": "minicpm5|0.5|42",
+  "correct": false,
+  "reason": "Answer is garbled measurements with no actual description of the Statue of Liberty."
+ },
+ "minicpm5|0.5|43": {
+  "id": "minicpm5|0.5|43",
+  "correct": true,
+  "reason": "Contains 'Bell' correctly identifying the telephone's inventor, despite garbled numbers."
+ },
+ "minicpm5|0.5|44": {
+  "id": "minicpm5|0.5|44",
+  "correct": true,
+  "reason": "Paris is the correct capital of France."
+ },
+ "minicpm5|0.5|45": {
+  "id": "minicpm5|0.5|45",
+  "correct": true,
+  "reason": "Antarctica, listed first, is a commonly accepted correct answer for largest desert (cold desert)."
+ },
+ "minicpm5|0.5|46": {
+  "id": "minicpm5|0.5|46",
+  "correct": false,
+  "reason": "Answer is repetitive numeric garbage with no mention of Tolstoy as author of War and Peace."
+ },
+ "minicpm5|0.5|47": {
+  "id": "minicpm5|0.5|47",
+  "correct": true,
+  "reason": "Madrid, listed first, is the correct capital of Spain."
+ },
+ "minicpm5|0.5|48": {
+  "id": "minicpm5|0.5|48",
+  "correct": false,
+  "reason": "Answer is garbled numbers with no description of the Eiffel Tower."
+ },
+ "minicpm5|0.5|49": {
+  "id": "minicpm5|0.5|49",
+  "correct": false,
+  "reason": "Answer is just a list of numbers, no information about Julius Caesar."
+ },
+ "minicpm5|0.5|50": {
+  "id": "minicpm5|0.5|50",
+  "correct": true,
+  "reason": "Moscow is the correct capital of Russia."
+ },
+ "minicpm5|0.5|51": {
+  "id": "minicpm5|0.5|51",
+  "correct": false,
+  "reason": "Answer is repetitive 'It.' text with no actual description of the Amazon Rainforest."
+ },
+ "minicpm5|0.5|52": {
+  "id": "minicpm5|0.5|52",
+  "correct": true,
+  "reason": "Correctly names F. Scott Fitzgerald as author of The Great Gatsby."
+ },
+ "minicpm5|0.5|53": {
+  "id": "minicpm5|0.5|53",
+  "correct": true,
+  "reason": "Correctly identifies Rome as the capital of Italy, despite awkward phrasing."
+ },
+ "minicpm5|0.5|54": {
+  "id": "minicpm5|0.5|54",
+  "correct": false,
+  "reason": "Answer is just a numbered list with no description of the Colosseum."
+ },
+ "minicpm5|0.5|55": {
+  "id": "minicpm5|0.5|55",
+  "correct": false,
+  "reason": "Answer is repetitive 'years' text with no information about Napoleon Bonaparte."
+ },
+ "minicpm5|0.5|56": {
+  "id": "minicpm5|0.5|56",
+  "correct": false,
+  "reason": "Answer is garbled numbers, no mention of Mexico City."
+ },
+ "minicpm5|0.5|57": {
+  "id": "minicpm5|0.5|57",
+  "correct": true,
+  "reason": "277 miles length matches the Grand Canyon's actual length; roughly a mile deep matches its depth."
+ },
+ "minicpm5|0.5|58": {
+  "id": "minicpm5|0.5|58",
+  "correct": false,
+  "reason": "Answer is repetitive numeric garbage with no mention of Herman Melville as author of Moby Dick."
+ },
+ "minicpm5|0.5|59": {
+  "id": "minicpm5|0.5|59",
+  "correct": true,
+  "reason": "Athens, listed first, is the correct capital of Greece."
+ },
+ "minicpm5|0.5|60": {
+  "id": "minicpm5|0.5|60",
+  "correct": false,
+  "reason": "Answer is repetitive '1.1.1' text with no description of the Acropolis."
+ },
+ "minicpm5|0.5|61": {
+  "id": "minicpm5|0.5|61",
+  "correct": true,
+  "reason": "Correctly states Alexander was son of Philip II and king of Macedonia."
+ },
+ "minicpm5|0.5|62": {
+  "id": "minicpm5|0.5|62",
+  "correct": true,
+  "reason": "Ankara, listed first, is the correct capital of Turkey."
+ },
+ "minicpm5|0.5|63": {
+  "id": "minicpm5|0.5|63",
+  "correct": false,
+  "reason": "Answer is repetitive numeric garbage with no description of the Taj Mahal."
+ },
+ "minicpm5|0.5|64": {
+  "id": "minicpm5|0.5|64",
+  "correct": true,
+  "reason": "'Cerv' is a recognizable truncation of Cervantes, correct author of Don Quixote."
+ },
+ "minicpm5|0.5|65": {
+  "id": "minicpm5|0.5|65",
+  "correct": true,
+  "reason": "Seoul, listed first, is the correct capital of South Korea."
+ },
+ "minicpm5|0.5|66": {
+  "id": "minicpm5|0.5|66",
+  "correct": false,
+  "reason": "Answer is just punctuation/numbers with no description of Mount Fuji."
+ },
+ "minicpm5|0.5|67": {
+  "id": "minicpm5|0.5|67",
+  "correct": false,
+  "reason": "Answer is just '1' with no information about who Leonardo da Vinci was."
+ },
+ "minicpm5|0.5|68": {
+  "id": "minicpm5|0.5|68",
+  "correct": false,
+  "reason": "Answer is just a numbered list, no mention of Bangkok as capital of Thailand."
+ },
+ "minicpm5|0.5|69": {
+  "id": "minicpm5|0.5|69",
+  "correct": false,
+  "reason": "Answer merely restates the question without providing information about Angkor Wat."
+ },
+ "minicpm5|0.5|70": {
+  "id": "minicpm5|0.5|70",
+  "correct": false,
+  "reason": "Answer is a numbered list with no mention of Dostoevsky as author of Crime and Punishment."
+ },
+ "minicpm5|0.5|71": {
+  "id": "minicpm5|0.5|71",
+  "correct": true,
+  "reason": "Hanoi, listed repeatedly, is the correct capital of Vietnam."
+ },
+ "minicpm5|0.5|72": {
+  "id": "minicpm5|0.5|72",
+  "correct": true,
+  "reason": "Correctly states Ha Long Bay is in Vietnam."
+ },
+ "minicpm5|0.5|73": {
+  "id": "minicpm5|0.5|73",
+  "correct": true,
+  "reason": "Correctly describes Van Gogh as a Dutch artist/painter, and he died at 37."
+ },
+ "minicpm5|0.5|74": {
+  "id": "minicpm5|0.5|74",
+  "correct": true,
+  "reason": "Amsterdam is the correct capital of the Netherlands."
+ },
+ "minicpm5|0.5|75": {
+  "id": "minicpm5|0.5|75",
+  "correct": false,
+  "reason": "Answer is just repeated '2's with no description of Big Ben."
+ },
+ "minicpm5|0.5|76": {
+  "id": "minicpm5|0.5|76",
+  "correct": true,
+  "reason": "Correctly names Leo Tolstoy as author of Anna Karenina."
+ },
+ "minicpm5|0.5|77": {
+  "id": "minicpm5|0.5|77",
+  "correct": true,
+  "reason": "Brussels, listed first, is the correct capital of Belgium."
+ },
+ "minicpm5|0.5|78": {
+  "id": "minicpm5|0.5|78",
+  "correct": false,
+  "reason": "Answer is vague ('It is a part of the...') and does not identify the Sagrada Familia."
+ },
+ "minicpm5|0.5|79": {
+  "id": "minicpm5|0.5|79",
+  "correct": false,
+  "reason": "Answer merely repeats the name 'Pablo Picasso' without any information about who he was."
+ },
+ "minicpm5|0.5|80": {
+  "id": "minicpm5|0.5|80",
+  "correct": true,
+  "reason": "Lisbon, listed first, is the correct capital of Portugal."
+ },
+ "minicpm5|0.5|81": {
+  "id": "minicpm5|0.5|81",
+  "correct": false,
+  "reason": "Answer is repetitive '1.1.1' text with no description of the Christ the Redeemer statue."
+ },
+ "minicpm5|0.5|82": {
+  "id": "minicpm5|0.5|82",
+  "correct": true,
+  "reason": "Correctly names Homer as author of The Odyssey."
+ },
+ "minicpm5|0.5|83": {
+  "id": "minicpm5|0.5|83",
+  "correct": true,
+  "reason": "Stockholm is correctly mentioned as the capital of Sweden."
+ },
+ "minicpm5|0.5|84": {
+  "id": "minicpm5|0.5|84",
+  "correct": true,
+  "reason": "Correctly identifies Aurora Borealis as the Northern Lights."
+ },
+ "minicpm5|0.5|85": {
+  "id": "minicpm5|0.5|85",
+  "correct": false,
+  "reason": "Answer just repeats 'Marie Curie' and 'Q:' with no information about who she was."
+ },
+ "minicpm5|0.5|86": {
+  "id": "minicpm5|0.5|86",
+  "correct": true,
+  "reason": "Oslo, listed repeatedly, is the correct capital of Norway."
+ },
+ "minicpm5|0.5|87": {
+  "id": "minicpm5|0.5|87",
+  "correct": false,
+  "reason": "Incorrectly describes Northern Lights as 'stars of a constellation', which is factually wrong."
+ },
+ "minicpm5|0.5|88": {
+  "id": "minicpm5|0.5|88",
+  "correct": false,
+  "reason": "Answer is repetitive numeric garbage with no mention of James Joyce as author of Ulysses."
+ },
+ "minicpm5|0.5|89": {
+  "id": "minicpm5|0.5|89",
+  "correct": true,
+  "reason": "Bern is the correct capital of Switzerland."
+ },
+ "minicpm5|0.5|90": {
+  "id": "minicpm5|0.5|90",
+  "correct": false,
+  "reason": "Answer is repetitive punctuation/numbers with no description of the Matterhorn."
+ },
+ "minicpm5|0.5|91": {
+  "id": "minicpm5|0.5|91",
+  "correct": false,
+  "reason": "Answer is just a list of numbers with no information about Albert Einstein."
+ },
+ "minicpm5|0.7|0": {
+  "id": "minicpm5|0.7|0",
+  "correct": true,
+  "reason": "Correctly states Paris despite list-numbering noise."
+ },
+ "minicpm5|0.7|1": {
+  "id": "minicpm5|0.7|1",
+  "correct": false,
+  "reason": "Garbled repetitive text never names Shakespeare as the author."
+ },
+ "minicpm5|0.7|2": {
+  "id": "minicpm5|0.7|2",
+  "correct": true,
+  "reason": "Correctly identifies Jupiter as the largest planet."
+ },
+ "minicpm5|0.7|3": {
+  "id": "minicpm5|0.7|3",
+  "correct": true,
+  "reason": "Correctly gives July 4, 1776 as the signing date."
+ },
+ "minicpm5|0.7|4": {
+  "id": "minicpm5|0.7|4",
+  "correct": true,
+  "reason": "Correctly states 206 bones despite repetition."
+ },
+ "minicpm5|0.7|5": {
+  "id": "minicpm5|0.7|5",
+  "correct": true,
+  "reason": "Correctly names Alexander Graham Bell as inventor amid noisy extra names/dates."
+ },
+ "minicpm5|0.7|6": {
+  "id": "minicpm5|0.7|6",
+  "correct": true,
+  "reason": "Contains H2 O representing the correct water formula H2O despite garbled formatting."
+ },
+ "minicpm5|0.7|7": {
+  "id": "minicpm5|0.7|7",
+  "correct": true,
+  "reason": "Correctly gives 299,792,458 m/s as the speed of light."
+ },
+ "minicpm5|0.7|8": {
+  "id": "minicpm5|0.7|8",
+  "correct": true,
+  "reason": "Correctly identifies Leonardo (da Vinci) with matching birth/death years 1452-1519."
+ },
+ "minicpm5|0.7|9": {
+  "id": "minicpm5|0.7|9",
+  "correct": false,
+  "reason": "Gives only an area figure without naming the country (Vatican City), non-responsive."
+ },
+ "minicpm5|0.7|10": {
+  "id": "minicpm5|0.7|10",
+  "correct": true,
+  "reason": "Correctly states 7 continents."
+ },
+ "minicpm5|0.7|11": {
+  "id": "minicpm5|0.7|11",
+  "correct": true,
+  "reason": "Correctly names Tokyo as the capital of Japan despite noisy extra text."
+ },
+ "minicpm5|0.7|12": {
+  "id": "minicpm5|0.7|12",
+  "correct": true,
+  "reason": "Correctly identifies George Washington as first president."
+ },
+ "minicpm5|0.7|13": {
+  "id": "minicpm5|0.7|13",
+  "correct": true,
+  "reason": "Correctly states 100\u00b0C as boiling point of water."
+ },
+ "minicpm5|0.7|14": {
+  "id": "minicpm5|0.7|14",
+  "correct": true,
+  "reason": "Correctly gives approximately 365 days for Earth's orbit despite repetition."
+ },
+ "minicpm5|0.7|15": {
+  "id": "minicpm5|0.7|15",
+  "correct": false,
+  "reason": "Garbled numeric text never conveys a2+b2=c2 or any coherent theorem statement."
+ },
+ "minicpm5|0.7|16": {
+  "id": "minicpm5|0.7|16",
+  "correct": false,
+  "reason": "Answer '198.4' is nonsensical and does not name George Orwell."
+ },
+ "minicpm5|0.7|17": {
+  "id": "minicpm5|0.7|17",
+  "correct": true,
+  "reason": "Provides plausible length/age figures describing the Great Wall of China."
+ },
+ "minicpm5|0.7|18": {
+  "id": "minicpm5|0.7|18",
+  "correct": true,
+  "reason": "Correctly states a triangle has 3 sides."
+ },
+ "minicpm5|0.7|19": {
+  "id": "minicpm5|0.7|19",
+  "correct": true,
+  "reason": "Correctly defines photosynthesis as plants using sunlight to synthesize food."
+ },
+ "minicpm5|0.7|20": {
+  "id": "minicpm5|0.7|20",
+  "correct": true,
+  "reason": "Correctly names Newton (\u725b\u987f) as discoverer of gravity."
+ },
+ "minicpm5|0.7|21": {
+  "id": "minicpm5|0.7|21",
+  "correct": false,
+  "reason": "Garbled fragment gives no currency name (should be Euro)."
+ },
+ "minicpm5|0.7|22": {
+  "id": "minicpm5|0.7|22",
+  "correct": false,
+  "reason": "Garbled numeric string never names the Pacific Ocean."
+ },
+ "minicpm5|0.7|23": {
+  "id": "minicpm5|0.7|23",
+  "correct": false,
+  "reason": "Garbled repetitive numbers give no author of the Bible."
+ },
+ "minicpm5|0.7|24": {
+  "id": "minicpm5|0.7|24",
+  "correct": true,
+  "reason": "Gives a population figure in the correct ballpark (~1.3 billion) for China."
+ },
+ "minicpm5|0.7|25": {
+  "id": "minicpm5|0.7|25",
+  "correct": true,
+  "reason": "Reasonably defines DNA as the cell's code."
+ },
+ "minicpm5|0.7|26": {
+  "id": "minicpm5|0.7|26",
+  "correct": false,
+  "reason": "Garbled list of numbers gives no name for the internet's inventor."
+ },
+ "minicpm5|0.7|27": {
+  "id": "minicpm5|0.7|27",
+  "correct": false,
+  "reason": "Gives an incorrect distance (15,000 km vs actual ~150 million km)."
+ },
+ "minicpm5|0.7|28": {
+  "id": "minicpm5|0.7|28",
+  "correct": false,
+  "reason": "Garbled numbered list never names Shakespeare as author of Hamlet."
+ },
+ "minicpm5|0.7|29": {
+  "id": "minicpm5|0.7|29",
+  "correct": true,
+  "reason": "Correctly states Brasilia as the capital of Brazil."
+ },
+ "minicpm5|0.7|30": {
+  "id": "minicpm5|0.7|30",
+  "correct": true,
+  "reason": "Correctly names Mount Everest with correct height 8,848 meters."
+ },
+ "minicpm5|0.7|31": {
+  "id": "minicpm5|0.7|31",
+  "correct": false,
+  "reason": "Garbled repetitive '1's give no information about Abraham Lincoln."
+ },
+ "minicpm5|0.7|32": {
+  "id": "minicpm5|0.7|32",
+  "correct": true,
+  "reason": "Correctly gives 0\u00b0C as the freezing point of water first."
+ },
+ "minicpm5|0.7|33": {
+  "id": "minicpm5|0.7|33",
+  "correct": false,
+  "reason": "Garbled numbered fragments never name Canberra as Australia's capital."
+ },
+ "minicpm5|0.7|34": {
+  "id": "minicpm5|0.7|34",
+  "correct": true,
+  "reason": "Correctly names Gutenberg as inventor of the printing press."
+ },
+ "minicpm5|0.7|35": {
+  "id": "minicpm5|0.7|35",
+  "correct": true,
+  "reason": "Reasonably describes periodic table as the table of elements."
+ },
+ "minicpm5|0.7|36": {
+  "id": "minicpm5|0.7|36",
+  "correct": true,
+  "reason": "Correctly names Cairo as the capital of Egypt despite noisy extra text."
+ },
+ "minicpm5|0.7|37": {
+  "id": "minicpm5|0.7|37",
+  "correct": false,
+  "reason": "Garbled 'years old' list gives no factual information about Cleopatra."
+ },
+ "minicpm5|0.7|38": {
+  "id": "minicpm5|0.7|38",
+  "correct": true,
+  "reason": "Correctly names New Delhi as the capital of India."
+ },
+ "minicpm5|0.7|39": {
+  "id": "minicpm5|0.7|39",
+  "correct": false,
+  "reason": "Garbled repetitive punctuation gives no information about the Great Barrier Reef."
+ },
+ "minicpm5|0.7|40": {
+  "id": "minicpm5|0.7|40",
+  "correct": false,
+  "reason": "Garbled numeric/period text never names Jane Austen as author."
+ },
+ "minicpm5|0.7|41": {
+  "id": "minicpm5|0.7|41",
+  "correct": true,
+  "reason": "Correctly lists Ottawa as the capital of Canada among options."
+ },
+ "minicpm5|0.7|42": {
+  "id": "minicpm5|0.7|42",
+  "correct": false,
+  "reason": "Merely repeats the question without providing any answer."
+ },
+ "minicpm5|0.7|43": {
+  "id": "minicpm5|0.7|43",
+  "correct": true,
+  "reason": "Correctly names Bell as inventor of the telephone."
+ },
+ "minicpm5|0.7|44": {
+  "id": "minicpm5|0.7|44",
+  "correct": true,
+  "reason": "Correctly states Paris as the capital of France."
+ },
+ "minicpm5|0.7|45": {
+  "id": "minicpm5|0.7|45",
+  "correct": false,
+  "reason": "Merely repeats the question without providing any answer."
+ },
+ "minicpm5|0.7|46": {
+  "id": "minicpm5|0.7|46",
+  "correct": false,
+  "reason": "Garbled lettered list never names Tolstoy as author of War and Peace."
+ },
+ "minicpm5|0.7|47": {
+  "id": "minicpm5|0.7|47",
+  "correct": true,
+  "reason": "Correctly names Madrid as the capital of Spain first."
+ },
+ "minicpm5|0.7|48": {
+  "id": "minicpm5|0.7|48",
+  "correct": false,
+  "reason": "Garbled numeric fragment gives no information about the Eiffel Tower."
+ },
+ "minicpm5|0.7|49": {
+  "id": "minicpm5|0.7|49",
+  "correct": false,
+  "reason": "Garbled 'years old' list gives no factual information about Julius Caesar."
+ },
+ "minicpm5|0.7|50": {
+  "id": "minicpm5|0.7|50",
+  "correct": false,
+  "reason": "Garbled numbered fragments never name Moscow as Russia's capital."
+ },
+ "minicpm5|0.7|51": {
+  "id": "minicpm5|0.7|51",
+  "correct": false,
+  "reason": "Garbled numbered list gives no information about the Amazon Rainforest."
+ },
+ "minicpm5|0.7|52": {
+  "id": "minicpm5|0.7|52",
+  "correct": true,
+  "reason": "Correctly names F. Scott Fitzgerald as author of The Great Gatsby."
+ },
+ "minicpm5|0.7|53": {
+  "id": "minicpm5|0.7|53",
+  "correct": true,
+  "reason": "Correctly states Rome as the capital of Italy."
+ },
+ "minicpm5|0.7|54": {
+  "id": "minicpm5|0.7|54",
+  "correct": false,
+  "reason": "Garbled 'years' repetition gives no information about the Colosseum."
+ },
+ "minicpm5|0.7|55": {
+  "id": "minicpm5|0.7|55",
+  "correct": false,
+  "reason": "Garbled fragment with an incorrect age gives no coherent identification of Napoleon."
+ },
+ "minicpm5|0.7|56": {
+  "id": "minicpm5|0.7|56",
+  "correct": false,
+  "reason": "Garbled numbered list never names Mexico City as Mexico's capital."
+ },
+ "minicpm5|0.7|57": {
+  "id": "minicpm5|0.7|57",
+  "correct": false,
+  "reason": "Garbled fragments give no coherent information about the Grand Canyon."
+ },
+ "minicpm5|0.7|58": {
+  "id": "minicpm5|0.7|58",
+  "correct": false,
+  "reason": "Garbled 'Q:' list never names Herman Melville as author of Moby Dick."
+ },
+ "minicpm5|0.7|59": {
+  "id": "minicpm5|0.7|59",
+  "correct": true,
+  "reason": "Correctly names Athens as the capital of Greece."
+ },
+ "minicpm5|0.7|60": {
+  "id": "minicpm5|0.7|60",
+  "correct": false,
+  "reason": "Garbled numbered list gives no information about the Acropolis."
+ },
+ "minicpm5|0.7|61": {
+  "id": "minicpm5|0.7|61",
+  "correct": false,
+  "reason": "Gives incorrect dates for Alexander the Great (actual 356-323 BC)."
+ },
+ "minicpm5|0.7|62": {
+  "id": "minicpm5|0.7|62",
+  "correct": true,
+  "reason": "Correctly lists Ankara as the capital of Turkey among options."
+ },
+ "minicpm5|0.7|63": {
+  "id": "minicpm5|0.7|63",
+  "correct": false,
+  "reason": "Merely repeats 'Taj Mahal' without describing what it is."
+ },
+ "minicpm5|0.7|64": {
+  "id": "minicpm5|0.7|64",
+  "correct": true,
+  "reason": "Correctly names Miguel de Cervantes as author of Don Quixote."
+ },
+ "minicpm5|0.7|65": {
+  "id": "minicpm5|0.7|65",
+  "correct": true,
+  "reason": "Correctly names Seoul as the capital of South Korea."
+ },
+ "minicpm5|0.7|66": {
+  "id": "minicpm5|0.7|66",
+  "correct": false,
+  "reason": "Answer is just punctuation with no information about Mount Fuji."
+ },
+ "minicpm5|0.7|67": {
+  "id": "minicpm5|0.7|67",
+  "correct": true,
+  "reason": "Gives Leonardo da Vinci's correct lifespan (1452-1519, 67 years)."
+ },
+ "minicpm5|0.7|68": {
+  "id": "minicpm5|0.7|68",
+  "correct": true,
+  "reason": "Correctly names Bangkok as the capital of Thailand."
+ },
+ "minicpm5|0.7|69": {
+  "id": "minicpm5|0.7|69",
+  "correct": false,
+  "reason": "Garbled ordinal list gives no information about Angkor Wat."
+ },
+ "minicpm5|0.7|70": {
+  "id": "minicpm5|0.7|70",
+  "correct": true,
+  "reason": "Correctly names Dostoevsky as author of Crime and Punishment."
+ },
+ "minicpm5|0.7|71": {
+  "id": "minicpm5|0.7|71",
+  "correct": false,
+  "reason": "Garbled numbered list never names Hanoi as Vietnam's capital."
+ },
+ "minicpm5|0.7|72": {
+  "id": "minicpm5|0.7|72",
+  "correct": true,
+  "reason": "Correctly describes Ha Long Bay as a bay in Vietnam."
+ },
+ "minicpm5|0.7|73": {
+  "id": "minicpm5|0.7|73",
+  "correct": true,
+  "reason": "Correctly identifies Vincent van Gogh as a Dutch post-impressionist painter."
+ },
+ "minicpm5|0.7|74": {
+  "id": "minicpm5|0.7|74",
+  "correct": true,
+  "reason": "Correctly names Amsterdam as the capital of the Netherlands."
+ },
+ "minicpm5|0.7|75": {
+  "id": "minicpm5|0.7|75",
+  "correct": false,
+  "reason": "Merely repeats 'Big Ben' without describing what it is."
+ },
+ "minicpm5|0.7|76": {
+  "id": "minicpm5|0.7|76",
+  "correct": true,
+  "reason": "Contains 'Leo' matching Leo Tolstoy, author of Anna Karenina."
+ },
+ "minicpm5|0.7|77": {
+  "id": "minicpm5|0.7|77",
+  "correct": true,
+  "reason": "Correctly names Brussels as the capital of Belgium."
+ },
+ "minicpm5|0.7|78": {
+  "id": "minicpm5|0.7|78",
+  "correct": true,
+  "reason": "Correctly describes the Sagrada Familia as a basilica with a facade."
+ },
+ "minicpm5|0.7|79": {
+  "id": "minicpm5|0.7|79",
+  "correct": false,
+  "reason": "Merely repeats 'Pablo Picasso' without describing who he was."
+ },
+ "minicpm5|0.7|80": {
+  "id": "minicpm5|0.7|80",
+  "correct": true,
+  "reason": "Correctly names Lisbon as the capital of Portugal."
+ },
+ "minicpm5|0.7|81": {
+  "id": "minicpm5|0.7|81",
+  "correct": false,
+  "reason": "Gives an incorrect tiny size and no description of the statue (actual height ~30m)."
+ },
+ "minicpm5|0.7|82": {
+  "id": "minicpm5|0.7|82",
+  "correct": false,
+  "reason": "Garbled century fragments never name Homer as author of The Odyssey."
+ },
+ "minicpm5|0.7|83": {
+  "id": "minicpm5|0.7|83",
+  "correct": false,
+  "reason": "Answer '2' gives no name for Stockholm, capital of Sweden."
+ },
+ "minicpm5|0.7|84": {
+  "id": "minicpm5|0.7|84",
+  "correct": false,
+  "reason": "Garbled numbered list gives no information about the Aurora Borealis."
+ },
+ "minicpm5|0.7|85": {
+  "id": "minicpm5|0.7|85",
+  "correct": false,
+  "reason": "Garbled repetitive '1's give no information about Marie Curie."
+ },
+ "minicpm5|0.7|86": {
+  "id": "minicpm5|0.7|86",
+  "correct": true,
+  "reason": "Correctly names Oslo as the capital of Norway."
+ },
+ "minicpm5|0.7|87": {
+  "id": "minicpm5|0.7|87",
+  "correct": false,
+  "reason": "Garbled repetitive numbers give no information about the Northern Lights."
+ },
+ "minicpm5|0.7|88": {
+  "id": "minicpm5|0.7|88",
+  "correct": false,
+  "reason": "Garbled numbered list never names James Joyce as author of Ulysses."
+ },
+ "minicpm5|0.7|89": {
+  "id": "minicpm5|0.7|89",
+  "correct": true,
+  "reason": "Correctly names Bern as the capital of Switzerland."
+ },
+ "minicpm5|0.7|90": {
+  "id": "minicpm5|0.7|90",
+  "correct": false,
+  "reason": "Garbled numbered fragments give no information about the Matterhorn."
+ },
+ "minicpm5|0.7|91": {
+  "id": "minicpm5|0.7|91",
+  "correct": false,
+  "reason": "Garbled repetitive zeros give no information about Albert Einstein."
+ },
+ "minicpm5|0.9|0": {
+  "id": "minicpm5|0.9|0",
+  "correct": false,
+  "reason": "2nd is not the capital of France; correct answer Paris is absent."
+ },
+ "minicpm5|0.9|1": {
+  "id": "minicpm5|0.9|1",
+  "correct": true,
+  "reason": "Shakespeare is correctly identified as the author of Romeo and Juliet despite garbled extra text."
+ },
+ "minicpm5|0.9|2": {
+  "id": "minicpm5|0.9|2",
+  "correct": true,
+  "reason": "Jupiter is correctly identified as the largest planet."
+ },
+ "minicpm5|0.9|3": {
+  "id": "minicpm5|0.9|3",
+  "correct": true,
+  "reason": "Contains '4, 1776' which correctly identifies July 4, 1776, the accepted signing date."
+ },
+ "minicpm5|0.9|4": {
+  "id": "minicpm5|0.9|4",
+  "correct": true,
+  "reason": "206 is the correct number of bones in the adult human body."
+ },
+ "minicpm5|0.9|5": {
+  "id": "minicpm5|0.9|5",
+  "correct": true,
+  "reason": "Alexander (Graham) Bell is listed first and is the standard credited inventor of the telephone."
+ },
+ "minicpm5|0.9|6": {
+  "id": "minicpm5|0.9|6",
+  "correct": false,
+  "reason": "The garbled sequence does not clearly present the correct formula H2O."
+ },
+ "minicpm5|0.9|7": {
+  "id": "minicpm5|0.9|7",
+  "correct": true,
+  "reason": "299,792,458 meters per second is the correct speed of light."
+ },
+ "minicpm5|0.9|8": {
+  "id": "minicpm5|0.9|8",
+  "correct": true,
+  "reason": "Leonardo (da Vinci) is correctly identified as painter of the Mona Lisa."
+ },
+ "minicpm5|0.9|9": {
+  "id": "minicpm5|0.9|9",
+  "correct": false,
+  "reason": "Answer gives an unexplained number without naming a country and the figure doesn't match Vatican City's actual area."
+ },
+ "minicpm5|0.9|10": {
+  "id": "minicpm5|0.9|10",
+  "correct": false,
+  "reason": "Answer never states the correct number of continents (7)."
+ },
+ "minicpm5|0.9|11": {
+  "id": "minicpm5|0.9|11",
+  "correct": true,
+  "reason": "Tokyo is correctly identified as the capital of Japan."
+ },
+ "minicpm5|0.9|12": {
+  "id": "minicpm5|0.9|12",
+  "correct": true,
+  "reason": "George Washington is correctly identified as the first US president."
+ },
+ "minicpm5|0.9|13": {
+  "id": "minicpm5|0.9|13",
+  "correct": true,
+  "reason": "100.01 degrees is essentially the correct boiling point of water (100\u00b0C)."
+ },
+ "minicpm5|0.9|14": {
+  "id": "minicpm5|0.9|14",
+  "correct": true,
+  "reason": "365 days is the correct approximate orbital period of Earth."
+ },
+ "minicpm5|0.9|15": {
+  "id": "minicpm5|0.9|15",
+  "correct": true,
+  "reason": "a^2+b^2=c^2 correctly states the Pythagorean theorem despite garbled explanation."
+ },
+ "minicpm5|0.9|16": {
+  "id": "minicpm5|0.9|16",
+  "correct": false,
+  "reason": "Answer never names George Orwell as the author of 1984."
+ },
+ "minicpm5|0.9|17": {
+  "id": "minicpm5|0.9|17",
+  "correct": false,
+  "reason": "Answer is meaningless numeric repetition with no factual content about the Great Wall."
+ },
+ "minicpm5|0.9|18": {
+  "id": "minicpm5|0.9|18",
+  "correct": true,
+  "reason": "3 sides is the correct number of sides for a triangle."
+ },
+ "minicpm5|0.9|19": {
+  "id": "minicpm5|0.9|19",
+  "correct": false,
+  "reason": "Answer is incoherent and does not describe photosynthesis."
+ },
+ "minicpm5|0.9|20": {
+  "id": "minicpm5|0.9|20",
+  "correct": false,
+  "reason": "Answer never names Newton or describes gravity's discovery."
+ },
+ "minicpm5|0.9|21": {
+  "id": "minicpm5|0.9|21",
+  "correct": false,
+  "reason": "Answer does not mention the Euro as Germany's currency."
+ },
+ "minicpm5|0.9|22": {
+  "id": "minicpm5|0.9|22",
+  "correct": true,
+  "reason": "Pacific Ocean is correctly identified as the largest ocean, listed first."
+ },
+ "minicpm5|0.9|23": {
+  "id": "minicpm5|0.9|23",
+  "correct": false,
+  "reason": "Answer is vague and never names any author(s) of the Bible."
+ },
+ "minicpm5|0.9|24": {
+  "id": "minicpm5|0.9|24",
+  "correct": true,
+  "reason": "1,400,000,000 is approximately the correct population of China."
+ },
+ "minicpm5|0.9|25": {
+  "id": "minicpm5|0.9|25",
+  "correct": true,
+  "reason": "Describes DNA as a self-replicating molecule/unit of heredity, which is factually correct."
+ },
+ "minicpm5|0.9|26": {
+  "id": "minicpm5|0.9|26",
+  "correct": false,
+  "reason": "Answer never names any inventor(s) of the internet."
+ },
+ "minicpm5|0.9|27": {
+  "id": "minicpm5|0.9|27",
+  "correct": true,
+  "reason": "150 million kilometers is the correct approximate Earth-Sun distance."
+ },
+ "minicpm5|0.9|28": {
+  "id": "minicpm5|0.9|28",
+  "correct": false,
+  "reason": "Answer never names Shakespeare as the author of Hamlet."
+ },
+ "minicpm5|0.9|29": {
+  "id": "minicpm5|0.9|29",
+  "correct": false,
+  "reason": "Answer is meaningless numeric repetition, never naming Bras\u00edlia."
+ },
+ "minicpm5|0.9|30": {
+  "id": "minicpm5|0.9|30",
+  "correct": true,
+  "reason": "8,848 meters is the correct, well-known elevation of Mount Everest, the highest mountain."
+ },
+ "minicpm5|0.9|31": {
+  "id": "minicpm5|0.9|31",
+  "correct": true,
+  "reason": "Correctly states Lincoln was the 16th US president."
+ },
+ "minicpm5|0.9|32": {
+  "id": "minicpm5|0.9|32",
+  "correct": false,
+  "reason": "0.8\u00b0C is incorrect; water freezes at 0\u00b0C."
+ },
+ "minicpm5|0.9|33": {
+  "id": "minicpm5|0.9|33",
+  "correct": true,
+  "reason": "Canberra is correctly identified as the capital of Australia."
+ },
+ "minicpm5|0.9|34": {
+  "id": "minicpm5|0.9|34",
+  "correct": true,
+  "reason": "Johannes Gutenberg is correctly credited with inventing the printing press."
+ },
+ "minicpm5|0.9|35": {
+  "id": "minicpm5|0.9|35",
+  "correct": true,
+  "reason": "Correctly describes the periodic table as a tabular arrangement of elements."
+ },
+ "minicpm5|0.9|36": {
+  "id": "minicpm5|0.9|36",
+  "correct": true,
+  "reason": "Cairo is correctly identified as the capital of Egypt."
+ },
+ "minicpm5|0.9|37": {
+  "id": "minicpm5|0.9|37",
+  "correct": false,
+  "reason": "Answer gives no factual information about who Cleopatra was."
+ },
+ "minicpm5|0.9|38": {
+  "id": "minicpm5|0.9|38",
+  "correct": true,
+  "reason": "New Delhi is correctly identified as the capital of India, listed first."
+ },
+ "minicpm5|0.9|39": {
+  "id": "minicpm5|0.9|39",
+  "correct": true,
+  "reason": "Correctly describes the Great Barrier Reef as Australia's large coral reef system."
+ },
+ "minicpm5|0.9|40": {
+  "id": "minicpm5|0.9|40",
+  "correct": false,
+  "reason": "Answer never names Jane Austen as the author of Pride and Prejudice."
+ },
+ "minicpm5|0.9|41": {
+  "id": "minicpm5|0.9|41",
+  "correct": true,
+  "reason": "Correctly states Ottawa is the capital of Canada."
+ },
+ "minicpm5|0.9|42": {
+  "id": "minicpm5|0.9|42",
+  "correct": false,
+  "reason": "Answer is circular/vague and doesn't meaningfully describe the Statue of Liberty."
+ },
+ "minicpm5|0.9|43": {
+  "id": "minicpm5|0.9|43",
+  "correct": true,
+  "reason": "Correctly credits Alexander Graham Bell (1876) with inventing the telephone."
+ },
+ "minicpm5|0.9|44": {
+  "id": "minicpm5|0.9|44",
+  "correct": true,
+  "reason": "Paris is correctly identified as the capital of France."
+ },
+ "minicpm5|0.9|45": {
+  "id": "minicpm5|0.9|45",
+  "correct": true,
+  "reason": "Sahara Desert is correctly identified as the largest desert, mentioned repeatedly."
+ },
+ "minicpm5|0.9|46": {
+  "id": "minicpm5|0.9|46",
+  "correct": false,
+  "reason": "Answer never names Tolstoy as the author of War and Peace."
+ },
+ "minicpm5|0.9|47": {
+  "id": "minicpm5|0.9|47",
+  "correct": true,
+  "reason": "Madrid is correctly identified as the capital of Spain."
+ },
+ "minicpm5|0.9|48": {
+  "id": "minicpm5|0.9|48",
+  "correct": false,
+  "reason": "Answer is meaningless repetition with no description of the Eiffel Tower."
+ },
+ "minicpm5|0.9|49": {
+  "id": "minicpm5|0.9|49",
+  "correct": false,
+  "reason": "Answer gives no factual information about Julius Caesar."
+ },
+ "minicpm5|0.9|50": {
+  "id": "minicpm5|0.9|50",
+  "correct": true,
+  "reason": "Moscow is correctly identified as the capital of Russia."
+ },
+ "minicpm5|0.9|51": {
+  "id": "minicpm5|0.9|51",
+  "correct": true,
+  "reason": "1.5 million square miles is a reasonably close approximation of the Amazon Rainforest's size."
+ },
+ "minicpm5|0.9|52": {
+  "id": "minicpm5|0.9|52",
+  "correct": false,
+  "reason": "Answer is incoherent and never identifies F. Scott Fitzgerald as the author."
+ },
+ "minicpm5|0.9|53": {
+  "id": "minicpm5|0.9|53",
+  "correct": true,
+  "reason": "Rome is correctly identified as the capital of Italy."
+ },
+ "minicpm5|0.9|54": {
+  "id": "minicpm5|0.9|54",
+  "correct": true,
+  "reason": "Correctly identifies the Colosseum's location as a large structure in Rome, Italy."
+ },
+ "minicpm5|0.9|55": {
+  "id": "minicpm5|0.9|55",
+  "correct": false,
+  "reason": "Answer gives nonsensical age figures and no factual information about Napoleon."
+ },
+ "minicpm5|0.9|56": {
+  "id": "minicpm5|0.9|56",
+  "correct": true,
+  "reason": "Mexico City is correctly identified as the capital of Mexico."
+ },
+ "minicpm5|0.9|57": {
+  "id": "minicpm5|0.9|57",
+  "correct": true,
+  "reason": "Correctly states the Grand Canyon is located in the United States."
+ },
+ "minicpm5|0.9|58": {
+  "id": "minicpm5|0.9|58",
+  "correct": false,
+  "reason": "Answer never names Herman Melville as the author of Moby Dick."
+ },
+ "minicpm5|0.9|59": {
+  "id": "minicpm5|0.9|59",
+  "correct": true,
+  "reason": "Athens is correctly identified as the capital of Greece."
+ },
+ "minicpm5|0.9|60": {
+  "id": "minicpm5|0.9|60",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Acropolis."
+ },
+ "minicpm5|0.9|61": {
+  "id": "minicpm5|0.9|61",
+  "correct": true,
+  "reason": "Correctly identifies Alexander the Great as son of Philip and king of Macedonia."
+ },
+ "minicpm5|0.9|62": {
+  "id": "minicpm5|0.9|62",
+  "correct": false,
+  "reason": "Istanbul is incorrect; Ankara is the capital of Turkey."
+ },
+ "minicpm5|0.9|63": {
+  "id": "minicpm5|0.9|63",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Taj Mahal."
+ },
+ "minicpm5|0.9|64": {
+  "id": "minicpm5|0.9|64",
+  "correct": false,
+  "reason": "Answer never names Cervantes as the author of Don Quixote."
+ },
+ "minicpm5|0.9|65": {
+  "id": "minicpm5|0.9|65",
+  "correct": true,
+  "reason": "Seoul is correctly identified as the capital of South Korea."
+ },
+ "minicpm5|0.9|66": {
+  "id": "minicpm5|0.9|66",
+  "correct": false,
+  "reason": "Answer gives no factual information about Mount Fuji."
+ },
+ "minicpm5|0.9|67": {
+  "id": "minicpm5|0.9|67",
+  "correct": false,
+  "reason": "Answer gives nonsensical age figures and no factual information about da Vinci."
+ },
+ "minicpm5|0.9|68": {
+  "id": "minicpm5|0.9|68",
+  "correct": true,
+  "reason": "Bangkok is correctly identified as the capital of Thailand."
+ },
+ "minicpm5|0.9|69": {
+  "id": "minicpm5|0.9|69",
+  "correct": true,
+  "reason": "Correctly identifies Angkor Wat as a historical site in Cambodia."
+ },
+ "minicpm5|0.9|70": {
+  "id": "minicpm5|0.9|70",
+  "correct": false,
+  "reason": "Answer never names Dostoevsky as the author of Crime and Punishment."
+ },
+ "minicpm5|0.9|71": {
+  "id": "minicpm5|0.9|71",
+  "correct": false,
+  "reason": "Answer is meaningless numeric list, never naming Hanoi."
+ },
+ "minicpm5|0.9|72": {
+  "id": "minicpm5|0.9|72",
+  "correct": false,
+  "reason": "Answer gives only an unexplained distance figure with no description of Ha Long Bay."
+ },
+ "minicpm5|0.9|73": {
+  "id": "minicpm5|0.9|73",
+  "correct": false,
+  "reason": "Answer is circular/tautological and provides no real information about Van Gogh."
+ },
+ "minicpm5|0.9|74": {
+  "id": "minicpm5|0.9|74",
+  "correct": true,
+  "reason": "Amsterdam is correctly identified as the (constitutional) capital of the Netherlands."
+ },
+ "minicpm5|0.9|75": {
+  "id": "minicpm5|0.9|75",
+  "correct": true,
+  "reason": "Correctly describes Big Ben as the nickname of London's clock/bell tower."
+ },
+ "minicpm5|0.9|76": {
+  "id": "minicpm5|0.9|76",
+  "correct": false,
+  "reason": "Answer never names Tolstoy as the author of Anna Karenina."
+ },
+ "minicpm5|0.9|77": {
+  "id": "minicpm5|0.9|77",
+  "correct": false,
+  "reason": "Answer gives no information and never names Brussels."
+ },
+ "minicpm5|0.9|78": {
+  "id": "minicpm5|0.9|78",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Sagrada Familia."
+ },
+ "minicpm5|0.9|79": {
+  "id": "minicpm5|0.9|79",
+  "correct": false,
+  "reason": "Answer only repeats Picasso's name without any factual information about him."
+ },
+ "minicpm5|0.9|80": {
+  "id": "minicpm5|0.9|80",
+  "correct": true,
+  "reason": "Lisbon (Lisboa) is correctly identified as the capital of Portugal."
+ },
+ "minicpm5|0.9|81": {
+  "id": "minicpm5|0.9|81",
+  "correct": false,
+  "reason": "Answer is incoherent and gives no factual information about the statue."
+ },
+ "minicpm5|0.9|82": {
+  "id": "minicpm5|0.9|82",
+  "correct": false,
+  "reason": "Answer never names Homer as the author of the Odyssey."
+ },
+ "minicpm5|0.9|83": {
+  "id": "minicpm5|0.9|83",
+  "correct": false,
+  "reason": "Answer is meaningless numeric list, never naming Stockholm."
+ },
+ "minicpm5|0.9|84": {
+  "id": "minicpm5|0.9|84",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Aurora Borealis."
+ },
+ "minicpm5|0.9|85": {
+  "id": "minicpm5|0.9|85",
+  "correct": false,
+  "reason": "Answer gives no factual information about Marie Curie."
+ },
+ "minicpm5|0.9|86": {
+  "id": "minicpm5|0.9|86",
+  "correct": true,
+  "reason": "Oslo, the correct capital of Norway, appears among the listed answers."
+ },
+ "minicpm5|0.9|87": {
+  "id": "minicpm5|0.9|87",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Northern Lights."
+ },
+ "minicpm5|0.9|88": {
+  "id": "minicpm5|0.9|88",
+  "correct": false,
+  "reason": "Answer never names James Joyce as the author of Ulysses."
+ },
+ "minicpm5|0.9|89": {
+  "id": "minicpm5|0.9|89",
+  "correct": false,
+  "reason": "Answer is a meaningless multiple-choice list, never naming Bern."
+ },
+ "minicpm5|0.9|90": {
+  "id": "minicpm5|0.9|90",
+  "correct": false,
+  "reason": "Answer gives no factual information about the Matterhorn."
+ },
+ "minicpm5|0.9|91": {
+  "id": "minicpm5|0.9|91",
+  "correct": false,
+  "reason": "Answer is incoherent repetition with no factual information about Einstein."
+ }
+}

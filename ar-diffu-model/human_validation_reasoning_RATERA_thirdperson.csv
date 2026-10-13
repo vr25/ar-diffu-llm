@@ -1,0 +1,89 @@
+idx,diffu_model,temp,question,answer,llm_judge_verdict,llm_judge_reason,human_verdict,human_notes
+0,lladamoe,0.9,"If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?","To determine how many days it will take to finish the book, you can divide the total number of pages by the number of pages read per day.
+
+Given:
+- Total pages in the book = 300
+- Pages read per day = 50
+
+You can calculate the number of days as follows:
+
+\[ \text{Number of days} = \frac{\text{Total pages in the book}}{\ read \text{Pages read per day}} \]
+
+\[ \text{Number of days} = \frac{300}{50} \]
+
+\[ \text{Number of days} = 6 \]
+
+So, it will take 6 days to finish the book.",,,CORRECT,300 / 50 = 6 days.
+1,dream,0.9,"If a pizza is cut into 8 slices and you eat 3, how many slices are left?",There are 5 slices left.,,,CORRECT,8 - 3 = 5 slices.
+2,minicpm5,0.5,"If you double 12, what do you get?",24,,,CORRECT,2 * 12 = 24.
+3,dream,0.5,"If three friends split a $30 bill equally, how much does each pay?",Each friend would pay $30 ÷ 3=$10.,,,CORRECT,$30 / 3 = $10 each.
+4,dream,0.7,What is 9 multiplied by 6?,9 multiplied by 6 is 54.,,,CORRECT,9 * 6 = 54.
+5,dream,0.7,How many centimeters are there in 1 meter?,There are 100 centimeters in 1 meter.,,,CORRECT,1 meter = 100 centimeters.
+6,minicpm5,0.5,What is 9 multiplied by 6?,"54
+Explanation: 9 x 6 = 54",,,CORRECT,9 * 6 = 54.
+7,dream,0.5,"If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",The cake will be done at 3 PM.,,,CORRECT,2 PM + 1 hour = 3 PM.
+8,minicpm5,0.9,"If today is January 1st, what date is it in 10 days?","1 11st 12st 13st 14st 15st 16th  17st 18th 19th 20th  21st  22nd  23rd  24th  25th  26th  27th  28th  29th  30th  31st
+31. 1. . 1 1.  1. 1 1.  1 1. 1 1.  1 1 1 1. 1 1 1 11 1 1. 1",,,INCORRECT,Nonsensical list of dates; no identifiable final answer of January 11.
+9,lladamoe,0.5,"If today is January 1st, what date is it in 10 days?","If today is January 1st, then in 10 days it would be January 11th.",,,CORRECT,January 1 + 10 days = January 11.
+10,dream,0.5,"If today is January 1st, what date is it in 10 days?","In 10 days, it is January 11th.",,,CORRECT,January 1 + 10 days = January 11.
+11,dream,0.7,What is half of 100?,Half of 100 is 50.,,,CORRECT,100 / 2 = 50.
+12,minicpm5,0.7,"Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?","Mike. Q: Mike is the youngest. A:  No, Mike is the oldest. Q: Then who is the youngest?",,,INCORRECT,Contradicts itself by calling Mike both youngest and oldest.
+13,minicpm5,0.7,How many minutes are there in 2.5 hours?,150 minutes.,,,CORRECT,2.5 * 60 = 150 minutes.
+14,dream,0.7,"If a car travels at 50 mph for 3 hours, how far does it go?",150 miles,,,CORRECT,50 mph * 3 hours = 150 miles.
+15,dream,0.9,Tom has 3 apples and gives 1 away. How many apples does he have left?,Tom has 2 apples left.,,,CORRECT,3 - 1 = 2 apples.
+16,dream,0.5,A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?,The train arrives at 1 PM.,,,CORRECT,9 AM + 4 hours = 1 PM.
+17,lladamoe,0.7,"If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?","To find the total number of balls in the bag, you simply add the number of red balls and the number of blue balls together. 
+
+There are 5 red balls and 3 blue balls, so the total number of balls is:
+
+5 (red) + 3 (blue) = 8 balls.
+
+Therefore, there are 8 balls in total.",,,CORRECT,5 + 3 = 8 balls.
+18,lladamoe,0.5,How many centimeters are there in 1 meter?,There are 100 centimeters in 1 meter.,,,CORRECT,1 meter = 100 centimeters.
+19,dream,0.5,"If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?","If a book has 300 pages and you read 50 pages a day, it will take 300 / 50 = 6 days to finish the.",,,CORRECT,States 6 days before the trailing sentence is cut off; final answer is present.
+20,minicpm5,0.7,Tom has 3 apples and gives 1 away. How many apples does he have left?,"2 apples
+B: 4 apples
+C: 1 apples
+D: 3 apples
+Answer: 2 apples
+Explanation: Tom has 3 apples and gives 1 away. He has 2 apples left.Q:: 2 red apples
+Answer: 2 apples
+Explanation: There are 2 red apples in the basket.Q: Q:
+Answer::  apples
+Explanation: Q has 2 apples.Q: Q: 2 apples
+Answer: 2 apples
+Explanation: Q has 2 apples.Q: Q: 2 apples
+Answer: 2 apples
+Explanation",,,CORRECT,Explicitly selects 2 apples; labeled alternative options and unrelated trailing junk do not change that answer.
+21,lladamoe,0.7,"If three friends split a $30 bill equally, how much does each pay?","To determine how much a $30 bill pays when split equally among three friends, you can use the following steps:
+
+1. Identify the total bill amount: $30.
+2. Identify the number of friends: 3.
+3. Divide the total bill amount by the number of friends: $30 ÷ 3 = $10.
+
+Therefore, each friend pays $10.",,,CORRECT,$30 / 3 = $10 each.
+22,dream,0.7,Tom has 3 apples and gives 1 away. How many apples does he have left?,Tom has 2 apples left.,,,CORRECT,3 - 1 = 2 apples.
+23,minicpm5,0.9,"If today is Monday, what day will it be in 3 days?",3 days from Monday is Thursday..Today is 3 days from Monday is. Thursday.Today3 days from Monday is 3 days from Monday is. Thursday.Today is 3 days from Monday is Thursday.Today 3 days from Monday is Thursday.Today 3 days from Monday is.. Thursday.Today is 3 days from Monday is Thursday.Today 3 days from Monday is.. Thursday.8Today 3 days from Monday is 3 days from Monday is. Thursday.8Today 3 days from Monday is Thursday.8Today 3 days from Monday is.. Thursday.8,,,CORRECT,Monday + 3 days = Thursday; repetition does not change the answer.
+24,dream,0.7,"If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?","If Alice has twice as many books as Bob, and Bob has 4 books, then Alice has 4 x 2 = 8 books.
+The answer is: 8",,,CORRECT,2 * 4 = 8 books.
+25,lladamoe,0.9,"If a dozen eggs costs $3, how much does one egg cost?","To find the cost of one egg, we need to divide the total cost of a dozen eggs by the number of eggs in a dozen.
+
+A dozen = 12 eggs.
+
+So, the cost of one egg is:
+
+$$
+\frac{3}{12} = 0.25
+$$
+
+Therefore, one egg costs $0.25.",,,CORRECT,$3 / 12 = $0.25 per egg.
+26,lladamoe,0.9,"If it is 3 PM now, what time will it be in 5 hours?","If it is 3 PM now, in 5 hours it will be 8 PM.",,,CORRECT,3 PM + 5 hours = 8 PM.
+27,lladamoe,0.7,"If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?","If it takes 1 hour to bake a cake and you start at 2 PM, the cake will be done at 3 PM.",,,CORRECT,2 PM + 1 hour = 3 PM.
+28,minicpm5,0.9,"If it is 3 PM now, what time will it be in 5 hours?","8 PM
+B: 8 PM
+C: 2 PM
+D: 8 PM
+E: 2 PM
+Answer: 8 PM
+Explanation: It is 3 PM now. In 5 8 PM. 3 PM is 3 + 5 = 8 PM.Q:: If it is 3 PM now, what time will it be in 5 hours?",,,CORRECT,"Explicitly selects 8 PM; 2 PM appears only as a labeled alternative option, not a second final answer."
+29,lladamoe,0.7,"If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?","If has twice as many books as Bob, and Bob has 4 books, then Alice has 2 * 4 = 8 books.",,,CORRECT,2 * 4 = 8 books; missing subject does not obscure the result.

@@ -1,0 +1,6 @@
+torch
+transformers>=4.53.2,<5
+sentence-transformers
+accelerate
+numpy
+pandas

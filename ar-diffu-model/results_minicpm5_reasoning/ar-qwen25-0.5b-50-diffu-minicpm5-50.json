@@ -1,0 +1,220 @@
+{
+  "ar_model": "qwen25-0.5b",
+  "ar_temperature": 0.5,
+  "diffu_model": "minicpm5",
+  "diffu_temperature": 0.5,
+  "truthful_pct": 46.666666666666664,
+  "hallucinated_count": 16,
+  "comparisons": [
+    {
+      "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+      "ar_response": "To calculate the average speed of the train, we use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven that the train travels 60 miles in 2 hours, we can plug these values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour.",
+      "diffu_response": "30 miles per hour",
+      "nli_score": 0.11508156359195709,
+      "hallucinated": true
+    },
+    {
+      "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+      "ar_response": "Tom initially has 3 apples. If he gives 1 away, he will have:\n\n\\[ 3 - 1 = 2 \\]\n\nSo, Tom has 2 apples left.",
+      "diffu_response": "2 apples\nB: 1 apples\nC: 1 apples\nD: 3 apples\nAnswer: B:  apples\nExplanation: Tom has 3 apples and gives 1 away. He has 1 apples left.\n\n: :  apples\nC:: 1 apples\nD: 3 apples\nAnswer: B:  apples\nExplanation:: Tom has 3 apples and gives 1 away. He has 1 apples left.\n\n:  A: 2 apples\nB: 1 apples\nC: 1 apples\nD: 3 apples\nAnswer: B: 1 apples\nExplanation:",
+      "nli_score": 0.9708741307258606,
+      "hallucinated": false
+    },
+    {
+      "question": "If today is Monday, what day will it be in 3 days?",
+      "ar_response": "To determine the day of the week three days from today (Monday) in 2021, we can follow these steps:\n\n1. **Identify the current date**: Today is Monday.\n\n2. **Calculate the number of days in 3 days**:\n   - There are 7 days in one week.\n   - Therefore, 3 days is equivalent to \\(3 \\times 7 = 21\\) days.\n\n3. **Determine the day of the week after 21 days**:\n   - Start with Monday and count forward 21 days.\n     - After 1 day: Tuesday\n     - After 2 days: Wednesday\n     - After 3 days: Thursday\n\nSo, three days from",
+      "diffu_response": "3 days from Monday is Thursday.\nExplanation: Monday +1 = Tuesday, 2 days = Wednesday, 3 days = Thursday.",
+      "nli_score": 0.9951400756835938,
+      "hallucinated": false
+    },
+    {
+      "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+      "ar_response": "To calculate the sale price of a shirt that originally costs $20 with a 25% discount, follow these steps:\n\n1. Calculate the amount of the discount:\n   \\[\n   \\text{Discount Amount} = \\text{Original Price} \\times \\left(\\frac{\\text{Discount Percentage}}{100}\\right)\n   \\]\n   Substituting the given values:\n   \\[\n   \\text{Discount Amount} = \\$20 \\times \\left(\\frac{25}{100}\\right) = \\$20 \\times 0.25 = \\$5\n   \\]\n\n2. Subtract the discount from the original price to find the sale price:\n   \\[\n   \\",
+      "diffu_response": "15 dollars\nExplanation: If shirt is 25% off of $20, sale price is 25% of 20, 25/20 = 5/ 4 = 5/4 = 1/4 * 5 =  1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5",
+      "nli_score": 0.8823958039283752,
+      "hallucinated": false
+    },
+    {
+      "question": "How many minutes are there in 2.5 hours?",
+      "ar_response": "To determine how many minutes are in 2.5 hours, we need to understand the relationship between hours and minutes. Specifically, we know that:\n\n1 hour = 60 minutes\n\nGiven that we have 2.5 hours, we can calculate the number of minutes as follows:\n\n\\[ 2.5 \\text{ hours} \\times 60 \\text{ minutes/hour} = 150 \\text{ minutes} \\]\n\nSo, there are 150 minutes in 2.5 hours.",
+      "diffu_response": "150 minutes\nExplanation: 60 x 2 = 120 minutes, 60 x 0.5 = 30 minutes, 120 + 30 = 150 minutes",
+      "nli_score": 0.9889087080955505,
+      "hallucinated": false
+    },
+    {
+      "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+      "ar_response": "To calculate the distance traveled by the car, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven:\n- Speed = 50 miles per hour (mph)\n- Time = 3 hours\n\nPlugging in the values:\n\n\\[ \\text{Distance} = 50 \\, \\text{mph} \\times 3 \\, \\text{hours} \\]\n\\[ \\text{Distance} = 150 \\, \\text{miles} \\]\n\nSo, the car travels 150 miles in 3 hours.",
+      "diffu_response": "150 miles",
+      "nli_score": 0.04565034806728363,
+      "hallucinated": true
+    },
+    {
+      "question": "What is 15 plus 27?",
+      "ar_response": "15 plus 27 equals 42.",
+      "diffu_response": "15 + 27 = 42",
+      "nli_score": 0.5827674269676208,
+      "hallucinated": false
+    },
+    {
+      "question": "What is 9 multiplied by 6?",
+      "ar_response": "To solve the problem of multiplying 9 by 6, you simply add 9 to itself six times:\n\n\\[ 9 \\times 6 = 81 \\]\n\nSo, \\( 9 \\times 6 = 81 \\).",
+      "diffu_response": "54\nExplanation: 9 x 6 = 54",
+      "nli_score": 0.4567917287349701,
+      "hallucinated": true
+    },
+    {
+      "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+      "ar_response": "To determine how many cookies each of your 5 friends gets when you share 10 cookies equally, we can follow these steps:\n\n1. **Total number of cookies**: You have 10 cookies.\n2. **Number of friends**: There are 5 friends.\n\nWe need to divide the total number of cookies by the number of friends to find out how many cookies each friend will receive.\n\n\\[\n\\text{Cookies per friend} = \\frac{\\text{Total cookies}}{\\text{Number of friends}}\n\\]\n\nSubstituting the given values:\n\n\\[\n\\text{Cookies per friend} = \\frac{10}{5}\n\\]\n\nPerforming the division:\n\n\\[\n\\text{Cookies per friend} =",
+      "diffu_response": "2 cookies",
+      "nli_score": 0.2665264904499054,
+      "hallucinated": true
+    },
+    {
+      "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+      "ar_response": "The area \\( A \\) of a rectangle can be calculated using the formula:\n\n\\[ A = \\text{length} \\times \\text{width} \\]\n\nGiven that the length is 8 and the width is 3, we substitute these values into the formula:\n\n\\[ A = 8 \\times 3 \\]\n\\[ A = 24 \\]\n\nSo, the area of the rectangle is 24 square units.",
+      "diffu_response": "24\nExplanation: The area of a rectangle is the length times the width. So:  8 x 3 = 24\n  Q:  Q   Q  Q   Q    Q   Q   Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q",
+      "nli_score": 0.9876042604446411,
+      "hallucinated": false
+    },
+    {
+      "question": "If it is 3 PM now, what time will it be in 5 hours?",
+      "ar_response": "If it is currently 3 PM and you want to know what time it will be in 5 hours from now, we can follow these steps:\n\n1. **Current Time**: 3 PM.\n2. **Duration to Check**: 5 hours.\n\nSince there are 60 minutes in an hour, 5 hours is equivalent to:\n\\[ 5 \\times 60 = 300 \\text{ minutes} \\]\n\nNow, add the duration of 5 hours to the current time of 3 PM:\n\\[ 3:00 \\text{ PM} + 300 \\text{ minutes} \\]\n\nTo convert 300 minutes into hours and minutes, we perform the following division:\n\\[",
+      "diffu_response": "8 PM",
+      "nli_score": 0.26447945833206177,
+      "hallucinated": true
+    },
+    {
+      "question": "If a dozen eggs costs $3, how much does one egg cost?",
+      "ar_response": "To determine the cost of one egg, we need to divide the total cost of a dozen eggs by the number of eggs in a dozen.\n\n1. A dozen eggs is equivalent to 12 eggs.\n2. The total cost for a dozen eggs is $3.\n\nSo, we calculate the cost per egg as follows:\n\\[\n\\text{Cost per egg} = \\frac{\\text{Total cost}}{\\text{Number of eggs}} = \\frac{3}{12}\n\\]\n\n3. Simplify the fraction:\n\\[\n\\frac{3}{12} = \\frac{1}{4}\n\\]\n\nTherefore, the cost of one egg is $\\boxed{\\frac{1}{4}}$.",
+      "diffu_response": "3/12 = 1/4 = $75\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+      "nli_score": 0.3459855020046234,
+      "hallucinated": true
+    },
+    {
+      "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+      "ar_response": "To determine who is the youngest among Sarah, Tom, and Mike, we need to compare their ages based on the information given.\n\n1. **Identify the relationship between each person's age:**\n   - Sarah is older than Tom.\n   - Tom is older than Mike.\n\n2. **Combine these relationships into one chain of comparisons:**\n   - Since Sarah is older than Tom, we can say:\n     \\[\n     \\text{Sarah} > \\text{Tom}\n     \\]\n   - And since Tom is older than Mike, we can say:\n     \\[\n     \\text{Tom} > \\text{Mike}\n     \\]\n\n3. **Determine the order of the people:**\n   - From the above comparisons",
+      "diffu_response": ".. Mike",
+      "nli_score": 0.44042640924453735,
+      "hallucinated": true
+    },
+    {
+      "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+      "ar_response": "To determine the number of days in 4 weeks, we can follow these steps:\n\n1. Identify the number of days in one week.\n   - There are 7 days in one week.\n\n2. Calculate the total number of days in 4 weeks.\n   - Since each week has 7 days, and there are 4 weeks, we multiply the number of days in one week by 4:\n     \\[\n     7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days}\n     \\]\n\nTherefore, the total number of days in 4 weeks is \\(\\boxed{28}\\).",
+      "diffu_response": "28 days 28 days days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days",
+      "nli_score": 0.8651618957519531,
+      "hallucinated": false
+    },
+    {
+      "question": "What is half of 100?",
+      "ar_response": "Half of 100 is 50.",
+      "diffu_response": "50",
+      "nli_score": 0.008324146270751953,
+      "hallucinated": true
+    },
+    {
+      "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+      "ar_response": "To determine how many days it will take to finish reading a 300-page book if you read 50 pages per day, we can follow these steps:\n\n1. Calculate the total number of pages to be read: \\(300\\) pages.\n2. Determine how many days it takes to read all the pages given that you read \\(50\\) pages per day.\n\nWe perform the division:\n\\[\n\\frac{300 \\text{ pages}}{50 \\text{ pages/day}} = 6 \\text{ days}\n\\]\n\nSo, it will take \\(\\boxed{6}\\) days to finish reading the book.",
+      "diffu_response": "6 days.",
+      "nli_score": 0.617084264755249,
+      "hallucinated": false
+    },
+    {
+      "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+      "ar_response": "The sequence you provided is an arithmetic sequence where each term increases by a constant amount. Let's break it down step-by-step:\n\n1. The first term (\\(a_1\\)) is 2.\n2. The second term (\\(a_2\\)) is 4 (which is \\(2 + 2\\)).\n3. The third term (\\(a_3\\)) is 6 (which is \\(4 + 2\\)).\n4. The fourth term (\\(a_4\\)) is 8 (which is \\(6 + 2\\)).\n\nFollowing this pattern, to find the fifth term (\\(a_5\\)), we add 2 to the fourth term:\n\\[ a_5 = a_",
+      "diffu_response": "10\nExplanation: The numbers in the sequence is 2, 4, 6, 8. The next number is 10.",
+      "nli_score": 0.8433744311332703,
+      "hallucinated": false
+    },
+    {
+      "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+      "ar_response": "To determine how many slices of pizza are left after eating some, we can follow these steps:\n\n1. Start with the total number of slices in the pizza.\n2. Subtract the number of slices you ate from the total number of slices.\n\nLet's go through this step-by-step:\n\n1. The pizza is cut into 8 slices.\n2. You eat 3 slices.\n\nSo, the calculation is:\n\\[ 8 - 3 = 5 \\]\n\nTherefore, there are 5 slices of pizza left.",
+      "diffu_response": "5 slices",
+      "nli_score": 0.4899859130382538,
+      "hallucinated": true
+    },
+    {
+      "question": "How many centimeters are there in 1 meter?",
+      "ar_response": "There are 100 centimeters in one meter. This is because the prefix \"centi-\" means one-hundredth, so 1 meter (m) = 100 centimeters (cm).",
+      "diffu_response": "100 centimeters",
+      "nli_score": 0.3498518168926239,
+      "hallucinated": true
+    },
+    {
+      "question": "If today is January 1st, what date is it in 10 days?",
+      "ar_response": "If today is January 1st and you want to know the date 10 days later, you would simply add 10 days to January 1st.\n\nSo, if today is January 1st:\n\n- January has 31 days.\n- February has 28 days (excluding February 29th).\n- March has 31 days.\n- April has 30 days.\n- May has 31 days.\n- June has 30 days.\n- July has 31 days.\n- August has 31 days.\n- September has 30 days.\n- October has 31 days.\n\nAdding these together:\n\n\\( 1 + 31 + 28 + 31",
+      "diffu_response": "11th 11st 12 12st 13 13st 14 14st 15 15st 16 16st 17 17st 18 18st 19 19st 20 20st 21 21st 22 22st 23 23st 24 24st 25 25st 26 26st 27 27st 28 28st 29 29st 30 30st 31 31st 1st 1st 2st 2st 3st 3st 4st 4st 5st 5st",
+      "nli_score": 0.6887972354888916,
+      "hallucinated": false
+    },
+    {
+      "question": "What is 100 divided by 4?",
+      "ar_response": "To solve the problem of dividing 100 by 4, you can use long division:\n\n1. Divide 100 by 4: \n   - 4 goes into 10 two times (since \\(4 \\times 2 = 8\\)).\n   - Subtract 8 from 10 to get a remainder of 2.\n   \nSo, the quotient is 25.\n\nTherefore, \\(100 \\div 4 = 25\\).",
+      "diffu_response": "25",
+      "nli_score": 0.03212404251098633,
+      "hallucinated": true
+    },
+    {
+      "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+      "ar_response": "To determine the total number of balls in the bag, we need to add the number of red balls to the number of blue balls. Here's the step-by-step reasoning:\n\n1. Identify the number of red balls: There are 5 red balls.\n2. Identify the number of blue balls: There are 3 blue balls.\n3. Add the number of red balls and blue balls together: \\(5 + 3 = 8\\).\n\nTherefore, the total number of balls in the bag is \\(\\boxed{8}\\).",
+      "diffu_response": "8 balls",
+      "nli_score": 0.6767579913139343,
+      "hallucinated": false
+    },
+    {
+      "question": "If you double 12, what do you get?",
+      "ar_response": "When you double the number 12, you simply multiply it by 2. So, \\( 12 \\times 2 = 24 \\). Therefore, doubling 12 gives you 24.",
+      "diffu_response": "24",
+      "nli_score": 0.006788321305066347,
+      "hallucinated": true
+    },
+    {
+      "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+      "ar_response": "The train leaves at 9:00 AM and arrives 4 hours after that. Therefore, the train will arrive at 13:00 PM.",
+      "diffu_response": "1 PM.",
+      "nli_score": 0.07376990467309952,
+      "hallucinated": true
+    },
+    {
+      "question": "If three friends split a $30 bill equally, how much does each pay?",
+      "ar_response": "To determine how much each friend pays when they share a $30 bill equally among 3 friends, we need to divide the total amount of the bill by the number of friends.\n\nThe calculation is as follows:\n\n\\[\n\\text{Amount per person} = \\frac{\\text{Total amount}}{\\text{Number of people}} = \\frac{30}{3}\n\\]\n\nPerforming the division gives us:\n\n\\[\n\\frac{30}{3} = 10\n\\]\n\nTherefore, each friend pays \\(\\boxed{10}\\) dollars.",
+      "diffu_response": "10 dollars each.",
+      "nli_score": 0.015143359079957008,
+      "hallucinated": true
+    },
+    {
+      "question": "What is 7 squared?",
+      "ar_response": "The square of seven (7\u00b2) is 49.\n\nTo explain this in more detail:\n\n1. **Understanding Squaring**: When we say \"square of something,\" it means to multiply the number by itself. So, squaring seven (7) would mean multiplying seven by itself.\n\n2. **Calculation**:\n   \\[\n   7 \\times 7 = 49\n   \\]\n\n3. **Verification**:\n   - \\(7^2\\) can be written as \\(7 \\times 7\\).\n   - This is equivalent to \\(7 \\times 7\\), which equals 49.\n   \nTherefore, the final answer is 49.",
+      "diffu_response": "49\nExplanation: 7 squared 7 x 7 = 49",
+      "nli_score": 0.8882266879081726,
+      "hallucinated": false
+    },
+    {
+      "question": "If a year has 12 months, how many months are in half a year?",
+      "ar_response": "Half of a year is 6 months. Therefore, there are 6 months in half a year.",
+      "diffu_response": "6 months",
+      "nli_score": 0.044379834085702896,
+      "hallucinated": true
+    },
+    {
+      "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+      "ar_response": "To determine how many books Alice has, we start with the information given in the problem:\n\n1. Bob has 4 books.\n2. Alice has twice as many books as Bob.\n\nWe can express this relationship mathematically:\n\\[ \\text{Number of books Alice has} = 2 \\times \\text{Number of books Bob has} \\]\n\nSubstituting the number of books Bob has into the equation:\n\\[ \\text{Number of books Alice has} = 2 \\times 4 \\]\n\\[ \\text{Number of books Alice has} = 8 \\]\n\nTherefore, Alice has \\(\\boxed{8}\\) books.",
+      "diffu_response": "8",
+      "nli_score": 0.5019768476486206,
+      "hallucinated": false
+    },
+    {
+      "question": "How many seconds are in 3 minutes?",
+      "ar_response": "There are 60 seconds in one minute. Therefore, to find out how many seconds are in 3 minutes, you simply multiply the number of minutes by the number of seconds per minute:\n\n\\[ 3 \\text{ minutes} \\times 60 \\text{ seconds/minute} = 180 \\text{ seconds} \\]\n\nSo, there are 180 seconds in 3 minutes.",
+      "diffu_response": "180 seconds",
+      "nli_score": 0.7876440286636353,
+      "hallucinated": false
+    },
+    {
+      "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+      "ar_response": "If it takes 1 hour to bake a cake, then starting from 2 PM, the cake will be done by 3 PM.",
+      "diffu_response": "3 PM",
+      "nli_score": 0.3217461407184601,
+      "hallucinated": true
+    }
+  ]
+}

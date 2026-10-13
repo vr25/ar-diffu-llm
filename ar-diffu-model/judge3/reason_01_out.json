@@ -1,0 +1,452 @@
+[
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|1",
+    "correct": true,
+    "reason": "Correctly computes 3-1=2"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|6",
+    "correct": true,
+    "reason": "Correctly computes 15+27=42"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|11",
+    "correct": true,
+    "reason": "Correctly computes $3/12=0.25"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|16",
+    "correct": false,
+    "reason": "Truncated before stating next number"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|21",
+    "correct": true,
+    "reason": "Correctly computes 5+3=8"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|1",
+    "correct": true,
+    "reason": "Correctly computes 3-1=2"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|6",
+    "correct": true,
+    "reason": "Correctly computes 15+27=42"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|11",
+    "correct": true,
+    "reason": "Correctly computes $3/12=0.25"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|16",
+    "correct": true,
+    "reason": "Correctly states next number 10"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|21",
+    "correct": true,
+    "reason": "Correctly computes 5+3=8"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|1",
+    "correct": true,
+    "reason": "Correctly computes 3-1=2"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|6",
+    "correct": true,
+    "reason": "Correctly computes 15+27=42"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|11",
+    "correct": true,
+    "reason": "Correctly computes $3/12=0.25"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|16",
+    "correct": true,
+    "reason": "Correctly states next number 10"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|21",
+    "correct": true,
+    "reason": "Correctly computes 5+3=8"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|1",
+    "correct": true,
+    "reason": "Correctly states 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|11",
+    "correct": true,
+    "reason": "Correctly states $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|21",
+    "correct": true,
+    "reason": "Correctly states 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|11",
+    "correct": true,
+    "reason": "Correctly computes $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|21",
+    "correct": true,
+    "reason": "Correctly states 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|26",
+    "correct": true,
+    "reason": "Correctly computes 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|11",
+    "correct": true,
+    "reason": "Correctly computes $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|21",
+    "correct": true,
+    "reason": "Correctly states 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|11",
+    "correct": true,
+    "reason": "Correctly states $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|21",
+    "correct": true,
+    "reason": "Correctly states 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|1",
+    "correct": true,
+    "reason": "Correctly states 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|11",
+    "correct": true,
+    "reason": "Correctly states $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|26",
+    "correct": true,
+    "reason": "Correctly computes 6 months"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|11",
+    "correct": true,
+    "reason": "Correctly computes $0.25"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|16",
+    "correct": true,
+    "reason": "States 10 then trails off in explanation"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|21",
+    "correct": true,
+    "reason": "Correctly states 8"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|6",
+    "correct": false,
+    "reason": "Refuses, never attempts calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|11",
+    "correct": false,
+    "reason": "Refuses, never attempts calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|21",
+    "correct": true,
+    "reason": "Eventually computes 5+3=8 correctly"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|11",
+    "correct": false,
+    "reason": "Refuses, never attempts calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|6",
+    "correct": false,
+    "reason": "States 0, wrong answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|11",
+    "correct": false,
+    "reason": "Wrong circular math, answer $3 incorrect"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|26",
+    "correct": false,
+    "reason": "Self-contradictory: states 6 then 3 months"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|1",
+    "correct": false,
+    "reason": "Nonsensical, never attempts question"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|11",
+    "correct": false,
+    "reason": "Wrong: states $1 per egg"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|26",
+    "correct": false,
+    "reason": "Truncated before stating final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|1",
+    "correct": false,
+    "reason": "Doesn't answer, just restates initial count"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|11",
+    "correct": false,
+    "reason": "Truncated before stating final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|16",
+    "correct": true,
+    "reason": "Correctly states 10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|26",
+    "correct": true,
+    "reason": "Correctly computes 6 months"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|1",
+    "correct": true,
+    "reason": "Correctly computes 2 apples"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|6",
+    "correct": true,
+    "reason": "Correctly computes 42"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|11",
+    "correct": false,
+    "reason": "Doesn't answer per-egg cost question"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|16",
+    "correct": false,
+    "reason": "Truncated/confused, no final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|21",
+    "correct": true,
+    "reason": "Correctly computes 8"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|26",
+    "correct": true,
+    "reason": "Correctly states 6 months"
+  }
+]

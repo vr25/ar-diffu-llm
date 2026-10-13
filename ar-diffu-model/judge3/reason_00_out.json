@@ -1,0 +1,452 @@
+[
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|10",
+    "correct": false,
+    "reason": "Miscounted hours; said 5PM instead of 8PM"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|15",
+    "correct": false,
+    "reason": "Truncated before stating final day count"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|10",
+    "correct": false,
+    "reason": "Miscounted hours; said 7PM instead of 8PM"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|0",
+    "correct": false,
+    "reason": "Wrong formula result; stated 60 mph not 30"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|0",
+    "correct": false,
+    "reason": "Truncated before giving numeric average speed"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|5",
+    "correct": false,
+    "reason": "Truncated before giving distance answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|0",
+    "correct": false,
+    "reason": "Truncated before giving numeric average speed"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|5",
+    "correct": false,
+    "reason": "Truncated before giving distance answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|5",
+    "correct": false,
+    "reason": "Truncated before giving distance answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|10",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|10",
+    "correct": false,
+    "reason": "Garbled reasoning, no final time stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|15",
+    "correct": false,
+    "reason": "Wrong calculation, no days answer given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|0",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|10",
+    "correct": false,
+    "reason": "Wrong answer; said 3PM instead of 8PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|15",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|0",
+    "correct": false,
+    "reason": "Wrong calculation; gave 120 mph"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|10",
+    "correct": false,
+    "reason": "Nonsensical final answer '17 PM'"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|15",
+    "correct": false,
+    "reason": "Refused to answer the question"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|0",
+    "correct": false,
+    "reason": "Truncated before giving numeric answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|5",
+    "correct": false,
+    "reason": "Truncated before giving numeric answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|10",
+    "correct": false,
+    "reason": "Wrong answer; said 3:15 PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|15",
+    "correct": false,
+    "reason": "Truncated before giving days answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|0",
+    "correct": false,
+    "reason": "Truncated mid-number, no final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|5",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|10",
+    "correct": false,
+    "reason": "Truncated before giving final time"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|15",
+    "correct": false,
+    "reason": "Truncated before giving days answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|0",
+    "correct": false,
+    "reason": "Truncated before giving final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|5",
+    "correct": false,
+    "reason": "Truncated before giving final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|10",
+    "correct": false,
+    "reason": "Garbled reasoning, no final time stated"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|15",
+    "correct": false,
+    "reason": "Refused/failed to compute an answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|20",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|25",
+    "correct": true,
+    "reason": "Correctly computed final answer"
+  }
+]

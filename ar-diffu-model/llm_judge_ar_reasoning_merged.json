@@ -1,0 +1,1352 @@
+{
+ "qwen25-0.5b|0.5|0": {
+  "id": "qwen25-0.5b|0.5|0",
+  "correct": false,
+  "reason": "Truncated before stating the final speed value."
+ },
+ "qwen25-0.5b|0.5|1": {
+  "id": "qwen25-0.5b|0.5|1",
+  "correct": true,
+  "reason": "Correctly computes 3-1=2 apples left."
+ },
+ "qwen25-0.5b|0.5|2": {
+  "id": "qwen25-0.5b|0.5|2",
+  "correct": false,
+  "reason": "Truncated before naming the resulting day."
+ },
+ "qwen25-0.5b|0.5|3": {
+  "id": "qwen25-0.5b|0.5|3",
+  "correct": false,
+  "reason": "Truncated before stating the sale price."
+ },
+ "qwen25-0.5b|0.5|4": {
+  "id": "qwen25-0.5b|0.5|4",
+  "correct": false,
+  "reason": "Truncated before giving the final minute value (150)."
+ },
+ "qwen25-0.5b|0.5|5": {
+  "id": "qwen25-0.5b|0.5|5",
+  "correct": false,
+  "reason": "Truncated before stating the final distance (150 miles)."
+ },
+ "qwen25-0.5b|0.5|6": {
+  "id": "qwen25-0.5b|0.5|6",
+  "correct": true,
+  "reason": "Correctly computes 15+27=42."
+ },
+ "qwen25-0.5b|0.5|7": {
+  "id": "qwen25-0.5b|0.5|7",
+  "correct": true,
+  "reason": "Correctly states 9*6=54."
+ },
+ "qwen25-0.5b|0.5|8": {
+  "id": "qwen25-0.5b|0.5|8",
+  "correct": false,
+  "reason": "Truncated before giving the per-friend cookie count (2)."
+ },
+ "qwen25-0.5b|0.5|9": {
+  "id": "qwen25-0.5b|0.5|9",
+  "correct": false,
+  "reason": "Truncated before computing the area value (24)."
+ },
+ "qwen25-0.5b|0.5|10": {
+  "id": "qwen25-0.5b|0.5|10",
+  "correct": false,
+  "reason": "Truncated before stating the resulting time (8 PM)."
+ },
+ "qwen25-0.5b|0.5|11": {
+  "id": "qwen25-0.5b|0.5|11",
+  "correct": false,
+  "reason": "Truncated before stating the per-egg cost (25 cents)."
+ },
+ "qwen25-0.5b|0.5|12": {
+  "id": "qwen25-0.5b|0.5|12",
+  "correct": false,
+  "reason": "Incorrectly concludes Sarah is youngest when she is oldest; Mike is youngest."
+ },
+ "qwen25-0.5b|0.5|13": {
+  "id": "qwen25-0.5b|0.5|13",
+  "correct": false,
+  "reason": "Truncated before stating the final day count (28)."
+ },
+ "qwen25-0.5b|0.5|14": {
+  "id": "qwen25-0.5b|0.5|14",
+  "correct": true,
+  "reason": "Correctly states half of 100 is 50."
+ },
+ "qwen25-0.5b|0.5|15": {
+  "id": "qwen25-0.5b|0.5|15",
+  "correct": false,
+  "reason": "Truncated before stating the number of days (6)."
+ },
+ "qwen25-0.5b|0.5|16": {
+  "id": "qwen25-0.5b|0.5|16",
+  "correct": false,
+  "reason": "Describes the pattern but never states the next number (10)."
+ },
+ "qwen25-0.5b|0.5|17": {
+  "id": "qwen25-0.5b|0.5|17",
+  "correct": true,
+  "reason": "Correctly computes 8-3=5 slices left."
+ },
+ "qwen25-0.5b|0.5|18": {
+  "id": "qwen25-0.5b|0.5|18",
+  "correct": true,
+  "reason": "Correctly states there are 100 centimeters in a meter."
+ },
+ "qwen25-0.5b|0.5|19": {
+  "id": "qwen25-0.5b|0.5|19",
+  "correct": false,
+  "reason": "Truncated before stating the resulting date (January 11th)."
+ },
+ "qwen25-0.5b|0.5|20": {
+  "id": "qwen25-0.5b|0.5|20",
+  "correct": true,
+  "reason": "Correctly states 100 divided by 4 is 25."
+ },
+ "qwen25-0.5b|0.5|21": {
+  "id": "qwen25-0.5b|0.5|21",
+  "correct": false,
+  "reason": "Truncated before stating the total ball count (8)."
+ },
+ "qwen25-0.5b|0.5|22": {
+  "id": "qwen25-0.5b|0.5|22",
+  "correct": false,
+  "reason": "Truncated before stating the doubled value (24)."
+ },
+ "qwen25-0.5b|0.5|23": {
+  "id": "qwen25-0.5b|0.5|23",
+  "correct": false,
+  "reason": "Self-contradictory, giving both 13:00/noon and 4:00 PM instead of the correct 1 PM."
+ },
+ "qwen25-0.5b|0.5|24": {
+  "id": "qwen25-0.5b|0.5|24",
+  "correct": false,
+  "reason": "Truncated before stating the per-person amount ($10)."
+ },
+ "qwen25-0.5b|0.5|25": {
+  "id": "qwen25-0.5b|0.5|25",
+  "correct": false,
+  "reason": "Truncated before stating the final value (49)."
+ },
+ "qwen25-0.5b|0.5|26": {
+  "id": "qwen25-0.5b|0.5|26",
+  "correct": false,
+  "reason": "Trails off without ever stating the answer (6 months)."
+ },
+ "qwen25-0.5b|0.5|27": {
+  "id": "qwen25-0.5b|0.5|27",
+  "correct": false,
+  "reason": "Truncated before stating Alice's book count (8)."
+ },
+ "qwen25-0.5b|0.5|28": {
+  "id": "qwen25-0.5b|0.5|28",
+  "correct": false,
+  "reason": "Truncated before stating the final seconds value (180)."
+ },
+ "qwen25-0.5b|0.5|29": {
+  "id": "qwen25-0.5b|0.5|29",
+  "correct": true,
+  "reason": "Correctly computes 2 PM plus 1 hour equals 3 PM."
+ },
+ "qwen25-0.5b|0.7|0": {
+  "id": "qwen25-0.5b|0.7|0",
+  "correct": false,
+  "reason": "Truncated before stating the final speed value (should be 30 mph)."
+ },
+ "qwen25-0.5b|0.7|1": {
+  "id": "qwen25-0.5b|0.7|1",
+  "correct": true,
+  "reason": "States Tom has 2 apples left, which is correct."
+ },
+ "qwen25-0.5b|0.7|2": {
+  "id": "qwen25-0.5b|0.7|2",
+  "correct": false,
+  "reason": "Truncated before naming the resulting day (should be Thursday)."
+ },
+ "qwen25-0.5b|0.7|3": {
+  "id": "qwen25-0.5b|0.7|3",
+  "correct": false,
+  "reason": "Truncated before computing the discount or sale price (should be $15)."
+ },
+ "qwen25-0.5b|0.7|4": {
+  "id": "qwen25-0.5b|0.7|4",
+  "correct": false,
+  "reason": "Truncated before giving the final minute count (should be 150)."
+ },
+ "qwen25-0.5b|0.7|5": {
+  "id": "qwen25-0.5b|0.7|5",
+  "correct": false,
+  "reason": "Truncated before computing the distance (should be 150 miles)."
+ },
+ "qwen25-0.5b|0.7|6": {
+  "id": "qwen25-0.5b|0.7|6",
+  "correct": true,
+  "reason": "Correctly states 15 + 27 = 42."
+ },
+ "qwen25-0.5b|0.7|7": {
+  "id": "qwen25-0.5b|0.7|7",
+  "correct": true,
+  "reason": "Correctly states 9 x 6 = 54."
+ },
+ "qwen25-0.5b|0.7|8": {
+  "id": "qwen25-0.5b|0.7|8",
+  "correct": false,
+  "reason": "Truncated before stating the per-friend cookie count (should be 2)."
+ },
+ "qwen25-0.5b|0.7|9": {
+  "id": "qwen25-0.5b|0.7|9",
+  "correct": false,
+  "reason": "Truncated before computing the area (should be 24)."
+ },
+ "qwen25-0.5b|0.7|10": {
+  "id": "qwen25-0.5b|0.7|10",
+  "correct": false,
+  "reason": "Truncated before giving the resulting time (should be 8 PM)."
+ },
+ "qwen25-0.5b|0.7|11": {
+  "id": "qwen25-0.5b|0.7|11",
+  "correct": false,
+  "reason": "Truncated before stating the per-egg cost (should be 25 cents)."
+ },
+ "qwen25-0.5b|0.7|12": {
+  "id": "qwen25-0.5b|0.7|12",
+  "correct": false,
+  "reason": "Truncated before explicitly naming Mike as the youngest."
+ },
+ "qwen25-0.5b|0.7|13": {
+  "id": "qwen25-0.5b|0.7|13",
+  "correct": false,
+  "reason": "Truncated before giving the total day count (should be 28)."
+ },
+ "qwen25-0.5b|0.7|14": {
+  "id": "qwen25-0.5b|0.7|14",
+  "correct": true,
+  "reason": "Correctly states half of 100 is 50."
+ },
+ "qwen25-0.5b|0.7|15": {
+  "id": "qwen25-0.5b|0.7|15",
+  "correct": false,
+  "reason": "Truncated before giving the number of days (should be 6)."
+ },
+ "qwen25-0.5b|0.7|16": {
+  "id": "qwen25-0.5b|0.7|16",
+  "correct": false,
+  "reason": "Truncated before stating the next number (should be 10)."
+ },
+ "qwen25-0.5b|0.7|17": {
+  "id": "qwen25-0.5b|0.7|17",
+  "correct": true,
+  "reason": "Correctly computes 8 - 3 = 5 slices left."
+ },
+ "qwen25-0.5b|0.7|18": {
+  "id": "qwen25-0.5b|0.7|18",
+  "correct": true,
+  "reason": "Correctly states there are 100 centimeters in a meter."
+ },
+ "qwen25-0.5b|0.7|19": {
+  "id": "qwen25-0.5b|0.7|19",
+  "correct": false,
+  "reason": "Truncated before stating the resulting date (should be January 11th)."
+ },
+ "qwen25-0.5b|0.7|20": {
+  "id": "qwen25-0.5b|0.7|20",
+  "correct": false,
+  "reason": "Truncated before giving the division result (should be 25)."
+ },
+ "qwen25-0.5b|0.7|21": {
+  "id": "qwen25-0.5b|0.7|21",
+  "correct": false,
+  "reason": "Truncated before stating the total ball count (should be 8)."
+ },
+ "qwen25-0.5b|0.7|22": {
+  "id": "qwen25-0.5b|0.7|22",
+  "correct": true,
+  "reason": "Correctly states doubling 12 gives 24."
+ },
+ "qwen25-0.5b|0.7|23": {
+  "id": "qwen25-0.5b|0.7|23",
+  "correct": false,
+  "reason": "Miscomputes using 5 hours instead of 4, giving 4 PM instead of the correct 1 PM."
+ },
+ "qwen25-0.5b|0.7|24": {
+  "id": "qwen25-0.5b|0.7|24",
+  "correct": false,
+  "reason": "Truncated before stating the per-person share (should be $10)."
+ },
+ "qwen25-0.5b|0.7|25": {
+  "id": "qwen25-0.5b|0.7|25",
+  "correct": true,
+  "reason": "Correctly states 7 squared is 49."
+ },
+ "qwen25-0.5b|0.7|26": {
+  "id": "qwen25-0.5b|0.7|26",
+  "correct": false,
+  "reason": "Truncated before stating the number of months (should be 6)."
+ },
+ "qwen25-0.5b|0.7|27": {
+  "id": "qwen25-0.5b|0.7|27",
+  "correct": false,
+  "reason": "Truncated before stating Alice's book count (should be 8)."
+ },
+ "qwen25-0.5b|0.7|28": {
+  "id": "qwen25-0.5b|0.7|28",
+  "correct": false,
+  "reason": "Truncated before giving the final seconds value (should be 180)."
+ },
+ "qwen25-0.5b|0.7|29": {
+  "id": "qwen25-0.5b|0.7|29",
+  "correct": false,
+  "reason": "Truncated before stating the finish time (should be 3 PM)."
+ },
+ "qwen25-0.5b|0.9|0": {
+  "id": "qwen25-0.5b|0.9|0",
+  "correct": false,
+  "reason": "Truncated before stating the final speed value (30 mph)."
+ },
+ "qwen25-0.5b|0.9|1": {
+  "id": "qwen25-0.5b|0.9|1",
+  "correct": true,
+  "reason": "Correctly computes 3-1=2 apples left."
+ },
+ "qwen25-0.5b|0.9|2": {
+  "id": "qwen25-0.5b|0.9|2",
+  "correct": false,
+  "reason": "Reasoning is confused and truncated without ever stating Thursday."
+ },
+ "qwen25-0.5b|0.9|3": {
+  "id": "qwen25-0.5b|0.9|3",
+  "correct": false,
+  "reason": "Truncated before computing the sale price ($15)."
+ },
+ "qwen25-0.5b|0.9|4": {
+  "id": "qwen25-0.5b|0.9|4",
+  "correct": false,
+  "reason": "Truncated before giving the final answer of 150 minutes."
+ },
+ "qwen25-0.5b|0.9|5": {
+  "id": "qwen25-0.5b|0.9|5",
+  "correct": false,
+  "reason": "States the formula but truncates before computing 150 miles."
+ },
+ "qwen25-0.5b|0.9|6": {
+  "id": "qwen25-0.5b|0.9|6",
+  "correct": false,
+  "reason": "Truncated mid-addition before reaching 42."
+ },
+ "qwen25-0.5b|0.9|7": {
+  "id": "qwen25-0.5b|0.9|7",
+  "correct": true,
+  "reason": "Correctly states 9 x 6 = 54."
+ },
+ "qwen25-0.5b|0.9|8": {
+  "id": "qwen25-0.5b|0.9|8",
+  "correct": false,
+  "reason": "Truncated before computing 10/5=2 cookies each."
+ },
+ "qwen25-0.5b|0.9|9": {
+  "id": "qwen25-0.5b|0.9|9",
+  "correct": false,
+  "reason": "Truncated before computing area 8x3=24."
+ },
+ "qwen25-0.5b|0.9|10": {
+  "id": "qwen25-0.5b|0.9|10",
+  "correct": false,
+  "reason": "Reasoning is wrong/incomplete and never states the correct 8 PM."
+ },
+ "qwen25-0.5b|0.9|11": {
+  "id": "qwen25-0.5b|0.9|11",
+  "correct": false,
+  "reason": "Truncated before computing $0.25 per egg."
+ },
+ "qwen25-0.5b|0.9|12": {
+  "id": "qwen25-0.5b|0.9|12",
+  "correct": false,
+  "reason": "Truncated before explicitly concluding Mike is the youngest."
+ },
+ "qwen25-0.5b|0.9|13": {
+  "id": "qwen25-0.5b|0.9|13",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 28 days."
+ },
+ "qwen25-0.5b|0.9|14": {
+  "id": "qwen25-0.5b|0.9|14",
+  "correct": true,
+  "reason": "Correctly states half of 100 is 50."
+ },
+ "qwen25-0.5b|0.9|15": {
+  "id": "qwen25-0.5b|0.9|15",
+  "correct": false,
+  "reason": "Truncated before computing 300/50=6 days."
+ },
+ "qwen25-0.5b|0.9|16": {
+  "id": "qwen25-0.5b|0.9|16",
+  "correct": false,
+  "reason": "Truncated before giving the next number 10."
+ },
+ "qwen25-0.5b|0.9|17": {
+  "id": "qwen25-0.5b|0.9|17",
+  "correct": false,
+  "reason": "Truncated before computing 8-3=5 slices left."
+ },
+ "qwen25-0.5b|0.9|18": {
+  "id": "qwen25-0.5b|0.9|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters in a meter."
+ },
+ "qwen25-0.5b|0.9|19": {
+  "id": "qwen25-0.5b|0.9|19",
+  "correct": false,
+  "reason": "Truncated and confused before stating the correct date January 11th."
+ },
+ "qwen25-0.5b|0.9|20": {
+  "id": "qwen25-0.5b|0.9|20",
+  "correct": false,
+  "reason": "Truncated before computing 100/4=25."
+ },
+ "qwen25-0.5b|0.9|21": {
+  "id": "qwen25-0.5b|0.9|21",
+  "correct": false,
+  "reason": "Truncated before computing total of 8 balls."
+ },
+ "qwen25-0.5b|0.9|22": {
+  "id": "qwen25-0.5b|0.9|22",
+  "correct": true,
+  "reason": "Correctly states doubling 12 gives 24."
+ },
+ "qwen25-0.5b|0.9|23": {
+  "id": "qwen25-0.5b|0.9|23",
+  "correct": false,
+  "reason": "Incorrectly concludes 11 instead of the correct 1 PM arrival time."
+ },
+ "qwen25-0.5b|0.9|24": {
+  "id": "qwen25-0.5b|0.9|24",
+  "correct": false,
+  "reason": "Truncated before computing $30/3=$10 each."
+ },
+ "qwen25-0.5b|0.9|25": {
+  "id": "qwen25-0.5b|0.9|25",
+  "correct": true,
+  "reason": "Correctly states 7 squared is 49."
+ },
+ "qwen25-0.5b|0.9|26": {
+  "id": "qwen25-0.5b|0.9|26",
+  "correct": false,
+  "reason": "Incorrectly claims half a year is one-third of a year instead of 6 months."
+ },
+ "qwen25-0.5b|0.9|27": {
+  "id": "qwen25-0.5b|0.9|27",
+  "correct": false,
+  "reason": "Truncated before computing Alice's 8 books."
+ },
+ "qwen25-0.5b|0.9|28": {
+  "id": "qwen25-0.5b|0.9|28",
+  "correct": false,
+  "reason": "Truncated before computing 3 minutes = 180 seconds."
+ },
+ "qwen25-0.5b|0.9|29": {
+  "id": "qwen25-0.5b|0.9|29",
+  "correct": true,
+  "reason": "Correctly states the cake will be done at 3 PM."
+ },
+ "qwen25-1.5b|0.5|0": {
+  "id": "qwen25-1.5b|0.5|0",
+  "correct": false,
+  "reason": "Truncated before stating the average speed (30 mph)."
+ },
+ "qwen25-1.5b|0.5|1": {
+  "id": "qwen25-1.5b|0.5|1",
+  "correct": true,
+  "reason": "Correctly computes 2 apples left."
+ },
+ "qwen25-1.5b|0.5|2": {
+  "id": "qwen25-1.5b|0.5|2",
+  "correct": false,
+  "reason": "Truncated mid-sentence before naming the day (Thursday)."
+ },
+ "qwen25-1.5b|0.5|3": {
+  "id": "qwen25-1.5b|0.5|3",
+  "correct": false,
+  "reason": "Truncated before giving the final sale price ($15)."
+ },
+ "qwen25-1.5b|0.5|4": {
+  "id": "qwen25-1.5b|0.5|4",
+  "correct": false,
+  "reason": "Never states the final answer of 150 minutes."
+ },
+ "qwen25-1.5b|0.5|5": {
+  "id": "qwen25-1.5b|0.5|5",
+  "correct": false,
+  "reason": "Truncated before computing the distance (150 miles)."
+ },
+ "qwen25-1.5b|0.5|6": {
+  "id": "qwen25-1.5b|0.5|6",
+  "correct": true,
+  "reason": "Correctly states 42."
+ },
+ "qwen25-1.5b|0.5|7": {
+  "id": "qwen25-1.5b|0.5|7",
+  "correct": true,
+  "reason": "Correctly computes 54."
+ },
+ "qwen25-1.5b|0.5|8": {
+  "id": "qwen25-1.5b|0.5|8",
+  "correct": true,
+  "reason": "Correctly computes 2 cookies each."
+ },
+ "qwen25-1.5b|0.5|9": {
+  "id": "qwen25-1.5b|0.5|9",
+  "correct": false,
+  "reason": "Truncated before computing the area (24)."
+ },
+ "qwen25-1.5b|0.5|10": {
+  "id": "qwen25-1.5b|0.5|10",
+  "correct": false,
+  "reason": "Truncated before giving the final time (8 PM)."
+ },
+ "qwen25-1.5b|0.5|11": {
+  "id": "qwen25-1.5b|0.5|11",
+  "correct": false,
+  "reason": "Truncated before giving the cost per egg ($0.25)."
+ },
+ "qwen25-1.5b|0.5|12": {
+  "id": "qwen25-1.5b|0.5|12",
+  "correct": false,
+  "reason": "Truncated before naming Mike as the youngest."
+ },
+ "qwen25-1.5b|0.5|13": {
+  "id": "qwen25-1.5b|0.5|13",
+  "correct": true,
+  "reason": "Correctly computes 28 days."
+ },
+ "qwen25-1.5b|0.5|14": {
+  "id": "qwen25-1.5b|0.5|14",
+  "correct": true,
+  "reason": "Correctly states 50."
+ },
+ "qwen25-1.5b|0.5|15": {
+  "id": "qwen25-1.5b|0.5|15",
+  "correct": false,
+  "reason": "Truncated before giving the final answer of 6 days."
+ },
+ "qwen25-1.5b|0.5|16": {
+  "id": "qwen25-1.5b|0.5|16",
+  "correct": true,
+  "reason": "Correctly identifies 10 as the next number."
+ },
+ "qwen25-1.5b|0.5|17": {
+  "id": "qwen25-1.5b|0.5|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left."
+ },
+ "qwen25-1.5b|0.5|18": {
+  "id": "qwen25-1.5b|0.5|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters."
+ },
+ "qwen25-1.5b|0.5|19": {
+  "id": "qwen25-1.5b|0.5|19",
+  "correct": true,
+  "reason": "Correctly states January 11th."
+ },
+ "qwen25-1.5b|0.5|20": {
+  "id": "qwen25-1.5b|0.5|20",
+  "correct": true,
+  "reason": "Correctly computes 25."
+ },
+ "qwen25-1.5b|0.5|21": {
+  "id": "qwen25-1.5b|0.5|21",
+  "correct": false,
+  "reason": "Truncated before giving the total of 8 balls."
+ },
+ "qwen25-1.5b|0.5|22": {
+  "id": "qwen25-1.5b|0.5|22",
+  "correct": true,
+  "reason": "Correctly computes 24."
+ },
+ "qwen25-1.5b|0.5|23": {
+  "id": "qwen25-1.5b|0.5|23",
+  "correct": false,
+  "reason": "Truncated before giving the arrival time (1 PM)."
+ },
+ "qwen25-1.5b|0.5|24": {
+  "id": "qwen25-1.5b|0.5|24",
+  "correct": true,
+  "reason": "Correctly computes $10 each."
+ },
+ "qwen25-1.5b|0.5|25": {
+  "id": "qwen25-1.5b|0.5|25",
+  "correct": true,
+  "reason": "Correctly computes 49."
+ },
+ "qwen25-1.5b|0.5|26": {
+  "id": "qwen25-1.5b|0.5|26",
+  "correct": true,
+  "reason": "Correctly states 6 months before truncation."
+ },
+ "qwen25-1.5b|0.5|27": {
+  "id": "qwen25-1.5b|0.5|27",
+  "correct": false,
+  "reason": "Truncated before stating Alice has 8 books."
+ },
+ "qwen25-1.5b|0.5|28": {
+  "id": "qwen25-1.5b|0.5|28",
+  "correct": true,
+  "reason": "Correctly computes 180 seconds."
+ },
+ "qwen25-1.5b|0.5|29": {
+  "id": "qwen25-1.5b|0.5|29",
+  "correct": true,
+  "reason": "Correctly states the cake is done at 3:00 PM."
+ },
+ "qwen25-1.5b|0.7|0": {
+  "id": "qwen25-1.5b|0.7|0",
+  "correct": false,
+  "reason": "Truncated before giving the numeric answer (30 mph)."
+ },
+ "qwen25-1.5b|0.7|1": {
+  "id": "qwen25-1.5b|0.7|1",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 2 apples."
+ },
+ "qwen25-1.5b|0.7|2": {
+  "id": "qwen25-1.5b|0.7|2",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of Thursday."
+ },
+ "qwen25-1.5b|0.7|3": {
+  "id": "qwen25-1.5b|0.7|3",
+  "correct": false,
+  "reason": "Truncated before giving the sale price of $15."
+ },
+ "qwen25-1.5b|0.7|4": {
+  "id": "qwen25-1.5b|0.7|4",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 150 minutes."
+ },
+ "qwen25-1.5b|0.7|5": {
+  "id": "qwen25-1.5b|0.7|5",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 150 miles."
+ },
+ "qwen25-1.5b|0.7|6": {
+  "id": "qwen25-1.5b|0.7|6",
+  "correct": true,
+  "reason": "15 + 27 = 42 is correct."
+ },
+ "qwen25-1.5b|0.7|7": {
+  "id": "qwen25-1.5b|0.7|7",
+  "correct": true,
+  "reason": "9 x 6 = 54 is correct."
+ },
+ "qwen25-1.5b|0.7|8": {
+  "id": "qwen25-1.5b|0.7|8",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 2 cookies each."
+ },
+ "qwen25-1.5b|0.7|9": {
+  "id": "qwen25-1.5b|0.7|9",
+  "correct": false,
+  "reason": "Truncated before stating the final area of 24."
+ },
+ "qwen25-1.5b|0.7|10": {
+  "id": "qwen25-1.5b|0.7|10",
+  "correct": true,
+  "reason": "3 PM + 5 hours = 8 PM is correct."
+ },
+ "qwen25-1.5b|0.7|11": {
+  "id": "qwen25-1.5b|0.7|11",
+  "correct": false,
+  "reason": "Truncated before stating the final cost of $0.25 per egg."
+ },
+ "qwen25-1.5b|0.7|12": {
+  "id": "qwen25-1.5b|0.7|12",
+  "correct": false,
+  "reason": "Truncated before concluding Mike is the youngest."
+ },
+ "qwen25-1.5b|0.7|13": {
+  "id": "qwen25-1.5b|0.7|13",
+  "correct": true,
+  "reason": "7 x 4 = 28 days is correct."
+ },
+ "qwen25-1.5b|0.7|14": {
+  "id": "qwen25-1.5b|0.7|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "qwen25-1.5b|0.7|15": {
+  "id": "qwen25-1.5b|0.7|15",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 6 days."
+ },
+ "qwen25-1.5b|0.7|16": {
+  "id": "qwen25-1.5b|0.7|16",
+  "correct": true,
+  "reason": "Next number after 2,4,6,8 is 10, correct."
+ },
+ "qwen25-1.5b|0.7|17": {
+  "id": "qwen25-1.5b|0.7|17",
+  "correct": true,
+  "reason": "8 - 3 = 5 slices left, correct."
+ },
+ "qwen25-1.5b|0.7|18": {
+  "id": "qwen25-1.5b|0.7|18",
+  "correct": true,
+  "reason": "100 centimeters in a meter is correct."
+ },
+ "qwen25-1.5b|0.7|19": {
+  "id": "qwen25-1.5b|0.7|19",
+  "correct": false,
+  "reason": "Truncated before stating the final date of January 11th."
+ },
+ "qwen25-1.5b|0.7|20": {
+  "id": "qwen25-1.5b|0.7|20",
+  "correct": true,
+  "reason": "100 / 4 = 25 is correct."
+ },
+ "qwen25-1.5b|0.7|21": {
+  "id": "qwen25-1.5b|0.7|21",
+  "correct": true,
+  "reason": "5 + 3 = 8 balls total is correct."
+ },
+ "qwen25-1.5b|0.7|22": {
+  "id": "qwen25-1.5b|0.7|22",
+  "correct": true,
+  "reason": "Double 12 = 24 is correct."
+ },
+ "qwen25-1.5b|0.7|23": {
+  "id": "qwen25-1.5b|0.7|23",
+  "correct": true,
+  "reason": "9 AM + 4 hours = 1 PM is correct."
+ },
+ "qwen25-1.5b|0.7|24": {
+  "id": "qwen25-1.5b|0.7|24",
+  "correct": true,
+  "reason": "30 / 3 = 10 per person is correct."
+ },
+ "qwen25-1.5b|0.7|25": {
+  "id": "qwen25-1.5b|0.7|25",
+  "correct": true,
+  "reason": "7 squared = 49 is correct."
+ },
+ "qwen25-1.5b|0.7|26": {
+  "id": "qwen25-1.5b|0.7|26",
+  "correct": true,
+  "reason": "Half of 12 months is 6 months, correct."
+ },
+ "qwen25-1.5b|0.7|27": {
+  "id": "qwen25-1.5b|0.7|27",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 8 books."
+ },
+ "qwen25-1.5b|0.7|28": {
+  "id": "qwen25-1.5b|0.7|28",
+  "correct": true,
+  "reason": "3 minutes = 180 seconds is correct."
+ },
+ "qwen25-1.5b|0.7|29": {
+  "id": "qwen25-1.5b|0.7|29",
+  "correct": true,
+  "reason": "2 PM + 1 hour = 3 PM is correct."
+ },
+ "qwen25-1.5b|0.9|0": {
+  "id": "qwen25-1.5b|0.9|0",
+  "correct": false,
+  "reason": "Truncated before stating the final speed (30 mph)."
+ },
+ "qwen25-1.5b|0.9|1": {
+  "id": "qwen25-1.5b|0.9|1",
+  "correct": true,
+  "reason": "Correctly computes 3-1=2 apples left."
+ },
+ "qwen25-1.5b|0.9|2": {
+  "id": "qwen25-1.5b|0.9|2",
+  "correct": false,
+  "reason": "Truncated before giving the final day (Thursday)."
+ },
+ "qwen25-1.5b|0.9|3": {
+  "id": "qwen25-1.5b|0.9|3",
+  "correct": false,
+  "reason": "Truncated before stating the sale price ($15)."
+ },
+ "qwen25-1.5b|0.9|4": {
+  "id": "qwen25-1.5b|0.9|4",
+  "correct": true,
+  "reason": "Correctly states 150 minutes in 2.5 hours."
+ },
+ "qwen25-1.5b|0.9|5": {
+  "id": "qwen25-1.5b|0.9|5",
+  "correct": false,
+  "reason": "Truncated before giving the final distance (150 miles)."
+ },
+ "qwen25-1.5b|0.9|6": {
+  "id": "qwen25-1.5b|0.9|6",
+  "correct": true,
+  "reason": "Correctly computes 15+27=42."
+ },
+ "qwen25-1.5b|0.9|7": {
+  "id": "qwen25-1.5b|0.9|7",
+  "correct": true,
+  "reason": "Correctly computes 9x6=54."
+ },
+ "qwen25-1.5b|0.9|8": {
+  "id": "qwen25-1.5b|0.9|8",
+  "correct": true,
+  "reason": "Correctly computes 10/5=2 cookies each."
+ },
+ "qwen25-1.5b|0.9|9": {
+  "id": "qwen25-1.5b|0.9|9",
+  "correct": false,
+  "reason": "Truncated before stating the final area (24)."
+ },
+ "qwen25-1.5b|0.9|10": {
+  "id": "qwen25-1.5b|0.9|10",
+  "correct": false,
+  "reason": "Truncated before giving the final time (8 PM)."
+ },
+ "qwen25-1.5b|0.9|11": {
+  "id": "qwen25-1.5b|0.9|11",
+  "correct": false,
+  "reason": "Truncated/garbled before giving the final cost per egg ($0.25)."
+ },
+ "qwen25-1.5b|0.9|12": {
+  "id": "qwen25-1.5b|0.9|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as the youngest."
+ },
+ "qwen25-1.5b|0.9|13": {
+  "id": "qwen25-1.5b|0.9|13",
+  "correct": false,
+  "reason": "Truncated before giving the final total (28 days)."
+ },
+ "qwen25-1.5b|0.9|14": {
+  "id": "qwen25-1.5b|0.9|14",
+  "correct": true,
+  "reason": "Correctly states half of 100 is 50."
+ },
+ "qwen25-1.5b|0.9|15": {
+  "id": "qwen25-1.5b|0.9|15",
+  "correct": true,
+  "reason": "Correctly states it will take 6 days."
+ },
+ "qwen25-1.5b|0.9|16": {
+  "id": "qwen25-1.5b|0.9|16",
+  "correct": true,
+  "reason": "Correctly identifies 10 as the next number."
+ },
+ "qwen25-1.5b|0.9|17": {
+  "id": "qwen25-1.5b|0.9|17",
+  "correct": true,
+  "reason": "Correctly computes 8-3=5 slices left."
+ },
+ "qwen25-1.5b|0.9|18": {
+  "id": "qwen25-1.5b|0.9|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters in a meter."
+ },
+ "qwen25-1.5b|0.9|19": {
+  "id": "qwen25-1.5b|0.9|19",
+  "correct": false,
+  "reason": "Gives wrong/confused date (February 1st) instead of January 11th."
+ },
+ "qwen25-1.5b|0.9|20": {
+  "id": "qwen25-1.5b|0.9|20",
+  "correct": true,
+  "reason": "Correctly computes 100/4=25."
+ },
+ "qwen25-1.5b|0.9|21": {
+  "id": "qwen25-1.5b|0.9|21",
+  "correct": false,
+  "reason": "Truncated before giving the final total (8 balls)."
+ },
+ "qwen25-1.5b|0.9|22": {
+  "id": "qwen25-1.5b|0.9|22",
+  "correct": true,
+  "reason": "Correctly shows 12x2=24 even though final sentence is cut off."
+ },
+ "qwen25-1.5b|0.9|23": {
+  "id": "qwen25-1.5b|0.9|23",
+  "correct": false,
+  "reason": "Truncated before giving the final arrival time (1 PM)."
+ },
+ "qwen25-1.5b|0.9|24": {
+  "id": "qwen25-1.5b|0.9|24",
+  "correct": true,
+  "reason": "Correctly computes 30/3=10 dollars each."
+ },
+ "qwen25-1.5b|0.9|25": {
+  "id": "qwen25-1.5b|0.9|25",
+  "correct": true,
+  "reason": "Correctly computes 7 squared as 49."
+ },
+ "qwen25-1.5b|0.9|26": {
+  "id": "qwen25-1.5b|0.9|26",
+  "correct": true,
+  "reason": "Correctly states half a year is 6 months."
+ },
+ "qwen25-1.5b|0.9|27": {
+  "id": "qwen25-1.5b|0.9|27",
+  "correct": true,
+  "reason": "Correctly computes 2x4=8 books."
+ },
+ "qwen25-1.5b|0.9|28": {
+  "id": "qwen25-1.5b|0.9|28",
+  "correct": true,
+  "reason": "Correctly states 180 seconds in 3 minutes."
+ },
+ "qwen25-1.5b|0.9|29": {
+  "id": "qwen25-1.5b|0.9|29",
+  "correct": true,
+  "reason": "Correctly states the cake will be done at 3:00 PM."
+ },
+ "qwen25-3b|0.5|0": {
+  "id": "qwen25-3b|0.5|0",
+  "correct": false,
+  "reason": "Answer truncated before stating the numeric average speed."
+ },
+ "qwen25-3b|0.5|1": {
+  "id": "qwen25-3b|0.5|1",
+  "correct": true,
+  "reason": "Correctly computes 2 apples left."
+ },
+ "qwen25-3b|0.5|2": {
+  "id": "qwen25-3b|0.5|2",
+  "correct": true,
+  "reason": "Monday plus 3 days is correctly Thursday."
+ },
+ "qwen25-3b|0.5|3": {
+  "id": "qwen25-3b|0.5|3",
+  "correct": false,
+  "reason": "Answer truncated before stating the sale price ($15)."
+ },
+ "qwen25-3b|0.5|4": {
+  "id": "qwen25-3b|0.5|4",
+  "correct": false,
+  "reason": "Answer truncated before giving the final minute count (150)."
+ },
+ "qwen25-3b|0.5|5": {
+  "id": "qwen25-3b|0.5|5",
+  "correct": false,
+  "reason": "Answer truncated before stating the distance (150 miles)."
+ },
+ "qwen25-3b|0.5|6": {
+  "id": "qwen25-3b|0.5|6",
+  "correct": true,
+  "reason": "15 plus 27 correctly stated as 42."
+ },
+ "qwen25-3b|0.5|7": {
+  "id": "qwen25-3b|0.5|7",
+  "correct": true,
+  "reason": "9 times 6 correctly stated as 54."
+ },
+ "qwen25-3b|0.5|8": {
+  "id": "qwen25-3b|0.5|8",
+  "correct": true,
+  "reason": "Correctly computes 2 cookies per friend."
+ },
+ "qwen25-3b|0.5|9": {
+  "id": "qwen25-3b|0.5|9",
+  "correct": false,
+  "reason": "Answer truncated before giving the final area (24)."
+ },
+ "qwen25-3b|0.5|10": {
+  "id": "qwen25-3b|0.5|10",
+  "correct": false,
+  "reason": "Answer truncated before stating the final time (8 PM)."
+ },
+ "qwen25-3b|0.5|11": {
+  "id": "qwen25-3b|0.5|11",
+  "correct": false,
+  "reason": "Answer truncated before stating the cost per egg (25 cents)."
+ },
+ "qwen25-3b|0.5|12": {
+  "id": "qwen25-3b|0.5|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as the youngest."
+ },
+ "qwen25-3b|0.5|13": {
+  "id": "qwen25-3b|0.5|13",
+  "correct": false,
+  "reason": "Answer truncated before completing the multiplication (28 days)."
+ },
+ "qwen25-3b|0.5|14": {
+  "id": "qwen25-3b|0.5|14",
+  "correct": true,
+  "reason": "Half of 100 correctly stated as 50."
+ },
+ "qwen25-3b|0.5|15": {
+  "id": "qwen25-3b|0.5|15",
+  "correct": false,
+  "reason": "Answer truncated before stating the final day count (6 days)."
+ },
+ "qwen25-3b|0.5|16": {
+  "id": "qwen25-3b|0.5|16",
+  "correct": false,
+  "reason": "Answer truncated before stating the next number (10)."
+ },
+ "qwen25-3b|0.5|17": {
+  "id": "qwen25-3b|0.5|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left before truncation."
+ },
+ "qwen25-3b|0.5|18": {
+  "id": "qwen25-3b|0.5|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters in 1 meter."
+ },
+ "qwen25-3b|0.5|19": {
+  "id": "qwen25-3b|0.5|19",
+  "correct": true,
+  "reason": "Correctly computes January 11th."
+ },
+ "qwen25-3b|0.5|20": {
+  "id": "qwen25-3b|0.5|20",
+  "correct": true,
+  "reason": "100 divided by 4 correctly stated as 25."
+ },
+ "qwen25-3b|0.5|21": {
+  "id": "qwen25-3b|0.5|21",
+  "correct": false,
+  "reason": "Answer truncated before stating the total (8 balls)."
+ },
+ "qwen25-3b|0.5|22": {
+  "id": "qwen25-3b|0.5|22",
+  "correct": true,
+  "reason": "Double of 12 correctly stated as 24."
+ },
+ "qwen25-3b|0.5|23": {
+  "id": "qwen25-3b|0.5|23",
+  "correct": true,
+  "reason": "9 AM plus 4 hours correctly computed as 1 PM."
+ },
+ "qwen25-3b|0.5|24": {
+  "id": "qwen25-3b|0.5|24",
+  "correct": false,
+  "reason": "Answer truncated before stating each person's share ($10)."
+ },
+ "qwen25-3b|0.5|25": {
+  "id": "qwen25-3b|0.5|25",
+  "correct": true,
+  "reason": "7 squared correctly stated as 49."
+ },
+ "qwen25-3b|0.5|26": {
+  "id": "qwen25-3b|0.5|26",
+  "correct": true,
+  "reason": "Correctly states half a year is 6 months."
+ },
+ "qwen25-3b|0.5|27": {
+  "id": "qwen25-3b|0.5|27",
+  "correct": true,
+  "reason": "Correctly computes Alice has 8 books."
+ },
+ "qwen25-3b|0.5|28": {
+  "id": "qwen25-3b|0.5|28",
+  "correct": false,
+  "reason": "Answer truncated before giving the final second count (180)."
+ },
+ "qwen25-3b|0.5|29": {
+  "id": "qwen25-3b|0.5|29",
+  "correct": true,
+  "reason": "Correctly states the cake is done at 3 PM."
+ },
+ "qwen25-3b|0.7|0": {
+  "id": "qwen25-3b|0.7|0",
+  "correct": false,
+  "reason": "Answer is truncated before stating the final speed value."
+ },
+ "qwen25-3b|0.7|1": {
+  "id": "qwen25-3b|0.7|1",
+  "correct": true,
+  "reason": "Correctly computes 3-1=2 apples left."
+ },
+ "qwen25-3b|0.7|2": {
+  "id": "qwen25-3b|0.7|2",
+  "correct": true,
+  "reason": "Monday plus 3 days is correctly Thursday."
+ },
+ "qwen25-3b|0.7|3": {
+  "id": "qwen25-3b|0.7|3",
+  "correct": false,
+  "reason": "Answer is truncated before giving the final sale price ($15)."
+ },
+ "qwen25-3b|0.7|4": {
+  "id": "qwen25-3b|0.7|4",
+  "correct": false,
+  "reason": "Answer is truncated before stating 150 minutes."
+ },
+ "qwen25-3b|0.7|5": {
+  "id": "qwen25-3b|0.7|5",
+  "correct": false,
+  "reason": "Answer is truncated before stating the 150 mile result."
+ },
+ "qwen25-3b|0.7|6": {
+  "id": "qwen25-3b|0.7|6",
+  "correct": true,
+  "reason": "15 plus 27 correctly equals 42."
+ },
+ "qwen25-3b|0.7|7": {
+  "id": "qwen25-3b|0.7|7",
+  "correct": true,
+  "reason": "9 multiplied by 6 correctly equals 54."
+ },
+ "qwen25-3b|0.7|8": {
+  "id": "qwen25-3b|0.7|8",
+  "correct": false,
+  "reason": "Answer is truncated before stating 2 cookies per friend."
+ },
+ "qwen25-3b|0.7|9": {
+  "id": "qwen25-3b|0.7|9",
+  "correct": false,
+  "reason": "Answer is truncated before computing the area of 24."
+ },
+ "qwen25-3b|0.7|10": {
+  "id": "qwen25-3b|0.7|10",
+  "correct": false,
+  "reason": "Answer is truncated before stating the final time of 8 PM."
+ },
+ "qwen25-3b|0.7|11": {
+  "id": "qwen25-3b|0.7|11",
+  "correct": false,
+  "reason": "Answer is truncated before stating the 25 cents per egg result."
+ },
+ "qwen25-3b|0.7|12": {
+  "id": "qwen25-3b|0.7|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as the youngest."
+ },
+ "qwen25-3b|0.7|13": {
+  "id": "qwen25-3b|0.7|13",
+  "correct": false,
+  "reason": "Answer is truncated before giving 28 days."
+ },
+ "qwen25-3b|0.7|14": {
+  "id": "qwen25-3b|0.7|14",
+  "correct": true,
+  "reason": "Half of 100 is correctly 50."
+ },
+ "qwen25-3b|0.7|15": {
+  "id": "qwen25-3b|0.7|15",
+  "correct": false,
+  "reason": "Answer is truncated before giving the final 6 days answer."
+ },
+ "qwen25-3b|0.7|16": {
+  "id": "qwen25-3b|0.7|16",
+  "correct": false,
+  "reason": "Answer is truncated before stating the next number, 10."
+ },
+ "qwen25-3b|0.7|17": {
+  "id": "qwen25-3b|0.7|17",
+  "correct": true,
+  "reason": "Correctly computes 8-3=5 slices left."
+ },
+ "qwen25-3b|0.7|18": {
+  "id": "qwen25-3b|0.7|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters in a meter."
+ },
+ "qwen25-3b|0.7|19": {
+  "id": "qwen25-3b|0.7|19",
+  "correct": true,
+  "reason": "Correctly computes January 1 plus 10 days is January 11."
+ },
+ "qwen25-3b|0.7|20": {
+  "id": "qwen25-3b|0.7|20",
+  "correct": true,
+  "reason": "100 divided by 4 correctly equals 25."
+ },
+ "qwen25-3b|0.7|21": {
+  "id": "qwen25-3b|0.7|21",
+  "correct": false,
+  "reason": "Answer is truncated before giving the total of 8 balls."
+ },
+ "qwen25-3b|0.7|22": {
+  "id": "qwen25-3b|0.7|22",
+  "correct": true,
+  "reason": "Doubling 12 correctly gives 24."
+ },
+ "qwen25-3b|0.7|23": {
+  "id": "qwen25-3b|0.7|23",
+  "correct": false,
+  "reason": "Answer is truncated before stating the arrival time of 1 PM."
+ },
+ "qwen25-3b|0.7|24": {
+  "id": "qwen25-3b|0.7|24",
+  "correct": false,
+  "reason": "Answer is truncated before giving the final $10 per person."
+ },
+ "qwen25-3b|0.7|25": {
+  "id": "qwen25-3b|0.7|25",
+  "correct": false,
+  "reason": "Answer is truncated before completing the 49 result."
+ },
+ "qwen25-3b|0.7|26": {
+  "id": "qwen25-3b|0.7|26",
+  "correct": true,
+  "reason": "Correctly states half a year is 6 months."
+ },
+ "qwen25-3b|0.7|27": {
+  "id": "qwen25-3b|0.7|27",
+  "correct": false,
+  "reason": "Answer is truncated before stating Alice has 8 books."
+ },
+ "qwen25-3b|0.7|28": {
+  "id": "qwen25-3b|0.7|28",
+  "correct": false,
+  "reason": "Answer is truncated before giving the final 180 seconds."
+ },
+ "qwen25-3b|0.7|29": {
+  "id": "qwen25-3b|0.7|29",
+  "correct": true,
+  "reason": "Correctly concludes the cake is done at 3 PM."
+ },
+ "qwen25-3b|0.9|0": {
+  "id": "qwen25-3b|0.9|0",
+  "correct": false,
+  "reason": "Truncated before stating the final speed value (30 mph)."
+ },
+ "qwen25-3b|0.9|1": {
+  "id": "qwen25-3b|0.9|1",
+  "correct": false,
+  "reason": "Truncated before giving the final answer of 2 apples."
+ },
+ "qwen25-3b|0.9|2": {
+  "id": "qwen25-3b|0.9|2",
+  "correct": true,
+  "reason": "Monday plus 3 days is correctly Thursday."
+ },
+ "qwen25-3b|0.9|3": {
+  "id": "qwen25-3b|0.9|3",
+  "correct": false,
+  "reason": "Truncated before stating the sale price of $15."
+ },
+ "qwen25-3b|0.9|4": {
+  "id": "qwen25-3b|0.9|4",
+  "correct": false,
+  "reason": "Truncated before giving the final answer of 150 minutes."
+ },
+ "qwen25-3b|0.9|5": {
+  "id": "qwen25-3b|0.9|5",
+  "correct": false,
+  "reason": "Truncated before stating the final distance of 150 miles."
+ },
+ "qwen25-3b|0.9|6": {
+  "id": "qwen25-3b|0.9|6",
+  "correct": true,
+  "reason": "15 plus 27 correctly equals 42."
+ },
+ "qwen25-3b|0.9|7": {
+  "id": "qwen25-3b|0.9|7",
+  "correct": true,
+  "reason": "9 multiplied by 6 correctly equals 54."
+ },
+ "qwen25-3b|0.9|8": {
+  "id": "qwen25-3b|0.9|8",
+  "correct": true,
+  "reason": "10 divided by 5 correctly gives 2 cookies each."
+ },
+ "qwen25-3b|0.9|9": {
+  "id": "qwen25-3b|0.9|9",
+  "correct": false,
+  "reason": "Truncated before stating the final area of 24."
+ },
+ "qwen25-3b|0.9|10": {
+  "id": "qwen25-3b|0.9|10",
+  "correct": true,
+  "reason": "3 PM plus 5 hours correctly equals 8 PM."
+ },
+ "qwen25-3b|0.9|11": {
+  "id": "qwen25-3b|0.9|11",
+  "correct": false,
+  "reason": "Truncated before stating the final cost of $0.25 per egg."
+ },
+ "qwen25-3b|0.9|12": {
+  "id": "qwen25-3b|0.9|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as the youngest."
+ },
+ "qwen25-3b|0.9|13": {
+  "id": "qwen25-3b|0.9|13",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 28 days."
+ },
+ "qwen25-3b|0.9|14": {
+  "id": "qwen25-3b|0.9|14",
+  "correct": true,
+  "reason": "Half of 100 correctly equals 50."
+ },
+ "qwen25-3b|0.9|15": {
+  "id": "qwen25-3b|0.9|15",
+  "correct": false,
+  "reason": "Truncated before stating the final answer of 6 days."
+ },
+ "qwen25-3b|0.9|16": {
+  "id": "qwen25-3b|0.9|16",
+  "correct": false,
+  "reason": "Truncated before stating the next number, 10."
+ },
+ "qwen25-3b|0.9|17": {
+  "id": "qwen25-3b|0.9|17",
+  "correct": true,
+  "reason": "8 minus 3 correctly equals 5 slices."
+ },
+ "qwen25-3b|0.9|18": {
+  "id": "qwen25-3b|0.9|18",
+  "correct": true,
+  "reason": "Correctly states 100 centimeters in 1 meter."
+ },
+ "qwen25-3b|0.9|19": {
+  "id": "qwen25-3b|0.9|19",
+  "correct": true,
+  "reason": "January 1st plus 10 days correctly equals January 11th."
+ },
+ "qwen25-3b|0.9|20": {
+  "id": "qwen25-3b|0.9|20",
+  "correct": true,
+  "reason": "100 divided by 4 correctly equals 25."
+ },
+ "qwen25-3b|0.9|21": {
+  "id": "qwen25-3b|0.9|21",
+  "correct": false,
+  "reason": "Truncated before stating the final total of 8 balls."
+ },
+ "qwen25-3b|0.9|22": {
+  "id": "qwen25-3b|0.9|22",
+  "correct": true,
+  "reason": "Doubling 12 correctly gives 24."
+ },
+ "qwen25-3b|0.9|23": {
+  "id": "qwen25-3b|0.9|23",
+  "correct": false,
+  "reason": "Truncated before stating the final arrival time of 1 PM."
+ },
+ "qwen25-3b|0.9|24": {
+  "id": "qwen25-3b|0.9|24",
+  "correct": false,
+  "reason": "Truncated before stating the final amount of $10 each."
+ },
+ "qwen25-3b|0.9|25": {
+  "id": "qwen25-3b|0.9|25",
+  "correct": true,
+  "reason": "7 squared correctly equals 49."
+ },
+ "qwen25-3b|0.9|26": {
+  "id": "qwen25-3b|0.9|26",
+  "correct": true,
+  "reason": "Half a year correctly equals 6 months."
+ },
+ "qwen25-3b|0.9|27": {
+  "id": "qwen25-3b|0.9|27",
+  "correct": true,
+  "reason": "Twice 4 books correctly equals 8 books for Alice."
+ },
+ "qwen25-3b|0.9|28": {
+  "id": "qwen25-3b|0.9|28",
+  "correct": true,
+  "reason": "3 minutes correctly equals 180 seconds."
+ },
+ "qwen25-3b|0.9|29": {
+  "id": "qwen25-3b|0.9|29",
+  "correct": true,
+  "reason": "2 PM plus 1 hour correctly equals 3 PM."
+ }
+}

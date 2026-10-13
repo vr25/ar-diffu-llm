@@ -1,0 +1,452 @@
+[
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|2",
+  "correct": false,
+  "reason": "Monday+3 days is Thursday, answer says Friday"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|7",
+  "correct": false,
+  "reason": "9x6=54, answer gives 108"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|12",
+  "correct": false,
+  "reason": "Self-contradictory; final answer Sarah is wrong"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|27",
+  "correct": true,
+  "reason": "Correctly computes Alice has 8 books"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|2",
+  "correct": true,
+  "reason": "Correctly answers Thursday"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|2",
+  "correct": true,
+  "reason": "Correctly answers Thursday"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|12",
+  "correct": false,
+  "reason": "Fails to determine answer, no conclusion given"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|12",
+  "correct": false,
+  "reason": "Contradicts itself, final answer Sarah is wrong"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|2",
+  "correct": false,
+  "reason": "Says Wednesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|12",
+  "correct": false,
+  "reason": "Incorrectly states Tom is youngest"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|27",
+  "correct": false,
+  "reason": "Truncated before computing final book count"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|2",
+  "correct": false,
+  "reason": "Says Tuesday, correct answer is Thursday"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|12",
+  "correct": false,
+  "reason": "States cannot determine youngest, no answer"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|2",
+  "correct": false,
+  "reason": "No day-of-week answer given, nonsensical"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|12",
+  "correct": false,
+  "reason": "Incorrectly concludes Sarah is youngest"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|2",
+  "correct": false,
+  "reason": "Nonsensical, claims no such day exists"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|12",
+  "correct": false,
+  "reason": "Does not identify Mike as youngest"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|2",
+  "correct": false,
+  "reason": "Does not answer which day it is"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|12",
+  "correct": true,
+  "reason": "Correctly identifies Mike as youngest"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|17",
+  "correct": true,
+  "reason": "Correctly computes 5 slices left"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|2",
+  "correct": false,
+  "reason": "Truncated, no day answer given"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|7",
+  "correct": false,
+  "reason": "Truncated, no multiplication answer given"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|12",
+  "correct": false,
+  "reason": "Incorrectly states Sarah is youngest"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|17",
+  "correct": false,
+  "reason": "Truncated before stating slice count"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|22",
+  "correct": true,
+  "reason": "Correctly doubles to 24"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|2",
+  "correct": false,
+  "reason": "Vague non-answer, doesn't give correct day"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|7",
+  "correct": true,
+  "reason": "Correctly computes 54"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|12",
+  "correct": false,
+  "reason": "Does not answer who is youngest"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|17",
+  "correct": false,
+  "reason": "States 'only 1' slice left, incorrect"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|22",
+  "correct": false,
+  "reason": "Final stated answer '6' is wrong/contradictory"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|27",
+  "correct": true,
+  "reason": "Correctly computes 8 books"
+ }
+]

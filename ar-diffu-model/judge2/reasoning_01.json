@@ -1,0 +1,452 @@
+[
+ {
+  "id": "diffu|lladamoe|0.5|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven:\n- Total Distance = 60 miles\n- Total Time = 2 hours\n\nSubstitute the values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} \\]\n\n\\[ \\text{Average Speed} = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom has 3 apples and gives 1 apple away. Therefore, he has 2 apples left."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days it will be Thursday."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, follow these steps:\n\n1. ** the discount price**:  \n   The discount is 25% of the original price.  \n   $$\n   \\text{Discount price} = 20 \\times 0.25 = 5\n   $$\n\n2. **Calculate the sale price**:  \n   Subtract the discount price from the original price.  \n   $$\n   \\text{Sale price} = 20 - 5 = 15\n   $$\n\nSo, the sale price of the shirt is **$15**."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find the number of minutes in 2.5 hours, you can use the following calculation:\n\n1. Convert know::\n   - 1 hour = 60 minutes\n\n2. Multiply the number of hours by the number of minutes in an hour:\n   - 2.5 hours \u00d7 60 minutes/hour = 150 minutes\n\nTherefore, there are 150 minutes in 2.5 hours."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance a car travels, you can use the formula:\n\n\\[ \\text{Distance} = \\text{Speed} \\times \\text{Time} \\]\n\nGiven:\n- Speed = 50 mph\n- Time = 3 hours\n\n\\[ \\text{Distance} = 50 \\, \\text{mph} \\times 3 \\, \\text{hours} \\]\n\n\\[ \\text{Distance} = 150 \\, \\text{miles} \\]\n\nSo, the car travels **150 miles**."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 is 42."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend will get 2\ncookies."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "To find the area of a rectangle, you multiply its length by its width. In this case, the length is 8 and the width is 3. So, the area is:\n\n$$ \\text{Area} = \\text{length} \\times \\text{width} = 8 \\times 3 = 24 $$\n\nTherefore, the area of the rectangle is 24 square units."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is 3 PM now, in 5 hours it will be 8 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To determine the cost of one egg, we can follow these steps:\n\n1. Identify the total cost of a dozen eggs. which is $3.\n2. Recognize that a dozen is equal to 12 eggs.\n3. Divide the total cost by the number of eggs in a dozen to find the cost of one egg.\n\nLet's perform the calculation:\n\n\\[\n\\text{Cost of one egg} = \\frac{\\text{Total cost of a dozen eggs}}{\\text{Number of eggs in a dozen}}\n\\]\n\n\\[\n\\text{Cost of one egg} = \\frac{3}{12} = 0.25\n\\]\n\nSo, the cost of one egg is **$0.25**."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, Mike is likely the youngest."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find the number of days in 4 weeks, you can multiply the number of days in a week by the number of weeks:\n\n7 days/week \u00d7 4 weeks = 28 days\n\nSo, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish the book, you can divide the total number of pages by the number of pages read per day.\n\nGiven:\n- Total pages in the book: 300\n- Pages read per day: 50\n\nThe formula to find the number of days is:\n\n\\[ \\text{Number of days} = \\frac{\\text{Total pages}}{\\text{Pages read per day}} \\]\n\nSubstituting the given values:\n\n\\[ \\text{Number of days} = \\frac{300}{50} \\]\n\n\\[ \\text{Number of days} = 6 \\]\n\nSo, it will take you 6 days to finish the book."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 is 10."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3, there are 5 slices left."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st, then in 10 days it would be January 11th."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls to the number of blue balls. \n\nThere are 5 red balls and 3 blue balls, so the total number of balls is:\n\n5 + 3 = 8\n\nTherefore, there are 8 balls in total."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later. To find the arrival time, you add 4 hours to 9 AM:\n\n9 AM + 4 hours = 12 PM\n\nSo, the train arrives at 12 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much a $30 bill costs when split equally among three friends, you can use the following steps:\n\n1. Identify the total amount of the bill: $30.\n2. Identify the number of people sharing the bill: 3.\n3. Divide the total amount by the number of people to find the amount each person pays.\n\nThe calculation is as follows:\n\n\\[ \\text{Amount per person} = \\frac{\\text{Total bill}}{\\text{Number of people}} \\]\n\n\\[ \\text{Amount per person} = \\frac{30}{3} \\]\n\n\\[ \\text{Amount per person} = 10 \\]\n\nSo, each friend pays $10."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year has 6 months."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books and Alice Alice has twice as many books as Bob, then Alice has 2 * 4 = 8 books."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To find out how many seconds are in 3 minutes, you can follow these steps:\n\n1. ** that there are 60 seconds in one minute.\n2. **Multiply the number of minutes (3) by the number of seconds per minute (60).\n\n3. **Perform the multiplication:**\n\n\\[ 3 \\text{ minutes} \\times 60 \\text{ seconds/minute} = 180 \\text{ seconds} \\]\n\nSo, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "diffu|lladamoe|0.5|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake a cake and you start at 2 PM, the cake will be done at 3 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To find the average speed of the train, you can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven:\n- Total Distance = 60 miles\n- Total Time = 2 hours\n\nSubstitute the values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} \\]\n\n\\[ \\text{Average Speed} = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom has 3 apples initially and gives 1 away. To find out how many apples he has left, we subtract the number he gave away from the number he started with:\n\n3 - 1 = 2\n\nSo, Tom has 2 apples left."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days it will be Thursday."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt, we need to calculate 25% of the original price and then subtract that from the original price.\n\nThe original price of the shirt is $20.\n\nFirst, calculate 25% of $20:\n\\[ 25\\% \\text{ of } 20 = \\frac{25}{100} \\times 20 = 0.25 \\times 20 = 5 \\]\n\nNext, subtract the discount amount from the original price to get the sale price:\n\\[ \\text{Sale price} = 20 - 5 = 15 \\]\n\nSo, the sale price of the shirt is **$15**."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find the number of minutes in 2.5 hours, you can multiply 2.5 by 60, since there are 60 minutes in an hour.\n\n2.5 hours \u00d7 60 minutes/hour = 150 minutes\n\nSo, there are 150 minutes in 2.5 hours."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance a car travels, you can use the formula:\n\n**Distance = Speed \u00d7 Time**\n\nGiven:\n- Speed = 50 mph\n- Time = 3 hours\n\nSo = 50 mph \u00d7 3 hours = **150 miles**\n\nSo, the car travels **150 miles**."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend will get:\n\n10 cookies \u00f7 5 friends = 2 cookies per friend.\n\nSo, each friend gets 2 cookies."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "To find the area of a rectangle, you multiply its length by its width.\n\nGiven:\n- Length = 8\n- Width = 3\n\nArea = Length \u00d7 Width  \nArea = 8 \u00d7 3  \nArea = 24\n\nSo, the area of the rectangle is **24 square units**."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is 3 PM now, in 5 hours it will be 8 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find the cost of one egg, we need to divide the total cost of a dozen eggs by the number of eggs in a dozen.\n\nA dozen equals 12 eggs.\n\nSo, the cost of one egg is:\n\n$$\n\\frac{3}{12} = 0.25\n$$\n\nTherefore, one egg costs $0.25."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information, Mike is the youngest."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find the number of days in 4 weeks, you can multiply the number of days in one week by the number of weeks.\n\nThere are 7 days in one week, so in 4 weeks, there are:\n\n\\[ 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\]\n\nTherefore, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish a book with 300 pages if you read 50 pages per day, you can use the following formula:\n\n\\[ \\text{Number of days} = \\frac{\\text{Total number of pages}}{\\text{Pages read per day}} \\]\n\nGiven:\n- Total number of pages = 300\n- Pages read per day = 50\n\nSubstitute the values into the formula:\n\n\\[ \\text{Number of days} = \\frac{300}{50} \\]\n\nPerform the division:\n\n\\[ \\text{Number of days} = 6 \\]\n\nSo, it will take 6 days to finish the book."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 is 10."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3, there are 5 slices left."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st, then in 10 days it will be January 11th."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 equals 25."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls and the number of blue balls together. \n\nThere are 5 red balls and 3 blue balls, so the total number of balls is:\n\n5 (red) + 3 (blue) = 8 balls.\n\nTherefore, there are 8 balls in total."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later. To find the arrival time, add 4 hours to 9 AM:\n\n9 AM + 4 hours = 12 PM\n\nSo, the train arrives at 12 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "To determine how much a $30 bill pays when split equally among three friends, you can use the following steps:\n\n1. Identify the total bill amount: $30.\n2. Identify the number of friends: 3.\n3. Divide the total bill amount by the number of friends: $30 \u00f7 3 = $10.\n\nTherefore, each friend pays $10."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year has 6 months."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If has twice as many books as Bob, and Bob has 4 books, then Alice has 2 * 4 = 8 books."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To find out how many seconds are in 3 minutes, you can follow these steps:\n\n1. ** that there are 60 seconds in one minute.\n2. **Multiply the number of minutes by the number of seconds per minute.**\n\nHere's the calculation:\n\n\\[ 3 \\text{ minutes} \\times 60 \\text{ seconds per minute} = 180 \\text{ seconds} \\]\n\nSo, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "diffu|lladamoe|0.7|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake a cake and you start at 2 PM, the cake will be done at 3 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "To calculate the average speed of the train, you can use the formula:\n\n\\[ \\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}} \\]\n\nGiven:\n- Total Distance = 60 miles\n- Total Time = 2 hours\n\nSubstitute the values into the formula:\n\n\\[ \\text{Average Speed} = \\frac{60 \\text{ miles}}{2 \\text{ hours}} \\]\n\n\\[ \\text{Average Speed} = 30 \\text{ miles per hour} \\]\n\nSo, the average speed of the train is 30 miles per hour."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "Tom has 2 apples left after giving 1 away."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days it will be Thursday."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, follow these steps:\n\n1. Calculate the discount amount:\n   - The original price is $20.\n   - The discount is 25%, which is equivalent to 0.25 (as 25% = 0.25).\n   - The discount amount is $20 * 0.25 = $5.\n\n2. Subtract the discount amount from the original price to get the sale price:\n   - The sale price is $20 - $5 = $15.\n\nSo, the sale price of the shirt is $15."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "To find the number of minutes in 2.5 hours, you can multiply the number of minutes in an hour by the number of hours.\n\nThere are 60 minutes in an hour,\n\nSo,\n\n2.5 hours \u00d7 60 minutes/hour = **150 minutes**\n\nTherefore, there are **150 minutes** in 2.5 hours."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "To calculate the distance a car travels, you can use the formula:\n\n**Distance = Speed \u00d7 Time**\n\nGiven:\n- Speed = 50 mph\n- Time = 3 hours\n\nSo,\n\nDistance = 50 mph \u00d7 3 hours = **150 miles**\n\nThe car travels **150 miles**."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 plus 27 equals 42."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend will get \n\n10 cookies \u00f7 5 friends = 2 cookies per friend. \n\nSo, each friend gets 2 cookies."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "To find the area of a rectangle, you multiply its length by its width.\n\nGiven:\n- Length = 8\n- Width = 3\n\nArea = Length \u00d7 Width\nArea = 8 \u00d7 3\nArea = 24\n\nSo, the area of the rectangle is 24 square units."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "If it is 3 PM now, in 5 hours it will be 8 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "To find the cost of one egg, we need to divide the total cost of a dozen eggs by the number of eggs in a dozen.\n\nA dozen = 12 eggs.\n\nSo, the cost of one egg is:\n\n$$\n\\frac{3}{12} = 0.25\n$$\n\nTherefore, one egg costs $0.25."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, Mike is not the youngest. Sarah is older than Tom, and Tom is older than Mike. Therefore, Mike is the youngest."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find the number of days in 4 weeks, you can multiply the number of days in a week by the number of weeks: \n\n7 days/week x 4 weeks = 28 days\n\nSo, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|14",
+  "question": "What is half of 100?",
+  "answer": "Half of 100 is 50."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "To determine how many days it will take to finish the book, you can divide the total number of pages by the number of pages read per day.\n\nGiven:\n- Total pages in the book = 300\n- Pages read per day = 50\n\nYou can calculate the number of days as follows:\n\n\\[ \\text{Number of days} = \\frac{\\text{Total pages in the book}}{\\ read \\text{Pages read per day}} \\]\n\n\\[ \\text{Number of days} = \\frac{300}{50} \\]\n\n\\[ \\text{Number of days} = 6 \\]\n\nSo, it will take 6 days to finish the book."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "The next number in the sequence 2, 4, 6, 8 is **10**."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3, then there are 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "If today is January 1st, in 10 days it will be January 10th."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "100 divided by 4 is 25."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "To find the total number of balls in the bag, you simply add the number of red balls and the number of blue balls together. \n\nThere are 5 red balls and 3 blue balls, so the total number of balls is:\n\n5 (red balls) + 3 (blue balls) = 8 balls\n\nSo, there are 8 balls in total."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later. To find the arrival time, you add 4 hours to 9 AM:\n\n9 AM + 4 hours = 1 PM.\n\nSo, the train arrives at 1 PM."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "If three friends split a $30 bill equally, each friend pays $10."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|25",
+  "question": "What is 7 squared?",
+  "answer": "7 squared is 49."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "Half a year has 6 months."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If has twice as many books as Bob, and Bob has 4 books, then Alice has 2 * 4 = 8 books."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To find out how many seconds are in 3 minutes, we need to convert minutes to seconds. There are 60 seconds in one minute.\n\nSo, for 3 minutes:\n\n$$\n3 \\text{ minutes} \\times 60 \\text{ seconds per minute} = 180 \\text{ seconds}\n$$\n\nTherefore, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "diffu|lladamoe|0.9|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "If it takes 1 hour to bake a cake and you start at 2 PM, the cake will be done at 3 PM."
+ }
+]

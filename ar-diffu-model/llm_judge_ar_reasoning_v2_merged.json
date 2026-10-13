@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "qwen25-0.5b|0.5|0",
+    "correct": true,
+    "reason": "The stated average speed is 30 miles per hour, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|1",
+    "correct": true,
+    "reason": "The stated result is 2 apples, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|2",
+    "correct": false,
+    "reason": "The response is truncated before stating the final weekday, even though the correct day is Thursday."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|3",
+    "correct": false,
+    "reason": "The response is truncated before stating the sale price, which should be $15."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|4",
+    "correct": true,
+    "reason": "The stated result is 150 minutes, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|5",
+    "correct": true,
+    "reason": "The stated distance is 150 miles, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|6",
+    "correct": true,
+    "reason": "The stated sum is 42, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|7",
+    "correct": false,
+    "reason": "The stated product is 81, but 9 multiplied by 6 is 54."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|8",
+    "correct": false,
+    "reason": "The response is truncated before stating how many cookies each friend gets; the correct answer is 2."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|9",
+    "correct": true,
+    "reason": "The stated area is 24 square units, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|10",
+    "correct": false,
+    "reason": "The response is truncated before stating the final time, which should be 8 PM."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|11",
+    "correct": true,
+    "reason": "The stated cost is one quarter of a dollar, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|12",
+    "correct": false,
+    "reason": "The response is truncated before identifying the youngest person; the correct answer is Mike."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|13",
+    "correct": true,
+    "reason": "The stated result is 28 days, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|14",
+    "correct": true,
+    "reason": "The stated result is 50, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|15",
+    "correct": true,
+    "reason": "The stated duration is 6 days, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|16",
+    "correct": false,
+    "reason": "The response is truncated before stating the next number, which should be 10."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|17",
+    "correct": true,
+    "reason": "The stated result is 5 slices, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|18",
+    "correct": true,
+    "reason": "The stated conversion is 100 centimeters, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|19",
+    "correct": false,
+    "reason": "The response is truncated before stating the date, which should be January 11th."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|20",
+    "correct": true,
+    "reason": "The stated quotient is 25, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|21",
+    "correct": true,
+    "reason": "The stated total is 8 balls, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|22",
+    "correct": true,
+    "reason": "The stated doubled value is 24, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|23",
+    "correct": true,
+    "reason": "13:00 is 1 PM, the correct arrival time; the redundant PM notation does not change the answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|24",
+    "correct": true,
+    "reason": "The stated amount is 10 dollars per friend, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|25",
+    "correct": true,
+    "reason": "The stated square is 49, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|26",
+    "correct": true,
+    "reason": "The stated result is 6 months, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|27",
+    "correct": true,
+    "reason": "The stated number of books is 8, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|28",
+    "correct": true,
+    "reason": "The stated conversion is 180 seconds, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.5|29",
+    "correct": true,
+    "reason": "The stated completion time is 3 PM, which is correct."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|0",
+    "correct": false,
+    "reason": "The response is truncated before stating the average speed."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|1",
+    "correct": true,
+    "reason": "3 minus 1 equals 2 apples."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|2",
+    "correct": true,
+    "reason": "Three days after Monday is Thursday."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|3",
+    "correct": false,
+    "reason": "The response is truncated before stating the $15 sale price."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|4",
+    "correct": false,
+    "reason": "The response is truncated before stating that 2.5 hours equals 150 minutes."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|5",
+    "correct": true,
+    "reason": "50 miles per hour for 3 hours is 150 miles."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|6",
+    "correct": true,
+    "reason": "15 plus 27 equals 42."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|7",
+    "correct": false,
+    "reason": "9 multiplied by 6 is 54, not 27."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|8",
+    "correct": true,
+    "reason": "10 cookies divided equally among 5 friends gives 2 each."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|9",
+    "correct": true,
+    "reason": "A rectangle with length 8 and width 3 has area 24."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|10",
+    "correct": true,
+    "reason": "Five hours after 3 PM is 8 PM, but the response explicitly states 6 PM, so the final answer is wrong."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|11",
+    "correct": false,
+    "reason": "The response is truncated before stating the per-egg cost of $0.25."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|12",
+    "correct": false,
+    "reason": "If Sarah is older than Tom and Tom is older than Mike, Mike is the youngest, not Tom."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|13",
+    "correct": true,
+    "reason": "4 weeks contain 4 times 7, or 28, days."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|14",
+    "correct": true,
+    "reason": "Half of 100 is 50."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|15",
+    "correct": false,
+    "reason": "The response is truncated before stating the 6-day result."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|16",
+    "correct": true,
+    "reason": "The sequence increases by 2, so the next number is 10."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|17",
+    "correct": true,
+    "reason": "8 minus 3 equals 5 slices."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|18",
+    "correct": true,
+    "reason": "1 meter equals 100 centimeters."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|19",
+    "correct": false,
+    "reason": "Ten days after January 1 is January 11, not January 5."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|20",
+    "correct": true,
+    "reason": "100 divided by 4 equals 25."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|21",
+    "correct": true,
+    "reason": "5 red balls plus 3 blue balls equals 8 balls."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|22",
+    "correct": true,
+    "reason": "Doubling 12 gives 24."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|23",
+    "correct": true,
+    "reason": "Four hours after 9 AM is 1 PM."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|24",
+    "correct": false,
+    "reason": "The response is truncated before stating that each friend pays $10."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|25",
+    "correct": true,
+    "reason": "7 squared is 49."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|26",
+    "correct": false,
+    "reason": "Half of 12 months is 6 months, not 4."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|27",
+    "correct": true,
+    "reason": "Twice 4 books is 8 books."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|28",
+    "correct": true,
+    "reason": "3 minutes contain 3 times 60, or 180, seconds."
+  },
+  {
+    "id": "qwen25-0.5b|0.7|29",
+    "correct": true,
+    "reason": "One hour after 2 PM is 3 PM."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|0",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|1",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|2",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|3",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|4",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|5",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|6",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|7",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|8",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|9",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|10",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|11",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|12",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|13",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|14",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|15",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|16",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|17",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|18",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|19",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|20",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|21",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|22",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|23",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|24",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|25",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|26",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|27",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|28",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-0.5b|0.9|29",
+    "correct": false,
+    "reason": "The response does not state the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|0",
+    "correct": true,
+    "reason": "60 miles divided by 2 hours is 30 miles per hour."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|1",
+    "correct": true,
+    "reason": "Starting with 3 apples and giving away 1 leaves 2."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|2",
+    "correct": true,
+    "reason": "Three days after Monday is Thursday."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|3",
+    "correct": false,
+    "reason": "The response is truncated while calculating the discount and never states a final sale price."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|4",
+    "correct": true,
+    "reason": "2.5 hours equals 150 minutes."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|5",
+    "correct": true,
+    "reason": "At 50 miles per hour for 3 hours, the distance is 150 miles."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|6",
+    "correct": true,
+    "reason": "15 plus 27 equals 42."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|7",
+    "correct": true,
+    "reason": "9 multiplied by 6 equals 54."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|8",
+    "correct": true,
+    "reason": "10 cookies shared equally among 5 friends gives 2 cookies each."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|9",
+    "correct": true,
+    "reason": "The rectangle area is 8 times 3, or 24 square units."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|10",
+    "correct": true,
+    "reason": "Five hours after 3 PM is 8 PM."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|11",
+    "correct": true,
+    "reason": "Three dollars divided among 12 eggs is 25 cents per egg."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|12",
+    "correct": true,
+    "reason": "Since Sarah is older than Tom and Tom older than Mike, Mike is youngest."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|13",
+    "correct": true,
+    "reason": "Four weeks contain 4 times 7, or 28 days."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|14",
+    "correct": true,
+    "reason": "Half of 100 is 50."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|15",
+    "correct": true,
+    "reason": "300 pages at 50 pages per day takes 6 days."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|16",
+    "correct": true,
+    "reason": "The sequence increases by 2, so the next number is 10."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|17",
+    "correct": true,
+    "reason": "Eight slices minus three eaten leaves 5 slices."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|18",
+    "correct": true,
+    "reason": "One meter contains 100 centimeters."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|19",
+    "correct": false,
+    "reason": "Ten days after January 1 is January 11, not February 1."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|20",
+    "correct": true,
+    "reason": "100 divided by 4 equals 25."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|21",
+    "correct": true,
+    "reason": "Five red balls plus three blue balls totals 8 balls."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|22",
+    "correct": true,
+    "reason": "Doubling 12 gives 24."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|23",
+    "correct": true,
+    "reason": "Four hours after 9 AM is 1 PM."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|24",
+    "correct": true,
+    "reason": "A 30-dollar bill split among 3 friends costs 10 dollars each."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|25",
+    "correct": true,
+    "reason": "7 squared equals 49."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|26",
+    "correct": true,
+    "reason": "Half of 12 months is 6 months."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|27",
+    "correct": true,
+    "reason": "Twice Bob\u2019s 4 books is 8 books for Alice."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|28",
+    "correct": true,
+    "reason": "Three minutes contains 3 times 60, or 180 seconds."
+  },
+  {
+    "id": "qwen25-1.5b|0.5|29",
+    "correct": true,
+    "reason": "One hour after 2 PM is 3 PM."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|0",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|1",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|2",
+    "correct": false,
+    "reason": "Three days after Monday is Thursday, not Monday."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|3",
+    "correct": false,
+    "reason": "The response is truncated and never states the sale price of $15."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|4",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|5",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|6",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|7",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|8",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|9",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|10",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|11",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|12",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|13",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|14",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|15",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|16",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|17",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|18",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|19",
+    "correct": false,
+    "reason": "Ten days after January 1st is January 11th, not January 10th."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|20",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|21",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|22",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|23",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|24",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|25",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|26",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|27",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|28",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.7|29",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|0",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|1",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|2",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|3",
+    "correct": false,
+    "reason": "The response is truncated before stating the sale price, which is $15."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|4",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|5",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|6",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|7",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|8",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|9",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|10",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|11",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|12",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|13",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|14",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|15",
+    "correct": false,
+    "reason": "The response is truncated before stating the number of days, which is 6."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|16",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|17",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|18",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|19",
+    "correct": false,
+    "reason": "The stated date is nonsensical and wrong; 10 days after January 1st is January 11th."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|20",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|21",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|22",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|23",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|24",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|25",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|26",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|27",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|28",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-1.5b|0.9|29",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|0",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|1",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|2",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|3",
+    "correct": false,
+    "reason": "The response is truncated before stating the sale price, so it never gives a final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|4",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|5",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|6",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|7",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|8",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|9",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|10",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|11",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|12",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|13",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|14",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|15",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|16",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|17",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|18",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|19",
+    "correct": false,
+    "reason": "Ten days after January 1 is January 11, not February 8."
+  },
+  {
+    "id": "qwen25-3b|0.5|20",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|21",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|22",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|23",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|24",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|25",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|26",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|27",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|28",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.5|29",
+    "correct": true,
+    "reason": "The response states the correct final answer."
+  },
+  {
+    "id": "qwen25-3b|0.7|0",
+    "correct": true,
+    "reason": "The train travels 60 miles in 2 hours, so its average speed is 30 mph."
+  },
+  {
+    "id": "qwen25-3b|0.7|1",
+    "correct": true,
+    "reason": "Subtracting 1 apple from 3 leaves 2 apples."
+  },
+  {
+    "id": "qwen25-3b|0.7|2",
+    "correct": true,
+    "reason": "Three days after Monday is Thursday."
+  },
+  {
+    "id": "qwen25-3b|0.7|3",
+    "correct": false,
+    "reason": "The response is truncated before it states the sale price of $15."
+  },
+  {
+    "id": "qwen25-3b|0.7|4",
+    "correct": true,
+    "reason": "2.5 hours equals 150 minutes."
+  },
+  {
+    "id": "qwen25-3b|0.7|5",
+    "correct": true,
+    "reason": "At 50 mph for 3 hours, the car travels 150 miles."
+  },
+  {
+    "id": "qwen25-3b|0.7|6",
+    "correct": true,
+    "reason": "15 plus 27 equals 42."
+  },
+  {
+    "id": "qwen25-3b|0.7|7",
+    "correct": true,
+    "reason": "9 multiplied by 6 equals 54."
+  },
+  {
+    "id": "qwen25-3b|0.7|8",
+    "correct": true,
+    "reason": "Dividing 10 cookies equally among 5 friends gives 2 each."
+  },
+  {
+    "id": "qwen25-3b|0.7|9",
+    "correct": true,
+    "reason": "The rectangle area is 8 times 3, which is 24 square units."
+  },
+  {
+    "id": "qwen25-3b|0.7|10",
+    "correct": true,
+    "reason": "Five hours after 3 PM is 8 PM."
+  },
+  {
+    "id": "qwen25-3b|0.7|11",
+    "correct": true,
+    "reason": "Dividing $3 by 12 eggs gives $0.25 per egg."
+  },
+  {
+    "id": "qwen25-3b|0.7|12",
+    "correct": true,
+    "reason": "Since Sarah is older than Tom and Tom older than Mike, Mike is youngest."
+  },
+  {
+    "id": "qwen25-3b|0.7|13",
+    "correct": true,
+    "reason": "Four weeks contain 4 times 7, or 28 days."
+  },
+  {
+    "id": "qwen25-3b|0.7|14",
+    "correct": true,
+    "reason": "Half of 100 is 50."
+  },
+  {
+    "id": "qwen25-3b|0.7|15",
+    "correct": true,
+    "reason": "At 50 pages per day, 300 pages take 6 days."
+  },
+  {
+    "id": "qwen25-3b|0.7|16",
+    "correct": true,
+    "reason": "The sequence increases by 2, so the next number is 10."
+  },
+  {
+    "id": "qwen25-3b|0.7|17",
+    "correct": true,
+    "reason": "Eight slices minus three eaten leaves 5 slices."
+  },
+  {
+    "id": "qwen25-3b|0.7|18",
+    "correct": true,
+    "reason": "One meter contains 100 centimeters."
+  },
+  {
+    "id": "qwen25-3b|0.7|19",
+    "correct": true,
+    "reason": "Ten days after January 1st is January 11th."
+  },
+  {
+    "id": "qwen25-3b|0.7|20",
+    "correct": true,
+    "reason": "100 divided by 4 equals 25."
+  },
+  {
+    "id": "qwen25-3b|0.7|21",
+    "correct": true,
+    "reason": "Adding 5 red and 3 blue balls gives 8 balls."
+  },
+  {
+    "id": "qwen25-3b|0.7|22",
+    "correct": true,
+    "reason": "Doubling 12 gives 24."
+  },
+  {
+    "id": "qwen25-3b|0.7|23",
+    "correct": true,
+    "reason": "Four hours after 9 AM is 1 PM."
+  },
+  {
+    "id": "qwen25-3b|0.7|24",
+    "correct": true,
+    "reason": "Splitting $30 equally among 3 friends gives $10 each."
+  },
+  {
+    "id": "qwen25-3b|0.7|25",
+    "correct": true,
+    "reason": "7 squared is 49."
+  },
+  {
+    "id": "qwen25-3b|0.7|26",
+    "correct": true,
+    "reason": "Half of 12 months is 6 months."
+  },
+  {
+    "id": "qwen25-3b|0.7|27",
+    "correct": true,
+    "reason": "Twice Bob\u2019s 4 books is 8 books."
+  },
+  {
+    "id": "qwen25-3b|0.7|28",
+    "correct": true,
+    "reason": "Three minutes contain 3 times 60, or 180 seconds."
+  },
+  {
+    "id": "qwen25-3b|0.7|29",
+    "correct": true,
+    "reason": "One hour after 2 PM is 3 PM."
+  },
+  {
+    "id": "qwen25-3b|0.9|0",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|1",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|2",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|3",
+    "correct": false,
+    "reason": "The response is truncated before stating the sale price, which is $15."
+  },
+  {
+    "id": "qwen25-3b|0.9|4",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|5",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|6",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|7",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|8",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|9",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|10",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|11",
+    "correct": false,
+    "reason": "The response is truncated before clearly stating the final per-egg cost, which is $0.25."
+  },
+  {
+    "id": "qwen25-3b|0.9|12",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|13",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|14",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|15",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|16",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|17",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|18",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|19",
+    "correct": false,
+    "reason": "The response is truncated before stating the date, which is January 11th."
+  },
+  {
+    "id": "qwen25-3b|0.9|20",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|21",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|22",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|23",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|24",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|25",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|26",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|27",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|28",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  },
+  {
+    "id": "qwen25-3b|0.9|29",
+    "correct": true,
+    "reason": "The response states the correct final answer to the question."
+  }
+]

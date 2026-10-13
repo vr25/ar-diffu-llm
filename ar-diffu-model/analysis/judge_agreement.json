@@ -1,0 +1,410 @@
+{
+ "factual": {
+  "n": 1656,
+  "agree": 0.9667874396135265,
+  "kappa": 0.8540028981418549,
+  "per_model": {
+   "lladamoe": {
+    "n": 276,
+    "claude": 92.3913043478261,
+    "gpt55": 92.7536231884058
+   },
+   "qwen25-0.5b": {
+    "n": 276,
+    "claude": 88.76811594202898,
+    "gpt55": 87.31884057971014
+   },
+   "dream": {
+    "n": 276,
+    "claude": 95.65217391304348,
+    "gpt55": 94.92753623188406
+   },
+   "qwen25-1.5b": {
+    "n": 276,
+    "claude": 97.82608695652173,
+    "gpt55": 95.65217391304348
+   },
+   "minicpm5": {
+    "n": 276,
+    "claude": 52.89855072463768,
+    "gpt55": 48.91304347826087
+   },
+   "qwen25-3b": {
+    "n": 276,
+    "claude": 100.0,
+    "gpt55": 96.01449275362319
+   }
+  },
+  "disagree": [
+   [
+    "ar|qwen25-0.5b|0.5|3",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.5|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.5|45",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.5|81",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|3",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|35",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|37",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|45",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|81",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|91",
+    false,
+    true
+   ],
+   [
+    "diffu|lladamoe|0.9|3",
+    true,
+    false
+   ],
+   [
+    "diffu|lladamoe|0.9|10",
+    false,
+    true
+   ],
+   [
+    "diffu|lladamoe|0.9|49",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|3",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|49",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|79",
+    false,
+    true
+   ],
+   [
+    "diffu|dream|0.5|7",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.5|45",
+    true,
+    false
+   ],
+   [
+    "diffu|dream|0.7|45",
+    true,
+    false
+   ],
+   [
+    "diffu|dream|0.7|67",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.7|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.7|23",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.7|45",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.7|90",
+    false,
+    true
+   ],
+   [
+    "diffu|dream|0.9|7",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-1.5b|0.9|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.9|20",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-1.5b|0.9|45",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.5|17",
+    false,
+    true
+   ],
+   [
+    "diffu|minicpm5|0.5|19",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.5|32",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.5|64",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.5|4",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.5|13",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.5|45",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.7|24",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.7|67",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.7|76",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.7|78",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.7|5",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.7|13",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.7|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.7|45",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|3",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|6",
+    false,
+    true
+   ],
+   [
+    "diffu|minicpm5|0.9|24",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|30",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|45",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|51",
+    true,
+    false
+   ],
+   [
+    "diffu|minicpm5|0.9|54",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.9|4",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.9|15",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.9|20",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.9|45",
+    true,
+    false
+   ]
+  ]
+ },
+ "reasoning": {
+  "n": 540,
+  "agree": 0.9796296296296296,
+  "kappa": 0.8859184143811939,
+  "per_model": {
+   "dream": {
+    "n": 90,
+    "claude": 96.66666666666667,
+    "gpt55": 97.77777777777777
+   },
+   "lladamoe": {
+    "n": 90,
+    "claude": 95.55555555555556,
+    "gpt55": 96.66666666666667
+   },
+   "minicpm5": {
+    "n": 90,
+    "claude": 92.22222222222223,
+    "gpt55": 93.33333333333333
+   },
+   "qwen25-0.5b": {
+    "n": 90,
+    "claude": 68.88888888888889,
+    "gpt55": 71.11111111111111
+   },
+   "qwen25-1.5b": {
+    "n": 90,
+    "claude": 91.11111111111111,
+    "gpt55": 90.0
+   },
+   "qwen25-3b": {
+    "n": 90,
+    "claude": 93.33333333333333,
+    "gpt55": 94.44444444444444
+   }
+  },
+  "disagree": [
+   [
+    "diffu|dream|0.9|4",
+    false,
+    true
+   ],
+   [
+    "diffu|lladamoe|0.9|12",
+    false,
+    true
+   ],
+   [
+    "diffu|minicpm5|0.9|10",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|10",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|11",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.7|24",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|4",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|18",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-0.5b|0.9|20",
+    false,
+    true
+   ],
+   [
+    "ar|qwen25-1.5b|0.9|10",
+    true,
+    false
+   ],
+   [
+    "ar|qwen25-3b|0.9|11",
+    false,
+    true
+   ]
+  ]
+ }
+}

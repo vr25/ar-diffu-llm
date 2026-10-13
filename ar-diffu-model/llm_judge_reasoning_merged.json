@@ -1,0 +1,1352 @@
+{
+ "dream|0.5|0": {
+  "id": "dream|0.5|0",
+  "correct": true,
+  "reason": "60/2=30 mph, correctly computed."
+ },
+ "dream|0.5|1": {
+  "id": "dream|0.5|1",
+  "correct": true,
+  "reason": "3-1=2 apples, correct."
+ },
+ "dream|0.5|2": {
+  "id": "dream|0.5|2",
+  "correct": true,
+  "reason": "Monday+3=Thursday, correct."
+ },
+ "dream|0.5|3": {
+  "id": "dream|0.5|3",
+  "correct": true,
+  "reason": "$20-25%=$15, correct."
+ },
+ "dream|0.5|4": {
+  "id": "dream|0.5|4",
+  "correct": true,
+  "reason": "2.5*60=150 minutes, correct."
+ },
+ "dream|0.5|5": {
+  "id": "dream|0.5|5",
+  "correct": true,
+  "reason": "50*3=150 miles, correct."
+ },
+ "dream|0.5|6": {
+  "id": "dream|0.5|6",
+  "correct": true,
+  "reason": "15+27=42, correct."
+ },
+ "dream|0.5|7": {
+  "id": "dream|0.5|7",
+  "correct": true,
+  "reason": "9*6=54, correct."
+ },
+ "dream|0.5|8": {
+  "id": "dream|0.5|8",
+  "correct": true,
+  "reason": "10/5=2 cookies each, correct."
+ },
+ "dream|0.5|9": {
+  "id": "dream|0.5|9",
+  "correct": true,
+  "reason": "8*3=24 square units, correct."
+ },
+ "dream|0.5|10": {
+  "id": "dream|0.5|10",
+  "correct": true,
+  "reason": "3 PM+5h=8 PM, correct."
+ },
+ "dream|0.5|11": {
+  "id": "dream|0.5|11",
+  "correct": true,
+  "reason": "$3/12=$0.25 per egg, correct."
+ },
+ "dream|0.5|12": {
+  "id": "dream|0.5|12",
+  "correct": true,
+  "reason": "Order Sarah>Tom>Mike, Mike is youngest, correct."
+ },
+ "dream|0.5|13": {
+  "id": "dream|0.5|13",
+  "correct": true,
+  "reason": "7*4=28 days, correct."
+ },
+ "dream|0.5|14": {
+  "id": "dream|0.5|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "dream|0.5|15": {
+  "id": "dream|0.5|15",
+  "correct": true,
+  "reason": "300/50=6 days, correct."
+ },
+ "dream|0.5|16": {
+  "id": "dream|0.5|16",
+  "correct": true,
+  "reason": "Sequence +2 pattern gives 10, correct."
+ },
+ "dream|0.5|17": {
+  "id": "dream|0.5|17",
+  "correct": true,
+  "reason": "8-3=5 slices left, correct."
+ },
+ "dream|0.5|18": {
+  "id": "dream|0.5|18",
+  "correct": true,
+  "reason": "1 meter = 100 cm, correct."
+ },
+ "dream|0.5|19": {
+  "id": "dream|0.5|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11, correct."
+ },
+ "dream|0.5|20": {
+  "id": "dream|0.5|20",
+  "correct": true,
+  "reason": "100/4=25, correct."
+ },
+ "dream|0.5|21": {
+  "id": "dream|0.5|21",
+  "correct": true,
+  "reason": "5+3=8 balls total, correct."
+ },
+ "dream|0.5|22": {
+  "id": "dream|0.5|22",
+  "correct": true,
+  "reason": "12*2=24, correct."
+ },
+ "dream|0.5|23": {
+  "id": "dream|0.5|23",
+  "correct": true,
+  "reason": "9 AM+4h=1 PM, correct."
+ },
+ "dream|0.5|24": {
+  "id": "dream|0.5|24",
+  "correct": true,
+  "reason": "$30/3=$10 each, correct."
+ },
+ "dream|0.5|25": {
+  "id": "dream|0.5|25",
+  "correct": true,
+  "reason": "7^2=49, correct."
+ },
+ "dream|0.5|26": {
+  "id": "dream|0.5|26",
+  "correct": true,
+  "reason": "Half of 12 months=6, correct."
+ },
+ "dream|0.5|27": {
+  "id": "dream|0.5|27",
+  "correct": true,
+  "reason": "Final stated answer 8 books is correct, despite flawed intermediate arithmetic shown."
+ },
+ "dream|0.5|28": {
+  "id": "dream|0.5|28",
+  "correct": true,
+  "reason": "3*60=180 seconds, correct."
+ },
+ "dream|0.5|29": {
+  "id": "dream|0.5|29",
+  "correct": true,
+  "reason": "2 PM+1h=3 PM, correct."
+ },
+ "dream|0.7|0": {
+  "id": "dream|0.7|0",
+  "correct": true,
+  "reason": "60/2=30 mph is correct."
+ },
+ "dream|0.7|1": {
+  "id": "dream|0.7|1",
+  "correct": true,
+  "reason": "3-1=2 apples is correct."
+ },
+ "dream|0.7|2": {
+  "id": "dream|0.7|2",
+  "correct": true,
+  "reason": "Monday plus 3 days is Thursday."
+ },
+ "dream|0.7|3": {
+  "id": "dream|0.7|3",
+  "correct": true,
+  "reason": "20 - 25% = $15 is correct."
+ },
+ "dream|0.7|4": {
+  "id": "dream|0.7|4",
+  "correct": true,
+  "reason": "2.5*60=150 minutes is correct."
+ },
+ "dream|0.7|5": {
+  "id": "dream|0.7|5",
+  "correct": true,
+  "reason": "50*3=150 miles is correct."
+ },
+ "dream|0.7|6": {
+  "id": "dream|0.7|6",
+  "correct": true,
+  "reason": "15+27=42 is correct."
+ },
+ "dream|0.7|7": {
+  "id": "dream|0.7|7",
+  "correct": true,
+  "reason": "9*6=54 is correct."
+ },
+ "dream|0.7|8": {
+  "id": "dream|0.7|8",
+  "correct": true,
+  "reason": "10/5=2 cookies each is correct."
+ },
+ "dream|0.7|9": {
+  "id": "dream|0.7|9",
+  "correct": true,
+  "reason": "8*3=24 square units is correct."
+ },
+ "dream|0.7|10": {
+  "id": "dream|0.7|10",
+  "correct": true,
+  "reason": "3 PM + 5 hours = 8 PM is correct."
+ },
+ "dream|0.7|11": {
+  "id": "dream|0.7|11",
+  "correct": true,
+  "reason": "$3/12 = $0.25 (25 cents) is correct."
+ },
+ "dream|0.7|12": {
+  "id": "dream|0.7|12",
+  "correct": true,
+  "reason": "Mike is correctly identified as youngest."
+ },
+ "dream|0.7|13": {
+  "id": "dream|0.7|13",
+  "correct": true,
+  "reason": "7*4=28 days is correct."
+ },
+ "dream|0.7|14": {
+  "id": "dream|0.7|14",
+  "correct": true,
+  "reason": "Half of 100 is 50."
+ },
+ "dream|0.7|15": {
+  "id": "dream|0.7|15",
+  "correct": true,
+  "reason": "300/50=6 days is correct."
+ },
+ "dream|0.7|16": {
+  "id": "dream|0.7|16",
+  "correct": true,
+  "reason": "Next even number after 8 is 10."
+ },
+ "dream|0.7|17": {
+  "id": "dream|0.7|17",
+  "correct": true,
+  "reason": "8-3=5 slices left is correct."
+ },
+ "dream|0.7|18": {
+  "id": "dream|0.7|18",
+  "correct": true,
+  "reason": "1 meter = 100 cm is correct."
+ },
+ "dream|0.7|19": {
+  "id": "dream|0.7|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11 is correct."
+ },
+ "dream|0.7|20": {
+  "id": "dream|0.7|20",
+  "correct": true,
+  "reason": "100/4=25 is correct."
+ },
+ "dream|0.7|21": {
+  "id": "dream|0.7|21",
+  "correct": true,
+  "reason": "5+3=8 balls total is correct."
+ },
+ "dream|0.7|22": {
+  "id": "dream|0.7|22",
+  "correct": true,
+  "reason": "Double of 12 is 24."
+ },
+ "dream|0.7|23": {
+  "id": "dream|0.7|23",
+  "correct": true,
+  "reason": "9 AM + 4 hours = 1 PM is correct."
+ },
+ "dream|0.7|24": {
+  "id": "dream|0.7|24",
+  "correct": true,
+  "reason": "30/3=$10 each is correct."
+ },
+ "dream|0.7|25": {
+  "id": "dream|0.7|25",
+  "correct": true,
+  "reason": "7 squared = 49 is correct."
+ },
+ "dream|0.7|26": {
+  "id": "dream|0.7|26",
+  "correct": true,
+  "reason": "Half of 12 months is 6 months, stated correctly despite garbled text."
+ },
+ "dream|0.7|27": {
+  "id": "dream|0.7|27",
+  "correct": true,
+  "reason": "2*4=8 books is correct."
+ },
+ "dream|0.7|28": {
+  "id": "dream|0.7|28",
+  "correct": true,
+  "reason": "3*60=180 seconds is correct."
+ },
+ "dream|0.7|29": {
+  "id": "dream|0.7|29",
+  "correct": true,
+  "reason": "2 PM + 1 hour = 3 PM is correct."
+ },
+ "dream|0.9|0": {
+  "id": "dream|0.9|0",
+  "correct": true,
+  "reason": "60/2=30 mph, correct."
+ },
+ "dream|0.9|1": {
+  "id": "dream|0.9|1",
+  "correct": true,
+  "reason": "3-1=2, correct."
+ },
+ "dream|0.9|2": {
+  "id": "dream|0.9|2",
+  "correct": true,
+  "reason": "Monday+3 days=Thursday, correct."
+ },
+ "dream|0.9|3": {
+  "id": "dream|0.9|3",
+  "correct": true,
+  "reason": "25% off $20 = $15, correct."
+ },
+ "dream|0.9|4": {
+  "id": "dream|0.9|4",
+  "correct": true,
+  "reason": "2.5*60=150 minutes, correct."
+ },
+ "dream|0.9|5": {
+  "id": "dream|0.9|5",
+  "correct": true,
+  "reason": "50*3=150 miles, correct."
+ },
+ "dream|0.9|6": {
+  "id": "dream|0.9|6",
+  "correct": false,
+  "reason": "15+27=42, not 45."
+ },
+ "dream|0.9|7": {
+  "id": "dream|0.9|7",
+  "correct": true,
+  "reason": "9*6=54, correct."
+ },
+ "dream|0.9|8": {
+  "id": "dream|0.9|8",
+  "correct": true,
+  "reason": "10/5=2 cookies, correct."
+ },
+ "dream|0.9|9": {
+  "id": "dream|0.9|9",
+  "correct": true,
+  "reason": "8*3=24, correct."
+ },
+ "dream|0.9|10": {
+  "id": "dream|0.9|10",
+  "correct": true,
+  "reason": "3PM+5h=8PM, correct."
+ },
+ "dream|0.9|11": {
+  "id": "dream|0.9|11",
+  "correct": true,
+  "reason": "$3/12=$0.25, correct."
+ },
+ "dream|0.9|12": {
+  "id": "dream|0.9|12",
+  "correct": true,
+  "reason": "Mike is youngest, correct."
+ },
+ "dream|0.9|13": {
+  "id": "dream|0.9|13",
+  "correct": true,
+  "reason": "7*4=28 days, correct."
+ },
+ "dream|0.9|14": {
+  "id": "dream|0.9|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "dream|0.9|15": {
+  "id": "dream|0.9|15",
+  "correct": false,
+  "reason": "States 6 days is correct but then contradicts with final answer of 66 days."
+ },
+ "dream|0.9|16": {
+  "id": "dream|0.9|16",
+  "correct": true,
+  "reason": "Next even number after 8 is 10, correct."
+ },
+ "dream|0.9|17": {
+  "id": "dream|0.9|17",
+  "correct": true,
+  "reason": "8-3=5 slices, correct."
+ },
+ "dream|0.9|18": {
+  "id": "dream|0.9|18",
+  "correct": true,
+  "reason": "100 cm in 1 meter, correct."
+ },
+ "dream|0.9|19": {
+  "id": "dream|0.9|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11, correct."
+ },
+ "dream|0.9|20": {
+  "id": "dream|0.9|20",
+  "correct": true,
+  "reason": "100/4=25, correct."
+ },
+ "dream|0.9|21": {
+  "id": "dream|0.9|21",
+  "correct": true,
+  "reason": "5+3=8 balls, correct."
+ },
+ "dream|0.9|22": {
+  "id": "dream|0.9|22",
+  "correct": true,
+  "reason": "Double 12 is 24, correct."
+ },
+ "dream|0.9|23": {
+  "id": "dream|0.9|23",
+  "correct": true,
+  "reason": "9AM+4h=1PM, correct."
+ },
+ "dream|0.9|24": {
+  "id": "dream|0.9|24",
+  "correct": true,
+  "reason": "$30/3=$10, correct."
+ },
+ "dream|0.9|25": {
+  "id": "dream|0.9|25",
+  "correct": true,
+  "reason": "7^2=49, correct."
+ },
+ "dream|0.9|26": {
+  "id": "dream|0.9|26",
+  "correct": true,
+  "reason": "Half of 12 is 6 months, correct."
+ },
+ "dream|0.9|27": {
+  "id": "dream|0.9|27",
+  "correct": true,
+  "reason": "Final stated answer of 8 books is correct despite flawed intermediate reasoning."
+ },
+ "dream|0.9|28": {
+  "id": "dream|0.9|28",
+  "correct": true,
+  "reason": "3*60=180 seconds, correct."
+ },
+ "dream|0.9|29": {
+  "id": "dream|0.9|29",
+  "correct": true,
+  "reason": "2PM+1h=3PM, correct."
+ },
+ "lladamoe|0.5|0": {
+  "id": "lladamoe|0.5|0",
+  "correct": true,
+  "reason": "60/2=30 mph is correct."
+ },
+ "lladamoe|0.5|1": {
+  "id": "lladamoe|0.5|1",
+  "correct": true,
+  "reason": "3-1=2 apples is correct."
+ },
+ "lladamoe|0.5|2": {
+  "id": "lladamoe|0.5|2",
+  "correct": true,
+  "reason": "Monday+3 days=Thursday is correct."
+ },
+ "lladamoe|0.5|3": {
+  "id": "lladamoe|0.5|3",
+  "correct": true,
+  "reason": "25% off $20 is $15, correct."
+ },
+ "lladamoe|0.5|4": {
+  "id": "lladamoe|0.5|4",
+  "correct": true,
+  "reason": "2.5*60=150 minutes is correct."
+ },
+ "lladamoe|0.5|5": {
+  "id": "lladamoe|0.5|5",
+  "correct": true,
+  "reason": "50*3=150 miles is correct."
+ },
+ "lladamoe|0.5|6": {
+  "id": "lladamoe|0.5|6",
+  "correct": true,
+  "reason": "15+27=42 is correct."
+ },
+ "lladamoe|0.5|7": {
+  "id": "lladamoe|0.5|7",
+  "correct": true,
+  "reason": "9*6=54 is correct."
+ },
+ "lladamoe|0.5|8": {
+  "id": "lladamoe|0.5|8",
+  "correct": true,
+  "reason": "10/5=2 cookies each is correct."
+ },
+ "lladamoe|0.5|9": {
+  "id": "lladamoe|0.5|9",
+  "correct": true,
+  "reason": "8*3=24 square units is correct."
+ },
+ "lladamoe|0.5|10": {
+  "id": "lladamoe|0.5|10",
+  "correct": true,
+  "reason": "3PM+5 hours=8PM is correct."
+ },
+ "lladamoe|0.5|11": {
+  "id": "lladamoe|0.5|11",
+  "correct": true,
+  "reason": "$3/12=$0.25 per egg is correct."
+ },
+ "lladamoe|0.5|12": {
+  "id": "lladamoe|0.5|12",
+  "correct": true,
+  "reason": "Mike is correctly identified as youngest."
+ },
+ "lladamoe|0.5|13": {
+  "id": "lladamoe|0.5|13",
+  "correct": true,
+  "reason": "4*7=28 days is correct."
+ },
+ "lladamoe|0.5|14": {
+  "id": "lladamoe|0.5|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "lladamoe|0.5|15": {
+  "id": "lladamoe|0.5|15",
+  "correct": true,
+  "reason": "300/50=6 days is correct."
+ },
+ "lladamoe|0.5|16": {
+  "id": "lladamoe|0.5|16",
+  "correct": false,
+  "reason": "Next number in 2,4,6,8 should be 10, not 6."
+ },
+ "lladamoe|0.5|17": {
+  "id": "lladamoe|0.5|17",
+  "correct": true,
+  "reason": "8-3=5 slices left is correct."
+ },
+ "lladamoe|0.5|18": {
+  "id": "lladamoe|0.5|18",
+  "correct": true,
+  "reason": "100 cm in a meter is correct."
+ },
+ "lladamoe|0.5|19": {
+  "id": "lladamoe|0.5|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11 is correct."
+ },
+ "lladamoe|0.5|20": {
+  "id": "lladamoe|0.5|20",
+  "correct": true,
+  "reason": "100/4=25 is correct."
+ },
+ "lladamoe|0.5|21": {
+  "id": "lladamoe|0.5|21",
+  "correct": true,
+  "reason": "5+3=8 balls total is correct."
+ },
+ "lladamoe|0.5|22": {
+  "id": "lladamoe|0.5|22",
+  "correct": true,
+  "reason": "Double 12 is 24, correct."
+ },
+ "lladamoe|0.5|23": {
+  "id": "lladamoe|0.5|23",
+  "correct": true,
+  "reason": "9AM+4 hours=1PM is correct."
+ },
+ "lladamoe|0.5|24": {
+  "id": "lladamoe|0.5|24",
+  "correct": true,
+  "reason": "30/3=10 dollars each is correct."
+ },
+ "lladamoe|0.5|25": {
+  "id": "lladamoe|0.5|25",
+  "correct": true,
+  "reason": "7 squared is 49, correct."
+ },
+ "lladamoe|0.5|26": {
+  "id": "lladamoe|0.5|26",
+  "correct": true,
+  "reason": "12/2=6 months is correct."
+ },
+ "lladamoe|0.5|27": {
+  "id": "lladamoe|0.5|27",
+  "correct": true,
+  "reason": "2*4=8 books is correct."
+ },
+ "lladamoe|0.5|28": {
+  "id": "lladamoe|0.5|28",
+  "correct": true,
+  "reason": "3*60=180 seconds is correct."
+ },
+ "lladamoe|0.5|29": {
+  "id": "lladamoe|0.5|29",
+  "correct": true,
+  "reason": "2PM+1 hour=3PM is correct."
+ },
+ "lladamoe|0.7|0": {
+  "id": "lladamoe|0.7|0",
+  "correct": true,
+  "reason": "60 miles / 2 hours = 30 mph, matches answer."
+ },
+ "lladamoe|0.7|1": {
+  "id": "lladamoe|0.7|1",
+  "correct": true,
+  "reason": "3 - 1 = 2, matches answer."
+ },
+ "lladamoe|0.7|2": {
+  "id": "lladamoe|0.7|2",
+  "correct": true,
+  "reason": "Monday + 3 days = Thursday, matches answer."
+ },
+ "lladamoe|0.7|3": {
+  "id": "lladamoe|0.7|3",
+  "correct": true,
+  "reason": "$20 minus 25% off = $15, matches answer."
+ },
+ "lladamoe|0.7|4": {
+  "id": "lladamoe|0.7|4",
+  "correct": true,
+  "reason": "2.5 hours = 150 minutes, matches answer."
+ },
+ "lladamoe|0.7|5": {
+  "id": "lladamoe|0.7|5",
+  "correct": true,
+  "reason": "50 mph * 3 hours = 150 miles, matches answer."
+ },
+ "lladamoe|0.7|6": {
+  "id": "lladamoe|0.7|6",
+  "correct": true,
+  "reason": "15 + 27 = 42, matches answer."
+ },
+ "lladamoe|0.7|7": {
+  "id": "lladamoe|0.7|7",
+  "correct": true,
+  "reason": "9 * 6 = 54, matches answer."
+ },
+ "lladamoe|0.7|8": {
+  "id": "lladamoe|0.7|8",
+  "correct": true,
+  "reason": "10 / 5 = 2 cookies each, matches answer."
+ },
+ "lladamoe|0.7|9": {
+  "id": "lladamoe|0.7|9",
+  "correct": true,
+  "reason": "8 * 3 = 24 square units, matches answer."
+ },
+ "lladamoe|0.7|10": {
+  "id": "lladamoe|0.7|10",
+  "correct": true,
+  "reason": "3 PM + 5 hours = 8 PM, matches answer."
+ },
+ "lladamoe|0.7|11": {
+  "id": "lladamoe|0.7|11",
+  "correct": true,
+  "reason": "$3 / 12 = $0.25 per egg, matches answer."
+ },
+ "lladamoe|0.7|12": {
+  "id": "lladamoe|0.7|12",
+  "correct": true,
+  "reason": "Mike is youngest given Sarah > Tom > Mike, matches answer."
+ },
+ "lladamoe|0.7|13": {
+  "id": "lladamoe|0.7|13",
+  "correct": true,
+  "reason": "4 * 7 = 28 days, matches answer."
+ },
+ "lladamoe|0.7|14": {
+  "id": "lladamoe|0.7|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, matches answer."
+ },
+ "lladamoe|0.7|15": {
+  "id": "lladamoe|0.7|15",
+  "correct": true,
+  "reason": "300 / 50 = 6 days, matches answer."
+ },
+ "lladamoe|0.7|16": {
+  "id": "lladamoe|0.7|16",
+  "correct": false,
+  "reason": "Next number in 2,4,6,8 should be 10, not 8."
+ },
+ "lladamoe|0.7|17": {
+  "id": "lladamoe|0.7|17",
+  "correct": true,
+  "reason": "8 - 3 = 5 slices left, matches answer."
+ },
+ "lladamoe|0.7|18": {
+  "id": "lladamoe|0.7|18",
+  "correct": true,
+  "reason": "1 meter = 100 centimeters, matches answer."
+ },
+ "lladamoe|0.7|19": {
+  "id": "lladamoe|0.7|19",
+  "correct": true,
+  "reason": "January 1 + 10 days = January 11, matches answer."
+ },
+ "lladamoe|0.7|20": {
+  "id": "lladamoe|0.7|20",
+  "correct": true,
+  "reason": "100 / 4 = 25, matches answer."
+ },
+ "lladamoe|0.7|21": {
+  "id": "lladamoe|0.7|21",
+  "correct": false,
+  "reason": "5 red + 3 blue = 8 total balls, but answer states 5."
+ },
+ "lladamoe|0.7|22": {
+  "id": "lladamoe|0.7|22",
+  "correct": true,
+  "reason": "Double of 12 is 24, matches answer."
+ },
+ "lladamoe|0.7|23": {
+  "id": "lladamoe|0.7|23",
+  "correct": true,
+  "reason": "9 AM + 4 hours = 1 PM, matches answer."
+ },
+ "lladamoe|0.7|24": {
+  "id": "lladamoe|0.7|24",
+  "correct": true,
+  "reason": "$30 / 3 = $10 each, matches answer."
+ },
+ "lladamoe|0.7|25": {
+  "id": "lladamoe|0.7|25",
+  "correct": true,
+  "reason": "7 squared = 49, matches answer."
+ },
+ "lladamoe|0.7|26": {
+  "id": "lladamoe|0.7|26",
+  "correct": true,
+  "reason": "Half of 12 months = 6 months, matches answer."
+ },
+ "lladamoe|0.7|27": {
+  "id": "lladamoe|0.7|27",
+  "correct": true,
+  "reason": "2 * 4 = 8 books, matches answer."
+ },
+ "lladamoe|0.7|28": {
+  "id": "lladamoe|0.7|28",
+  "correct": true,
+  "reason": "3 * 60 = 180 seconds, matches answer."
+ },
+ "lladamoe|0.7|29": {
+  "id": "lladamoe|0.7|29",
+  "correct": true,
+  "reason": "2 PM + 1 hour = 3 PM, matches answer."
+ },
+ "lladamoe|0.9|0": {
+  "id": "lladamoe|0.9|0",
+  "correct": true,
+  "reason": "60/2=30 mph, correct."
+ },
+ "lladamoe|0.9|1": {
+  "id": "lladamoe|0.9|1",
+  "correct": true,
+  "reason": "3-1=2 apples, correct."
+ },
+ "lladamoe|0.9|2": {
+  "id": "lladamoe|0.9|2",
+  "correct": true,
+  "reason": "Monday+3 days=Thursday, correct."
+ },
+ "lladamoe|0.9|3": {
+  "id": "lladamoe|0.9|3",
+  "correct": true,
+  "reason": "$20 minus 25% is $15, correct."
+ },
+ "lladamoe|0.9|4": {
+  "id": "lladamoe|0.9|4",
+  "correct": true,
+  "reason": "2.5*60=150 minutes, correct."
+ },
+ "lladamoe|0.9|5": {
+  "id": "lladamoe|0.9|5",
+  "correct": true,
+  "reason": "50*3=150 miles, correct."
+ },
+ "lladamoe|0.9|6": {
+  "id": "lladamoe|0.9|6",
+  "correct": true,
+  "reason": "15+27=42, correct."
+ },
+ "lladamoe|0.9|7": {
+  "id": "lladamoe|0.9|7",
+  "correct": true,
+  "reason": "9*6=54, correct."
+ },
+ "lladamoe|0.9|8": {
+  "id": "lladamoe|0.9|8",
+  "correct": true,
+  "reason": "10/5=2 cookies, correct."
+ },
+ "lladamoe|0.9|9": {
+  "id": "lladamoe|0.9|9",
+  "correct": true,
+  "reason": "8*3=24 square units, correct."
+ },
+ "lladamoe|0.9|10": {
+  "id": "lladamoe|0.9|10",
+  "correct": true,
+  "reason": "3PM+5h=8PM, correct."
+ },
+ "lladamoe|0.9|11": {
+  "id": "lladamoe|0.9|11",
+  "correct": true,
+  "reason": "$3/12=$0.25 per egg, correct."
+ },
+ "lladamoe|0.9|12": {
+  "id": "lladamoe|0.9|12",
+  "correct": true,
+  "reason": "Mike is youngest, correct ordering."
+ },
+ "lladamoe|0.9|13": {
+  "id": "lladamoe|0.9|13",
+  "correct": true,
+  "reason": "4*7=28 days, correct."
+ },
+ "lladamoe|0.9|14": {
+  "id": "lladamoe|0.9|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "lladamoe|0.9|15": {
+  "id": "lladamoe|0.9|15",
+  "correct": true,
+  "reason": "300/50=6 days, correct."
+ },
+ "lladamoe|0.9|16": {
+  "id": "lladamoe|0.9|16",
+  "correct": false,
+  "reason": "Sequence should continue with 10, not 2+4=6."
+ },
+ "lladamoe|0.9|17": {
+  "id": "lladamoe|0.9|17",
+  "correct": true,
+  "reason": "8-3=5 slices, correct."
+ },
+ "lladamoe|0.9|18": {
+  "id": "lladamoe|0.9|18",
+  "correct": true,
+  "reason": "100 cm in a meter, correct."
+ },
+ "lladamoe|0.9|19": {
+  "id": "lladamoe|0.9|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11, correct."
+ },
+ "lladamoe|0.9|20": {
+  "id": "lladamoe|0.9|20",
+  "correct": true,
+  "reason": "100/4=25, correct."
+ },
+ "lladamoe|0.9|21": {
+  "id": "lladamoe|0.9|21",
+  "correct": true,
+  "reason": "5+3=8 balls, correct."
+ },
+ "lladamoe|0.9|22": {
+  "id": "lladamoe|0.9|22",
+  "correct": true,
+  "reason": "12*2=24, correct."
+ },
+ "lladamoe|0.9|23": {
+  "id": "lladamoe|0.9|23",
+  "correct": false,
+  "reason": "9AM+4h should be 1PM, not 12:00 PM."
+ },
+ "lladamoe|0.9|24": {
+  "id": "lladamoe|0.9|24",
+  "correct": true,
+  "reason": "30/3=10 dollars each, correct."
+ },
+ "lladamoe|0.9|25": {
+  "id": "lladamoe|0.9|25",
+  "correct": true,
+  "reason": "7^2=49, correct."
+ },
+ "lladamoe|0.9|26": {
+  "id": "lladamoe|0.9|26",
+  "correct": true,
+  "reason": "Half of 12 is 6 months, correct."
+ },
+ "lladamoe|0.9|27": {
+  "id": "lladamoe|0.9|27",
+  "correct": true,
+  "reason": "2*4=8 books, correct."
+ },
+ "lladamoe|0.9|28": {
+  "id": "lladamoe|0.9|28",
+  "correct": true,
+  "reason": "3*60=180 seconds, correct."
+ },
+ "lladamoe|0.9|29": {
+  "id": "lladamoe|0.9|29",
+  "correct": true,
+  "reason": "2PM+1h=3PM, correct."
+ },
+ "minicpm5|0.5|0": {
+  "id": "minicpm5|0.5|0",
+  "correct": true,
+  "reason": "60 miles / 2 hours = 30 mph, correctly stated."
+ },
+ "minicpm5|0.5|1": {
+  "id": "minicpm5|0.5|1",
+  "correct": true,
+  "reason": "3 - 1 = 2, correct."
+ },
+ "minicpm5|0.5|2": {
+  "id": "minicpm5|0.5|2",
+  "correct": true,
+  "reason": "Monday + 3 days = Thursday, correct."
+ },
+ "minicpm5|0.5|3": {
+  "id": "minicpm5|0.5|3",
+  "correct": true,
+  "reason": "$20 - 25% = $15, correct value stated despite trailing garbage."
+ },
+ "minicpm5|0.5|4": {
+  "id": "minicpm5|0.5|4",
+  "correct": false,
+  "reason": "2.5 hours = 150 minutes, not 150.5."
+ },
+ "minicpm5|0.5|5": {
+  "id": "minicpm5|0.5|5",
+  "correct": true,
+  "reason": "50 x 3 = 150 miles, correct."
+ },
+ "minicpm5|0.5|6": {
+  "id": "minicpm5|0.5|6",
+  "correct": false,
+  "reason": "15 + 27 = 42, but answer computes 15+15=30, wrong."
+ },
+ "minicpm5|0.5|7": {
+  "id": "minicpm5|0.5|7",
+  "correct": true,
+  "reason": "9 x 6 = 54, correct."
+ },
+ "minicpm5|0.5|8": {
+  "id": "minicpm5|0.5|8",
+  "correct": true,
+  "reason": "10/5 = 2 per friend, correct value given (repeated)."
+ },
+ "minicpm5|0.5|9": {
+  "id": "minicpm5|0.5|9",
+  "correct": true,
+  "reason": "8 x 3 = 24, correct."
+ },
+ "minicpm5|0.5|10": {
+  "id": "minicpm5|0.5|10",
+  "correct": true,
+  "reason": "3 PM + 5 hours = 8 PM, correct."
+ },
+ "minicpm5|0.5|11": {
+  "id": "minicpm5|0.5|11",
+  "correct": false,
+  "reason": "$3/12 = $0.25, but answer gives $0.000556, wrong."
+ },
+ "minicpm5|0.5|12": {
+  "id": "minicpm5|0.5|12",
+  "correct": true,
+  "reason": "Mike is youngest, correct despite trailing garbage."
+ },
+ "minicpm5|0.5|13": {
+  "id": "minicpm5|0.5|13",
+  "correct": true,
+  "reason": "4 weeks x 7 = 28 days, correct."
+ },
+ "minicpm5|0.5|14": {
+  "id": "minicpm5|0.5|14",
+  "correct": true,
+  "reason": "Half of 100 is 50, correct."
+ },
+ "minicpm5|0.5|15": {
+  "id": "minicpm5|0.5|15",
+  "correct": true,
+  "reason": "300/50 = 6 days, correct."
+ },
+ "minicpm5|0.5|16": {
+  "id": "minicpm5|0.5|16",
+  "correct": true,
+  "reason": "Next number after 8 is 10, correct despite garbled explanation."
+ },
+ "minicpm5|0.5|17": {
+  "id": "minicpm5|0.5|17",
+  "correct": true,
+  "reason": "8 - 3 = 5 slices, correct."
+ },
+ "minicpm5|0.5|18": {
+  "id": "minicpm5|0.5|18",
+  "correct": true,
+  "reason": "1 meter = 100 cm, correct."
+ },
+ "minicpm5|0.5|19": {
+  "id": "minicpm5|0.5|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11th, correct value present."
+ },
+ "minicpm5|0.5|20": {
+  "id": "minicpm5|0.5|20",
+  "correct": true,
+  "reason": "100/4 = 25, correct."
+ },
+ "minicpm5|0.5|21": {
+  "id": "minicpm5|0.5|21",
+  "correct": true,
+  "reason": "5 + 3 = 8 balls, correct."
+ },
+ "minicpm5|0.5|22": {
+  "id": "minicpm5|0.5|22",
+  "correct": true,
+  "reason": "Double of 12 is 24, correct."
+ },
+ "minicpm5|0.5|23": {
+  "id": "minicpm5|0.5|23",
+  "correct": true,
+  "reason": "9 AM + 4 hours = 1 PM, correct."
+ },
+ "minicpm5|0.5|24": {
+  "id": "minicpm5|0.5|24",
+  "correct": true,
+  "reason": "$30/3 = $10.00 each, correct."
+ },
+ "minicpm5|0.5|25": {
+  "id": "minicpm5|0.5|25",
+  "correct": true,
+  "reason": "7 squared = 49, correct."
+ },
+ "minicpm5|0.5|26": {
+  "id": "minicpm5|0.5|26",
+  "correct": true,
+  "reason": "Half of 12 months is 6, correct."
+ },
+ "minicpm5|0.5|27": {
+  "id": "minicpm5|0.5|27",
+  "correct": true,
+  "reason": "Bob has 4, twice is 8, correct."
+ },
+ "minicpm5|0.5|28": {
+  "id": "minicpm5|0.5|28",
+  "correct": true,
+  "reason": "3 minutes x 60 = 180 seconds, correct."
+ },
+ "minicpm5|0.5|29": {
+  "id": "minicpm5|0.5|29",
+  "correct": true,
+  "reason": "2 PM + 1 hour = 3 PM, correct."
+ },
+ "minicpm5|0.7|0": {
+  "id": "minicpm5|0.7|0",
+  "correct": true,
+  "reason": "States 30 miles per hour, the correct average speed."
+ },
+ "minicpm5|0.7|1": {
+  "id": "minicpm5|0.7|1",
+  "correct": true,
+  "reason": "States 2 apples, correct answer despite repetition."
+ },
+ "minicpm5|0.7|2": {
+  "id": "minicpm5|0.7|2",
+  "correct": true,
+  "reason": "Monday plus 3 days is Thursday, as stated."
+ },
+ "minicpm5|0.7|3": {
+  "id": "minicpm5|0.7|3",
+  "correct": true,
+  "reason": "States 15, the correct sale price ($20 - 25%)."
+ },
+ "minicpm5|0.7|4": {
+  "id": "minicpm5|0.7|4",
+  "correct": false,
+  "reason": "States 150.5 minutes, but correct answer is 150 minutes."
+ },
+ "minicpm5|0.7|5": {
+  "id": "minicpm5|0.7|5",
+  "correct": true,
+  "reason": "States 150 miles, correct for 50 mph x 3 hours."
+ },
+ "minicpm5|0.7|6": {
+  "id": "minicpm5|0.7|6",
+  "correct": true,
+  "reason": "15 + 27 = 42, correctly computed and stated."
+ },
+ "minicpm5|0.7|7": {
+  "id": "minicpm5|0.7|7",
+  "correct": true,
+  "reason": "States 54 as the answer to 9 x 6, correct despite unrelated extra text."
+ },
+ "minicpm5|0.7|8": {
+  "id": "minicpm5|0.7|8",
+  "correct": true,
+  "reason": "States 2 cookies, correct for 10/5."
+ },
+ "minicpm5|0.7|9": {
+  "id": "minicpm5|0.7|9",
+  "correct": true,
+  "reason": "States 24, correct area for 8 x 3."
+ },
+ "minicpm5|0.7|10": {
+  "id": "minicpm5|0.7|10",
+  "correct": true,
+  "reason": "3 PM plus 5 hours is 8 PM, as stated."
+ },
+ "minicpm5|0.7|11": {
+  "id": "minicpm5|0.7|11",
+  "correct": true,
+  "reason": "Correctly computes 1/12 of $3 as 25 cents."
+ },
+ "minicpm5|0.7|12": {
+  "id": "minicpm5|0.7|12",
+  "correct": true,
+  "reason": "States Mike as the youngest, which is correct."
+ },
+ "minicpm5|0.7|13": {
+  "id": "minicpm5|0.7|13",
+  "correct": true,
+  "reason": "States 28 days, correct for 7 x 4."
+ },
+ "minicpm5|0.7|14": {
+  "id": "minicpm5|0.7|14",
+  "correct": true,
+  "reason": "States 50, correct half of 100."
+ },
+ "minicpm5|0.7|15": {
+  "id": "minicpm5|0.7|15",
+  "correct": true,
+  "reason": "First states 6 days, the correct answer for 300/50, despite trailing garbage."
+ },
+ "minicpm5|0.7|16": {
+  "id": "minicpm5|0.7|16",
+  "correct": true,
+  "reason": "States 10 as the next number in the sequence, which is correct."
+ },
+ "minicpm5|0.7|17": {
+  "id": "minicpm5|0.7|17",
+  "correct": true,
+  "reason": "States 5 slices, correct for 8 - 3."
+ },
+ "minicpm5|0.7|18": {
+  "id": "minicpm5|0.7|18",
+  "correct": true,
+  "reason": "States 100 centimeters, the correct conversion."
+ },
+ "minicpm5|0.7|19": {
+  "id": "minicpm5|0.7|19",
+  "correct": true,
+  "reason": "Mentions 11th, the correct date 10 days after January 1st, despite garbled phrasing."
+ },
+ "minicpm5|0.7|20": {
+  "id": "minicpm5|0.7|20",
+  "correct": true,
+  "reason": "States 25, correct for 100 divided by 4."
+ },
+ "minicpm5|0.7|21": {
+  "id": "minicpm5|0.7|21",
+  "correct": true,
+  "reason": "States 8 balls, correct total of 5 red and 3 blue."
+ },
+ "minicpm5|0.7|22": {
+  "id": "minicpm5|0.7|22",
+  "correct": true,
+  "reason": "States 24, correct double of 12."
+ },
+ "minicpm5|0.7|23": {
+  "id": "minicpm5|0.7|23",
+  "correct": true,
+  "reason": "States 1 PM, correct arrival time for 9 AM plus 4 hours."
+ },
+ "minicpm5|0.7|24": {
+  "id": "minicpm5|0.7|24",
+  "correct": true,
+  "reason": "States 10.00, correct per-person share of $30 split three ways."
+ },
+ "minicpm5|0.7|25": {
+  "id": "minicpm5|0.7|25",
+  "correct": true,
+  "reason": "States 49, correct value of 7 squared."
+ },
+ "minicpm5|0.7|26": {
+  "id": "minicpm5|0.7|26",
+  "correct": true,
+  "reason": "States 6 months, correct half of 12 months."
+ },
+ "minicpm5|0.7|27": {
+  "id": "minicpm5|0.7|27",
+  "correct": true,
+  "reason": "States 8 books, correct for twice Bob's 4 books."
+ },
+ "minicpm5|0.7|28": {
+  "id": "minicpm5|0.7|28",
+  "correct": true,
+  "reason": "States 180 seconds, correct for 3 minutes."
+ },
+ "minicpm5|0.7|29": {
+  "id": "minicpm5|0.7|29",
+  "correct": true,
+  "reason": "States 3:00 PM, correct for starting at 2 PM plus 1 hour."
+ },
+ "minicpm5|0.9|0": {
+  "id": "minicpm5|0.9|0",
+  "correct": true,
+  "reason": "60/2=30 mph is stated correctly."
+ },
+ "minicpm5|0.9|1": {
+  "id": "minicpm5|0.9|1",
+  "correct": true,
+  "reason": "3-1=2 apples is stated correctly."
+ },
+ "minicpm5|0.9|2": {
+  "id": "minicpm5|0.9|2",
+  "correct": false,
+  "reason": "Garbled output never states the correct answer Thursday."
+ },
+ "minicpm5|0.9|3": {
+  "id": "minicpm5|0.9|3",
+  "correct": true,
+  "reason": "20 minus 25% off = 15.00 is stated correctly."
+ },
+ "minicpm5|0.9|4": {
+  "id": "minicpm5|0.9|4",
+  "correct": true,
+  "reason": "2.5 hours = 150 minutes is stated correctly."
+ },
+ "minicpm5|0.9|5": {
+  "id": "minicpm5|0.9|5",
+  "correct": true,
+  "reason": "50 mph x 3 hours = 150 miles is stated correctly."
+ },
+ "minicpm5|0.9|6": {
+  "id": "minicpm5|0.9|6",
+  "correct": true,
+  "reason": "15+27=42 is stated correctly."
+ },
+ "minicpm5|0.9|7": {
+  "id": "minicpm5|0.9|7",
+  "correct": true,
+  "reason": "9x6=54 is stated correctly."
+ },
+ "minicpm5|0.9|8": {
+  "id": "minicpm5|0.9|8",
+  "correct": true,
+  "reason": "10/5=2 cookies each is stated (repeated) correctly."
+ },
+ "minicpm5|0.9|9": {
+  "id": "minicpm5|0.9|9",
+  "correct": true,
+  "reason": "8x3=24 area is stated correctly."
+ },
+ "minicpm5|0.9|10": {
+  "id": "minicpm5|0.9|10",
+  "correct": true,
+  "reason": "3PM+5h=8PM is stated correctly."
+ },
+ "minicpm5|0.9|11": {
+  "id": "minicpm5|0.9|11",
+  "correct": true,
+  "reason": "3/12=$0.25 per egg is stated correctly."
+ },
+ "minicpm5|0.9|12": {
+  "id": "minicpm5|0.9|12",
+  "correct": true,
+  "reason": "Mike is correctly identified as the youngest, stated repeatedly."
+ },
+ "minicpm5|0.9|13": {
+  "id": "minicpm5|0.9|13",
+  "correct": true,
+  "reason": "4 weeks = 28 days is stated correctly."
+ },
+ "minicpm5|0.9|14": {
+  "id": "minicpm5|0.9|14",
+  "correct": true,
+  "reason": "Half of 100 = 50 is stated correctly."
+ },
+ "minicpm5|0.9|15": {
+  "id": "minicpm5|0.9|15",
+  "correct": true,
+  "reason": "300/50=6 days is stated correctly."
+ },
+ "minicpm5|0.9|16": {
+  "id": "minicpm5|0.9|16",
+  "correct": true,
+  "reason": "Next number in sequence is correctly given as 10."
+ },
+ "minicpm5|0.9|17": {
+  "id": "minicpm5|0.9|17",
+  "correct": true,
+  "reason": "8-3=5 slices left is stated correctly."
+ },
+ "minicpm5|0.9|18": {
+  "id": "minicpm5|0.9|18",
+  "correct": true,
+  "reason": "1 meter = 100 centimeters is stated correctly."
+ },
+ "minicpm5|0.9|19": {
+  "id": "minicpm5|0.9|19",
+  "correct": true,
+  "reason": "Jan 1 + 10 days = Jan 11th is stated correctly."
+ },
+ "minicpm5|0.9|20": {
+  "id": "minicpm5|0.9|20",
+  "correct": true,
+  "reason": "100/4=25 is stated correctly."
+ },
+ "minicpm5|0.9|21": {
+  "id": "minicpm5|0.9|21",
+  "correct": true,
+  "reason": "5+3=8 total balls is stated correctly."
+ },
+ "minicpm5|0.9|22": {
+  "id": "minicpm5|0.9|22",
+  "correct": true,
+  "reason": "Double of 12 = 24 is stated correctly."
+ },
+ "minicpm5|0.9|23": {
+  "id": "minicpm5|0.9|23",
+  "correct": true,
+  "reason": "9AM+4h=1PM is stated correctly."
+ },
+ "minicpm5|0.9|24": {
+  "id": "minicpm5|0.9|24",
+  "correct": true,
+  "reason": "30/3=10 per person is stated correctly."
+ },
+ "minicpm5|0.9|25": {
+  "id": "minicpm5|0.9|25",
+  "correct": true,
+  "reason": "7 squared = 49 is stated correctly (final value C 49)."
+ },
+ "minicpm5|0.9|26": {
+  "id": "minicpm5|0.9|26",
+  "correct": true,
+  "reason": "Half of 12 months = 6 months is stated correctly."
+ },
+ "minicpm5|0.9|27": {
+  "id": "minicpm5|0.9|27",
+  "correct": true,
+  "reason": "Twice 4 books = 8 books is stated correctly."
+ },
+ "minicpm5|0.9|28": {
+  "id": "minicpm5|0.9|28",
+  "correct": true,
+  "reason": "3 minutes = 180 seconds is stated correctly."
+ },
+ "minicpm5|0.9|29": {
+  "id": "minicpm5|0.9|29",
+  "correct": true,
+  "reason": "2PM+1h=3PM is stated correctly."
+ }
+}

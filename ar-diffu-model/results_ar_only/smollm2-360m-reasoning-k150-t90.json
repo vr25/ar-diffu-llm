@@ -1,0 +1,128 @@
+{
+ "ar_model": "smollm2-360m",
+ "temperature": 0.9,
+ "question_set": "reasoning",
+ "gen_tokens": 150,
+ "results": [
+  {
+   "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+   "response": "To find the average speed of the train, we need to calculate the distance traveled and the time taken. \n\nThe train travels 60 miles in 2 hours, so the time taken to travel the distance is 60 miles / 2 hours = 30 minutes. \n\nSince 30 minutes is equal to 0.5 hours, the average speed is 60 miles / 0.5 hours = 120 miles per hour."
+  },
+  {
+   "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+   "response": "Tom has 3 apples and gives away 1 apple, so he has 3 apples - 1 apple = 2 apples left."
+  },
+  {
+   "question": "If today is Monday, what day will it be in 3 days?",
+   "response": "As an AI trained by Hugging Face, my knowledge cutoff is December 31, 2031. Therefore, there is no day in 3 days ahead of today."
+  },
+  {
+   "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+   "response": "If the shirt originally costs $20, and it is on sale for 25% off, then the discount amount would be 25% of $20, which is 0.25 * 20 = $5. The remaining price of the shirt after the discount would be $20 - $5 = $15. \n\nTherefore, the sale price of the shirt would be $15."
+  },
+  {
+   "question": "How many minutes are there in 2.5 hours?",
+   "response": "To find out the number of minutes in 2.5 hours, we first need to convert the given time from hours to minutes.\n\n1 hour = 60 minutes\n2.5 hours = 2.5 * 60 = 150 minutes\n\nTherefore, there are 150 minutes in 2.5 hours."
+  },
+  {
+   "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+   "response": "To find the distance the car travels, we need to multiply the speed of the car (50 mph) by the time it travels (3 hours).\n\n50 mph * 3 hours = 150 miles\n\nSo, the car travels 150 miles."
+  },
+  {
+   "question": "What is 15 plus 27?",
+   "response": "0."
+  },
+  {
+   "question": "What is 9 multiplied by 6?",
+   "response": "The number 9 multiplied by 6 is 54."
+  },
+  {
+   "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+   "response": "You can say that 10 cookies is 10 / 5 = 2 cookies per friend."
+  },
+  {
+   "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+   "response": "If a rectangle's length is 8 and its width is 3, the area would be calculated by multiplying the two lengths together and then multiplying that result by the area of a square whose side length is equal to the width. So, we need to calculate the area of a square with a width of 3. A square has four equal sides, and the length of one side will be the same as the width. Therefore, the area of the square is 3 * 3, which equals 9. So, the area of the rectangle is 9 * 8."
+  },
+  {
+   "question": "If it is 3 PM now, what time will it be in 5 hours?",
+   "response": "To find the time in 5 hours, we need to add 5 hours to the current time. In this case, the current time is 3 PM now, so we will add 5 hours.\n\nTo add 5 hours to 3 PM, we first add 1 hour to 3 PM, and then add 1 more hour to the result. Since 3 PM is equivalent to 12 PM, we add 5 hours to 12 PM to find 5 hours from 12 PM.\n\n3 PM + 1 hour = 12 PM\n\n12 PM + 5 hours = 17 PM\n\nTherefore, it will be 17 PM in 5 hours."
+  },
+  {
+   "question": "If a dozen eggs costs $3, how much does one egg cost?",
+   "response": "If you have 12 eggs in a dozen, then the total cost of 12 eggs would be 12 * $3 = $36. \nThe cost of 1 egg would be $36 / 12 = $3."
+  },
+  {
+   "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+   "response": "Sarah is older than Tom and Mike."
+  },
+  {
+   "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+   "response": "I don't have the specific values for the number of days in a week, but I can provide the general information for weeks and days. \n\nThere are 7 days in a week. To calculate the number of days in 4 weeks, we multiply the number of days in a week by 4, as there are 4 weeks in a typical week. 7 days * 4 = 28 days."
+  },
+  {
+   "question": "What is half of 100?",
+   "response": "This question appears to be a math problem. I'm not trained to provide mathematical calculations. I'm here to assist you in providing the mathematical solution."
+  },
+  {
+   "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+   "response": "Inhospitable answer. I'm not designed to answer questions related to reading habits."
+  },
+  {
+   "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+   "response": "The next number in the sequence 2, 4, 6, 8 is 10."
+  },
+  {
+   "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+   "response": "If a pizza is cut into 8 slices, and you eat 3 slices, you now have 5 slices left."
+  },
+  {
+   "question": "How many centimeters are there in 1 meter?",
+   "response": "Hello, little buddy! It's so nice to hear from you! The answer to your question is 100 centimeters in 1 meter. It's a special unit of measurement and it's very useful in many situations! Would you like to know more about it?"
+  },
+  {
+   "question": "If today is January 1st, what date is it in 10 days?",
+   "response": "To convert a date in January 1st to its equivalent date in the next 10 days, we need to divide the current day by 30 and 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31 days."
+  },
+  {
+   "question": "What is 100 divided by 4?",
+   "response": "100 divided by 4 equals 25."
+  },
+  {
+   "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+   "response": "To find the total number of balls, we need to add the number of red balls to the number of blue balls. Since there are 5 red balls and 3 blue balls, the total number of balls is 5 + 3 = 8."
+  },
+  {
+   "question": "If you double 12, what do you get?",
+   "response": "You'd get 24."
+  },
+  {
+   "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+   "response": "To determine the time when the train arrives, we first need to find out how much time has passed. Since it travels 4 hours and the train is traveling at 9 AM, the train starts at 9 AM and has a 4-hour head start. \n\n4 hours is equal to 9 AM + 4 hours. 9 AM is equivalent to 2 PM in decimal hours. Therefore, the train is traveling 2 PM as the starting point.\n\n2 PM + 4 hours equals 10 PM. So, the train arrives at 10 PM."
+  },
+  {
+   "question": "If three friends split a $30 bill equally, how much does each pay?",
+   "response": "A beautiful day to help you solve this problem. Let's analyze it step by step. The problem states that three friends share the $30 bill equally. This means each friend will receive the same amount of money.\n\nSince three friends share the money equally, the amount each friend will pay is equal. \n\nTo calculate the amount each friend will pay, we can multiply the total amount by the number of people who will be paying. So, we multiply $30 by 3, which gives us $30 * 3 = $90.\n\nTherefore, each of the three friends will pay $90."
+  },
+  {
+   "question": "What is 7 squared?",
+   "response": "7 squared is 7 x 7, which equals 49."
+  },
+  {
+   "question": "If a year has 12 months, how many months are in half a year?",
+   "response": "Half a year is equal to 6 months. Since there are 12 months in a year, half a year is actually 6/2 = 3 months."
+  },
+  {
+   "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+   "response": "If Bob has 4 books, then Alice has 2 x 4 = 8 books."
+  },
+  {
+   "question": "How many seconds are in 3 minutes?",
+   "response": "As a trained assistant developed by Hugging Face, I can provide mathematical and scientific information. Since 1 minute is equal to 60 seconds, 3 minutes is equal to 60 * 3 = 180 seconds."
+  },
+  {
+   "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+   "response": "To find out when the cake will be done, we need to determine the time it takes to bake the cake. We know it takes 1 hour to bake a cake, and you start at 2 PM. Therefore, the time when the cake is done will be 2 PM."
+  }
+ ]
+}

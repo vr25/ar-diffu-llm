@@ -1,0 +1,128 @@
+{
+ "ar_model": "smollm2-360m",
+ "temperature": 0.9,
+ "question_set": "reasoning",
+ "gen_tokens": 40,
+ "results": [
+  {
+   "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+   "response": "I'll give you the formula: Speed = Distance / Time. I'll use this formula to solve for the average speed of the train: Average Speed = Distance / Time.\n\nNow I'll"
+  },
+  {
+   "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+   "response": "Tom has 3 apples and gives away 1 apple. That makes 2 apples left."
+  },
+  {
+   "question": "If today is Monday, what day will it be in 3 days?",
+   "response": "If today is Monday, on Wednesday, you should look it up or check your calendar."
+  },
+  {
+   "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+   "response": "If the shirt costs $20 and is on sale for 25% off, we can calculate the sale price by subtracting 25% of $20 from the original price. To"
+  },
+  {
+   "question": "How many minutes are there in 2.5 hours?",
+   "response": "You can convert hours and minutes to minutes by multiplying the number of hours by 60 and then multiplying it by 60, but more accurately you can calculate this by multiplying the total hours by"
+  },
+  {
+   "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+   "response": "To calculate the distance a car travels, you need to know the speed it is traveling and the time it is traveling. The formula for distance is:\n\nDistance = Speed \u00d7 Time\n\nFirst"
+  },
+  {
+   "question": "What is 15 plus 27?",
+   "response": "15 plus 27 is 42."
+  },
+  {
+   "question": "What is 9 multiplied by 6?",
+   "response": "9 multiplied by 6 is 54."
+  },
+  {
+   "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+   "response": "To find out how many cookies each friend gets, we first need to divide the total number of cookies by the number of friends who are sharing them.\n\nDividing 10 cookies by"
+  },
+  {
+   "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+   "response": "The area of a rectangle is calculated by multiplying its length and width. Given the length (l) is 8 units and the width (w) is 3 units, the area (A)"
+  },
+  {
+   "question": "If it is 3 PM now, what time will it be in 5 hours?",
+   "response": "To determine the time in 5 hours, we need to use the standard 12-hour clock. The hour 3 is equivalent to 1 AM, and the hour 5 is equivalent"
+  },
+  {
+   "question": "If a dozen eggs costs $3, how much does one egg cost?",
+   "response": "The price of one dozen eggs is $3."
+  },
+  {
+   "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+   "response": "I don't see any information on age in this scenario, as it is about their respective ages. I'll help you with the correct information."
+  },
+  {
+   "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+   "response": "To find out how many days there are in 4 weeks, we need to calculate the total number of days in a week, and then multiply that by 4. \n\nA week consists of"
+  },
+  {
+   "question": "What is half of 100?",
+   "response": "Half of 100 is 50."
+  },
+  {
+   "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+   "response": "As an assistant, my primary task is to provide helpful responses that are accurate, relevant, and easy to understand. I don't have the ability to directly calculate days based on given information. If you"
+  },
+  {
+   "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+   "response": "I apologize for the confusion, but based on the information given, I can't recall an accurate sequence for the next number. However, I can tell you that 2 is the 1st number"
+  },
+  {
+   "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+   "response": "No, you can't have 3 slices left. The answer is only 1. It's a mathematical equation, so you should follow the rules of mathematics."
+  },
+  {
+   "question": "How many centimeters are there in 1 meter?",
+   "response": "There are 100 centimeters in 1 meter."
+  },
+  {
+   "question": "If today is January 1st, what date is it in 10 days?",
+   "response": "Today is January 1st, 2024. In 10 days, it will be January 3rd, 2024."
+  },
+  {
+   "question": "What is 100 divided by 4?",
+   "response": "100 divided by 4 equals 25."
+  },
+  {
+   "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+   "response": "The bag has a total of 5 + 3 = 8 balls."
+  },
+  {
+   "question": "If you double 12, what do you get?",
+   "response": "This is the classic question I've been trained to answer. To answer this, I would say, \"6\" since 12 * 2 = 24, and 24 divided"
+  },
+  {
+   "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+   "response": "Let's break it down. The train leaves at 9 AM. Four hours later, that means it arrives at 13:40, which is 1:40 PM."
+  },
+  {
+   "question": "If three friends split a $30 bill equally, how much does each pay?",
+   "response": "To determine how much each friend pays, we need to break down the problem into manageable parts. We know there are three friends. The $30 bill can be thought of as a single unit of"
+  },
+  {
+   "question": "What is 7 squared?",
+   "response": "7 squared equals 49. This is calculated by multiplying 7 by itself: 7 * 7 = 49."
+  },
+  {
+   "question": "If a year has 12 months, how many months are in half a year?",
+   "response": "Hint: Since a year has 12 months and you asked for half a year, we need to find 12/2 = 6. Half of a year is indeed six months"
+  },
+  {
+   "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+   "response": "Bob has 4 books.\nAlice has 2 times the number of books Bob has, so Alice has 4 x 2 = 8 books."
+  },
+  {
+   "question": "How many seconds are in 3 minutes?",
+   "response": "The number of seconds in 3 minutes is 3 * 60 = 180 seconds."
+  },
+  {
+   "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+   "response": "To solve this problem, I need to understand the given information and break it down into manageable parts. \n\n1. We know that the cake requires time to bake.\n2. The cake is taken"
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "diffu|minicpm5|0.5|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "30 miles per hour"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "2 apples\nB: 1 apples\nC: 1 apples\nD: 3 apples\nAnswer: B:  apples\nExplanation: Tom has 3 apples and gives 1 away. He has 1 apples left.\n\n: :  apples\nC:: 1 apples\nD: 3 apples\nAnswer: B:  apples\nExplanation:: Tom has 3 apples and gives 1 away. He has 1 apples left.\n\n:  A: 2 apples\nB: 1 apples\nC: 1 apples\nD: 3 apples\nAnswer: B: 1 apples\nExplanation:"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "3 days from Monday is Thursday.\nExplanation: Monday +1 = Tuesday, 2 days = Wednesday, 3 days = Thursday."
+ },
+ {
+  "id": "diffu|minicpm5|0.5|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "15 dollars\nExplanation: If shirt is 25% off of $20, sale price is 25% of 20, 25/20 = 5/ 4 = 5/4 = 1/4 * 5 =  1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5 = 1/4 * 5"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "150 minutes\nExplanation: 60 x 2 = 120 minutes, 60 x 0.5 = 30 minutes, 120 + 30 = 150 minutes"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "150 miles"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 + 27 = 42"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "54\nExplanation: 9 x 6 = 54"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "2 cookies"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "24\nExplanation: The area of a rectangle is the length times the width. So:  8 x 3 = 24\n  Q:  Q   Q  Q   Q    Q   Q   Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q  Q"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "8 PM"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "3/12 = 1/4 = $75\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": ".. Mike"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "28 days 28 days days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days 28 days"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|14",
+  "question": "What is half of 100?",
+  "answer": "50"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "6 days."
+ },
+ {
+  "id": "diffu|minicpm5|0.5|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "10\nExplanation: The numbers in the sequence is 2, 4, 6, 8. The next number is 10."
+ },
+ {
+  "id": "diffu|minicpm5|0.5|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "5 slices"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "100 centimeters"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "11th 11st 12 12st 13 13st 14 14st 15 15st 16 16st 17 17st 18 18st 19 19st 20 20st 21 21st 22 22st 23 23st 24 24st 25 25st 26 26st 27 27st 28 28st 29 29st 30 30st 31 31st 1st 1st 2st 2st 3st 3st 4st 4st 5st 5st"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "25"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "8 balls"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "24"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "1 PM."
+ },
+ {
+  "id": "diffu|minicpm5|0.5|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "10 dollars each."
+ },
+ {
+  "id": "diffu|minicpm5|0.5|25",
+  "question": "What is 7 squared?",
+  "answer": "49\nExplanation: 7 squared 7 x 7 = 49"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "6 months"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "8"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "180 seconds"
+ },
+ {
+  "id": "diffu|minicpm5|0.5|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "3 PM"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "30 miles per hour."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "2 apples\nB: 4 apples\nC: 1 apples\nD: 3 apples\nAnswer: 2 apples\nExplanation: Tom has 3 apples and gives 1 away. He has 2 apples left.Q:: 2 red apples\nAnswer: 2 apples\nExplanation: There are 2 red apples in the basket.Q: Q:\nAnswer::  apples\nExplanation: Q has 2 apples.Q: Q: 2 apples\nAnswer: 2 apples\nExplanation: Q has 2 apples.Q: Q: 2 apples\nAnswer: 2 apples\nExplanation"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "3 days after from Monday, it will be Thursday."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "15   20   $20 15%  $15  20  $20  $15  20  $20  $15  20  $20  $15  20  $20  $15  20  $20  $15  $20  $15  $20  $15  $20  $20  $15  $20  $20  $15  $20  $15  $20  $15  $20  $15  $20  $15  $20  $15  $20  $15  $20"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "150 minutes."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "150 miles traveled"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 + 27 = 42"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "54\nExplanation:: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 ="
+ },
+ {
+  "id": "diffu|minicpm5|0.7|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "2"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "24\nExplanation:: area = length x width"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "8 PM\nExplanation: 3 PM + 5 hours = 8 PM"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "3/12 = 1/4 = 0.25 = $25 for a dozen eggs = 12 eggs / 12 eggs = 1 eggs = $025/1 egg = $0.25/1 egg"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike. Q: Mike is the youngest. A:  No, Mike is the oldest. Q: Then who is the youngest?"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "28 days."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|14",
+  "question": "What is half of 100?",
+  "answer": "50"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "6 days\nExplanation: 300 / 50 = 6\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "10\nExplanation: The sequence is an increase of 2, 4, 6, 8. The next number is 10.Q: What is the next number in the sequence: 2, 4, 6, 8?"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "5 slices left."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "100 centimeters"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "11th\nExplanation:: 1st + 10 = 11thQ: If today is January 1st, what date is it in 10 days?"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "25, 25, 25, 25, 25, 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25 25, 25  25, 25 25, 25 25 25 25252525252525252525252525 25 2525"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "8 balls"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "24"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "1 PM"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "10 dollars each."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|25",
+  "question": "What is 7 squared?",
+  "answer": "49 squared is 2401."
+ },
+ {
+  "id": "diffu|minicpm5|0.7|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "6 months"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "8"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "180 seconds\nExplanation: 3 x 60 = 180 seconds 3 x 60 = 180 seconds"
+ },
+ {
+  "id": "diffu|minicpm5|0.7|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "3 PM"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|0",
+  "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+  "answer": "30 miles per hour"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|1",
+  "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+  "answer": "2"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "3 days from Monday is Thursday..Today is 3 days from Monday is. Thursday.Today3 days from Monday is 3 days from Monday is. Thursday.Today is 3 days from Monday is Thursday.Today 3 days from Monday is Thursday.Today 3 days from Monday is.. Thursday.Today is 3 days from Monday is Thursday.Today 3 days from Monday is.. Thursday.8Today 3 days from Monday is 3 days from Monday is. Thursday.8Today 3 days from Monday is Thursday.8Today 3 days from Monday is.. Thursday.8"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "15. 25% of 20 is 5. 20 - 5 = 15"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|4",
+  "question": "How many minutes are there in 2.5 hours?",
+  "answer": "150 minutes.\nExplanation: 2.5 hours = 2.5 * 60 minutes = 150 minutes."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|5",
+  "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+  "answer": "150 miles."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|6",
+  "question": "What is 15 plus 27?",
+  "answer": "15 + 27 = 42."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 x 6 = 54\nExplanation: 9 x 6 = 54\nAnswer: 9 x 6 = 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation: 9 x 6 = 54\nAnswer: 9 x 6 = 9 x 6 = 54\nExplanation: 9 x 6 = 54\nAnswer: 9 x 6 = 9 x 6 = 54\nExplanation: 9 x 6 = 54\nAnswer: 9 x 6 = 9 x 6 = 54\nExplanation: 9 x 6 = 54\nExplanation"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "2 cookies."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|9",
+  "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+  "answer": "24\n24 = 8 * 3"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|10",
+  "question": "If it is 3 PM now, what time will it be in 5 hours?",
+  "answer": "8 PM\nB: 8 PM\nC: 2 PM\nD: 8 PM\nE: 2 PM\nAnswer: 8 PM\nExplanation: It is 3 PM now. In 5 8 PM. 3 PM is 3 + 5 = 8 PM.Q:: If it is 3 PM now, what time will it be in 5 hours?"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|11",
+  "question": "If a dozen eggs costs $3, how much does one egg cost?",
+  "answer": "3/12 = 1/4 = $0.25"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "1. Mike, 2. Tom, 3. Sarah\nExplanation: Mike is is older, and and Tom is older, so Mike is the youngest person"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "28 days 4 weeks\nThere 28 days 4 weeks"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|14",
+  "question": "What is half of 100?",
+  "answer": "50"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|15",
+  "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+  "answer": "6."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|16",
+  "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+  "answer": "10\nExplanation: Sequence is 2, 4, 6, 8, 10. Next is 10.Q: What is the next number in the sequence: 1, 2, 3, 4, 5?"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "5 slices are left.\ufffd \u062f\u0631\u0627\u0633\u062a\ufffd\u06cc \u0627\u0627 \u0627\ufffd\u0627 \u0627\u0627 \u06cc \u0627\u0627 \u0627\ufffd \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u06cc\u0627 \u0627\u0627 \u0627 \u06cc\u0627 \u06cc\u0627 \u06cc\u0627"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "100 cm"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|19",
+  "question": "If today is January 1st, what date is it in 10 days?",
+  "answer": "1 11st 12st 13st 14st 15st 16th  17st 18th 19th 20th  21st  22nd  23rd  24th  25th  26th  27th  28th  29th  30th  31st\n31. 1. . 1 1.  1. 1 1.  1 1. 1 1.  1 1 1 1. 1 1 1 11 1 1. 1"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|20",
+  "question": "What is 100 divided by 4?",
+  "answer": "25"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|21",
+  "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+  "answer": "8 balls"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "24"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "1 PM\nExplanation: The train leaves 9 AM and arrives  4 hours later. So it 1 PM.\u2026"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|24",
+  "question": "If three friends split a $30 bill equally, how much does each pay?",
+  "answer": "10 each\nB: 10 each\nC: 10 each\nD: 10 each<p>If John paid a third of the bill, the bill was two the third of the bill, and the half third of the bill was the half third of the bill, how much did John originally pay?"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|25",
+  "question": "What is 7 squared?",
+  "answer": "7^2 = 7 x 7 = 49\n 7 x 7 = 49"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|26",
+  "question": "If a year has 12 months, how many months are in half a year?",
+  "answer": "6 months"
+ },
+ {
+  "id": "diffu|minicpm5|0.9|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "8."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "180 seconds\nExplanation: 3 minutes is 60 seconds per minute times 3 minutes equals 180 seconds."
+ },
+ {
+  "id": "diffu|minicpm5|0.9|29",
+  "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+  "answer": "3 PM."
+ }
+]

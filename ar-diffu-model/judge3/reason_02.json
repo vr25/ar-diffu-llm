@@ -1,0 +1,452 @@
+[
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "To determine the day of the week three days from today (Monday) in 2023, we can follow these steps:\n\n1. Identify the current date: Today is Monday.\n2. Count forward three days:\n   - From Monday to Tuesday is one day.\n   - From Tuesday to Wednesday is another day.\n   - From Wednesday to Thursday is another day.\n   - From Thursday to Friday is another day.\n\nSo, three days from Monday will be Friday.\n\nTherefore, the day of the week three days from today will be \\boxed{Friday}."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "To solve the problem of multiplying 9 by 6, you simply add 9 to itself six times:\n\n\\[ 9 \\times 6 = (9 + 9) \\times 6 = 18 \\times 6 = 108 \\]\n\nSo, \\( 9 \\times 6 = 108 \\)."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided:\n\n1. Sarah is older than Tom.\n2. Tom is older than Mike.\n\nSince we know that Sarah is older than Tom, it follows logically that Sarah must be younger than Mike. Therefore, the youngest person among Sarah, Tom, and Mike is Sarah."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you start with 8 slices of pizza and eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there are 5 slices of pizza left."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double the number 12, you would get:\n\n\\( 12 \\times 2 = 24 \\)\n\nSo, doubling 12 results in 24."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has, we start with the information given:\n\n1. Bob has 4 books.\n2. Alice has twice as many books as Bob.\n\nWe can calculate the number of books Alice has by multiplying the number of books Bob has by 2:\n\n\\[\n\\text{Number of books Alice has} = 2 \\times \\text{Number of books Bob has}\n\\]\n\nSubstituting the number of books Bob has into the equation:\n\n\\[\n\\text{Number of books Alice has} = 2 \\times 4 = 8\n\\]\n\nTherefore, Alice has \\boxed{8} books."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday and you want to know what day it will be in 3 days:\n\n1. Start with the current day: Monday.\n2. Add one day: Tuesday.\n3. Add another day: Wednesday.\n4. Add the final day: Thursday.\n\nSo, in 3 days from today (Monday), it will be **Thursday**."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "To find the product of 9 and 6, you simply multiply these two numbers together:\n\n\\[ 9 \\times 6 = 54 \\]\n\nSo, 9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided:\n\n1. Sarah is older than Tom.\n2. Tom is older than Mike.\n\nFrom these statements, we can deduce that:\n- Sarah > Tom\n- Tom > Mike\n\nCombining these two inequalities, we get:\n- Sarah > Tom > Mike\n\nTherefore, Mike is the youngest among them."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3 of them, then there would be \\( 8 - 3 = 5 \\) slices left."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "Doubling 12 means multiplying it by 2:\n\n\\( 12 \\times 2 = 24 \\)\n\nSo, if you double 12, you get 24."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To determine how many books Alice has, we start with the information given:\n\n1. Bob has 4 books.\n2. Alice has twice as many books as Bob.\n\nWe can express this relationship mathematically:\n- Let \\( B \\) represent the number of books Bob has.\n- Let \\( A \\) represent the number of books Alice has.\n\nFrom the problem statement, we know:\n\\[ B = 4 \\]\n\\[ A = 2B \\]\n\nSubstituting the value of \\( B \\) into the equation for \\( A \\):\n\\[ A = 2 \\times 4 \\]\n\\[ A = 8 \\]\n\nTherefore, Alice has 8 books."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, then in 3 days, it will be Thursday."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Mike is the youngest among Sarah, Tom, and Mike."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is initially cut into 8 slices and you eat 3 slices, then the number of slices left would be:\n\n\\[ 8 - 3 = 5 \\]\n\nSo, there are 5 slices left."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Alice has twice as many books as Bob, and Bob has 4 books, then Alice has \\(2 \\times 4 = 8\\) books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, in 3 days, it will be Tuesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The result of 9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, it is unclear who is the youngest among Sarah, Tom, and Mike. The ages of the individuals are not provided, nor are there any direct comparisons made between their ages. Therefore, it is not possible to determine who is the youngest based on the given information."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you have 8 slices of pizza and you eat 3, you would have 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you would get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books and Alice has twice as many books as Bob, then Alice has 4 x 2 = 8 books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, three days from now would be Tuesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information given, Sarah is older than Tom, and Tom is older than Mike. Therefore, we can conclude that Sarah is the oldest, followed by Tom, and then Mike. So, Sarah is the youngest."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you start with 8 slices and eat 3, you would have 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books, and Alice has twice as many books as Bob, then Alice has 4 x 2 = 8 books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, in 3 days, it will be Wednesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The result of multiplying 9 by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, Mike is the youngest. Here's the reasoning:\n\n1. Sarah is older than Tom.\n2. Tom is older than Mike.\n\nFrom these two statements, it's evident that the age difference between Tom and Sarah is less than the age difference between Tom and Mike. Therefore, Mike, being younger than both Tom and Sarah, must be the youngest."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you have 8 slices and you eat 3, then you have 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you would get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books, and Alice has twice as many books as Bob, then Alice has 2 * 4 = 8 books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, in three days, it will be Tuesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, Mike is the youngest. The order from oldest to youngest is: Sarah, Tom, Mike."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3, then there are 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books, and Alice has twice as many books as Bob, then Alice has 4 x 2 = 8 books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, in 3 days, it will be Tuesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The result of multiplying 9 by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, Tom is the youngest. This is because he is the only one mentioned as being older than Mike, and Sarah is older than Tom."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you eat 3 slices out of 8, you would be left with 5 slices."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books and Alice has twice as many books as Bob, then Alice has 4 x 2 = 8 books."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, in 3 days it will be Tuesday."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, it can be determined that Mike is the youngest. Here's the reasoning: \n1. Sarah is older than Tom.\n2. Tom is older than Mike."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you eat 3 slices and the pizza is cut into 8 slices, then there would be 8 - 3 = 5 slices left."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "To solve this, we use the given information that Alice has twice as many books as Bob. We can write this as a mathematical equation:\n\nAlice's books = 2 * Bob's books"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "As an AI trained by Hugging Face, I don't have access to the current time. I can only provide information about the current date and time. However, I can tell you that if today is Monday, it will be Tuesday in 3 days."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "To determine who is the youngest, let's analyze the information provided. We know that Sarah is older than Tom and Tom is older than Mike. This means that Sarah is older than Mike, and Tom is older than Mike.\n\nSince we don't have any information that would directly state who is older than who, we can't determine who is the youngest. However, we can say that Sarah is older than Mike, and Tom is older than Mike, but we can't determine who is the youngest."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you eat 3 slices, then you are left with 8 - 3 = 5 slices."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Alice has 8 books."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "The day of the week that a date is on is determined by the month and the day of the month."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "Hello, Hugging Face. 9 multiplied by 6 equals 54."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the given information, we can establish the following relationship: \n\nTom is older than Mike and older than Sarah. \nTom is also older than Mike.\n\nGiven that Sarah is older than Tom, we can conclude that Sarah is the youngest."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices and you eat 3 slices, then the remaining number of slices is 8 - 3 = 5."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Since Alice has twice as many books as Bob, she has 2 * 4 = 8 books."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "As an AI trained by Hugging Face, my knowledge cutoff is December 31, 2031. Therefore, there is no day in 3 days ahead of today."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "The number 9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Sarah is older than Tom and Mike."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If a pizza is cut into 8 slices, and you eat 3 slices, you now have 5 slices left."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "You'd get 24."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "If Bob has 4 books, then Alice has 2 x 4 = 8 books."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "As an AI, I don't have the ability to access real-time information or predict the future. However, based on the current date, I can tell you that today is indeed Monday."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Based on the information provided, we can conclude that the youngest person is Mike."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If you eat 3 slices of pizza, then you have eaten 3 slices. The remaining number of slices is 8 - 3 = 5 slices."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Alice has 8 books."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "You can use the date format in your browser or on a calendar app to determine the day of the week. For example, you can type \"1/1/2024\" or \""
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "Hmmm, I don't see any digits or symbols for 9 and 6 in the provided text. The task requires a calculation. Can you please tell me what you are trying to find"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "Sarah is the youngest."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "If the pizza is cut into 8 slices and you eat 3 slices, then you will have eaten 3/8 of the pizza. To find out how many slices are left, you need"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "If you double 12, you get 24."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Alice has 8 books."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|2",
+  "question": "If today is Monday, what day will it be in 3 days?",
+  "answer": "If today is Monday, on Wednesday, you should look it up or check your calendar."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|7",
+  "question": "What is 9 multiplied by 6?",
+  "answer": "9 multiplied by 6 is 54."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|12",
+  "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+  "answer": "I don't see any information on age in this scenario, as it is about their respective ages. I'll help you with the correct information."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|17",
+  "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+  "answer": "No, you can't have 3 slices left. The answer is only 1. It's a mathematical equation, so you should follow the rules of mathematics."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|22",
+  "question": "If you double 12, what do you get?",
+  "answer": "This is the classic question I've been trained to answer. To answer this, I would say, \"6\" since 12 * 2 = 24, and 24 divided"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|27",
+  "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+  "answer": "Bob has 4 books.\nAlice has 2 times the number of books Bob has, so Alice has 4 x 2 = 8 books."
+ }
+]

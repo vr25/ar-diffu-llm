@@ -1,0 +1,377 @@
+[
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|1",
+    "correct": false,
+    "reason": "Truncated before computing profit, stops at value increase"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|5",
+    "correct": false,
+    "reason": "Truncated mid-calculation, no final answer stated"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|9",
+    "correct": false,
+    "reason": "Truncated, no final total distance given"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|13",
+    "correct": false,
+    "reason": "States 20, wrong; gold is 40"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|17",
+    "correct": false,
+    "reason": "Truncated before final total hours sum"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|21",
+    "correct": true,
+    "reason": "States 4 classes, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|25",
+    "correct": false,
+    "reason": "Truncated mid pizza-slice calculation"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|29",
+    "correct": false,
+    "reason": "Truncated, no fourth-week value given"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|33",
+    "correct": false,
+    "reason": "Truncated mid-sentence, garbled, no final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|37",
+    "correct": false,
+    "reason": "States $1/hour final answer, wrong"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|41",
+    "correct": false,
+    "reason": "Truncated before summing all three weights"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|45",
+    "correct": true,
+    "reason": "Boxed 15, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k256-t70|49",
+    "correct": false,
+    "reason": "Truncated solving for x, no final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|3",
+    "correct": true,
+    "reason": "Boxed 623, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|7",
+    "correct": true,
+    "reason": "Boxed 10, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|11",
+    "correct": false,
+    "reason": "Concludes Kelly owes money, wrong final claim"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|15",
+    "correct": false,
+    "reason": "Truncated mid re-derivation, no final answer"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|19",
+    "correct": false,
+    "reason": "Final answer ~65.71, wrong; gold is 40"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|23",
+    "correct": false,
+    "reason": "Boxed 1680, wrong; gold is 240"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|27",
+    "correct": true,
+    "reason": "Boxed 100, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|31",
+    "correct": true,
+    "reason": "Boxed 15, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|35",
+    "correct": false,
+    "reason": "States $18, wrong; gold is 12"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|39",
+    "correct": true,
+    "reason": "Boxed 245, matches gold"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|43",
+    "correct": false,
+    "reason": "Boxed 48, wrong; gold is 16"
+  },
+  {
+    "id": "qwen25-0.5b-gsm8k-k512-t70|47",
+    "correct": false,
+    "reason": "Boxed 75, wrong; gold is 120"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|1",
+    "correct": false,
+    "reason": "Truncated before computing new house value"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|5",
+    "correct": false,
+    "reason": "Truncated, no total tire count/cost given"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|9",
+    "correct": false,
+    "reason": "Truncated mid total-distance computation"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|13",
+    "correct": false,
+    "reason": "Truncated before computing Timothy's locker size"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|17",
+    "correct": false,
+    "reason": "Truncated before final hour total stated"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|21",
+    "correct": false,
+    "reason": "Truncated before deriving missed-class count"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|25",
+    "correct": false,
+    "reason": "Truncated before total slices eaten computed"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|29",
+    "correct": false,
+    "reason": "Truncated right before fourth-week value shown"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|33",
+    "correct": false,
+    "reason": "Truncated mid subtraction, no final value"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|37",
+    "correct": false,
+    "reason": "Truncated before net/hourly pay computed"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|41",
+    "correct": true,
+    "reason": "Computes total weight 105, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|45",
+    "correct": true,
+    "reason": "Boxed 15, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k256-t70|49",
+    "correct": true,
+    "reason": "States Anna took 7 hours, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|3",
+    "correct": true,
+    "reason": "States combined weight 623 pounds, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|7",
+    "correct": false,
+    "reason": "Boxed -10, wrong; gold is 10"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|11",
+    "correct": true,
+    "reason": "Boxed 90, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|15",
+    "correct": true,
+    "reason": "States x = 10, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|19",
+    "correct": false,
+    "reason": "Final average ~64 birds, wrong; gold is 40"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|23",
+    "correct": true,
+    "reason": "States Skyler's investment is $240, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|27",
+    "correct": false,
+    "reason": "States John missing $150, wrong; gold is 100"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|31",
+    "correct": true,
+    "reason": "Boxed 15, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|35",
+    "correct": true,
+    "reason": "Boxed 12, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|39",
+    "correct": false,
+    "reason": "States $24.50, wrong; gold is 245"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|43",
+    "correct": true,
+    "reason": "Boxed 16, matches gold"
+  },
+  {
+    "id": "qwen25-1.5b-gsm8k-k512-t70|47",
+    "correct": true,
+    "reason": "Boxed 120, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|1",
+    "correct": false,
+    "reason": "Truncated before computing final house value"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|5",
+    "correct": false,
+    "reason": "Truncated, no final earnings total given"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|9",
+    "correct": false,
+    "reason": "Truncated mid second-period distance calculation"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|13",
+    "correct": false,
+    "reason": "Truncated before substituting to get Timothy's size"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|17",
+    "correct": false,
+    "reason": "Truncated before summing total workout hours"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|21",
+    "correct": false,
+    "reason": "States can miss 10 classes, wrong; gold is 4"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|25",
+    "correct": false,
+    "reason": "Truncated before remaining-slices calculation"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|29",
+    "correct": false,
+    "reason": "Truncated mid final number '14', incomplete"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|33",
+    "correct": false,
+    "reason": "Truncated right after subtraction, no result shown"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|37",
+    "correct": false,
+    "reason": "Truncated before final hourly pay computed"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|41",
+    "correct": false,
+    "reason": "Truncated before full weight sum; wrong partial"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|45",
+    "correct": true,
+    "reason": "States Eve gave away 15 pomelos, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k256-t70|49",
+    "correct": true,
+    "reason": "Boxed 7, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|3",
+    "correct": true,
+    "reason": "States combined weight 623 pounds, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|7",
+    "correct": true,
+    "reason": "Boxed 10, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|11",
+    "correct": true,
+    "reason": "States 90 cents left, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|15",
+    "correct": true,
+    "reason": "Boxed 10, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|19",
+    "correct": false,
+    "reason": "Final average ~64.29 birds, wrong; gold is 40"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|23",
+    "correct": true,
+    "reason": "Boxed 240, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|27",
+    "correct": true,
+    "reason": "States John missing $100, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|31",
+    "correct": true,
+    "reason": "States daisies have 15 more petals, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|35",
+    "correct": true,
+    "reason": "States Adam contributed $12, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|39",
+    "correct": true,
+    "reason": "Boxed 245, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|43",
+    "correct": true,
+    "reason": "States Adam loses $16, matches gold"
+  },
+  {
+    "id": "qwen25-3b-gsm8k-k512-t70|47",
+    "correct": true,
+    "reason": "States 120 calls, matches gold"
+  }
+]

@@ -1,0 +1,123 @@
+idx,question,reference_answer,type,subtype
+0,What is the capital of France?,Paris,factual,capital
+1,Who wrote Romeo and Juliet?,William Shakespeare,factual,author
+2,What is the largest planet in our solar system?,Jupiter,factual,other
+3,When was the Declaration of Independence signed?,"July 4, 1776",factual,history_biography
+4,How many bones are in the human body?,206,factual,science_geography_landmark
+5,Who invented the telephone?,Alexander Graham Bell,factual,history_biography
+6,What is the chemical formula for water?,H2O,factual,science
+7,What is the speed of light?,"Approximately 299,792,458 m/s (~300,000 km/s)",factual,science
+8,Who painted the Mona Lisa?,Leonardo da Vinci,factual,other
+9,What is the smallest country in the world?,Vatican City,factual,science_geography_landmark
+10,How many continents are there?,7,factual,science_geography_landmark
+11,What is the capital of Japan?,Tokyo,factual,capital
+12,Who was the first president of the United States?,George Washington,factual,history_biography
+13,What is the boiling point of water?,100°C / 212°F at sea level,factual,science
+14,How long does it take Earth to orbit the Sun?,About 365.25 days (one year),factual,science
+15,What is the Pythagorean theorem?,a² + b² = c² for a right triangle's sides,factual,other
+16,Who wrote 1984?,George Orwell,factual,author
+17,What is the Great Wall of China?,An ancient series of fortifications across northern China,factual,science_geography_landmark
+18,How many sides does a triangle have?,3,factual,science_geography_landmark
+19,What is photosynthesis?,"Process by which plants convert sunlight, CO2, and water into glucose and oxygen",factual,science
+20,Who discovered gravity?,Isaac Newton,factual,science
+21,What is the currency of Germany?,Euro,factual,other
+22,What is the largest ocean on Earth?,Pacific Ocean,factual,science_geography_landmark
+23,Who wrote the Bible?,Multiple authors over centuries; no single author,factual,author
+24,What is the population of China?,Approximately 1.4 billion,factual,science_geography_landmark
+25,What is DNA?,"Deoxyribonucleic acid, the molecule carrying genetic information",factual,science
+26,Who invented the internet?,Developed by many researchers; often credited to Vint Cerf and Bob Kahn (TCP/IP),factual,history_biography
+27,What is the distance from Earth to the Sun?,Approximately 93 million miles (149.6 million km),factual,science
+28,Who wrote Hamlet?,William Shakespeare,factual,author
+29,What is the capital of Brazil?,Brasília,factual,capital
+30,What is the highest mountain in the world?,Mount Everest,factual,science_geography_landmark
+31,Who was Abraham Lincoln?,16th U.S. President; led the country through the Civil War and abolished slavery,factual,history_biography
+32,What is the freezing point of water?,0°C / 32°F,factual,science
+33,What is the capital of Australia?,Canberra,factual,capital
+34,Who invented the printing press?,Johannes Gutenberg,factual,history_biography
+35,What is the periodic table?,A tabular arrangement of chemical elements by atomic number and properties,factual,science
+36,What is the capital of Egypt?,Cairo,factual,capital
+37,Who was Cleopatra?,Last active ruler of the Ptolemaic Kingdom of Egypt,factual,history_biography
+38,What is the capital of India?,New Delhi,factual,capital
+39,What is the Great Barrier Reef?,"World's largest coral reef system, off the coast of Australia",factual,science_geography_landmark
+40,Who wrote Pride and Prejudice?,Jane Austen,factual,author
+41,What is the capital of Canada?,Ottawa,factual,capital
+42,What is the Statue of Liberty?,"A neoclassical statue in New York Harbor, a gift from France",factual,science_geography_landmark
+43,Who invented the telephone?,Alexander Graham Bell,factual,history_biography
+44,What is the capital of France?,Paris,factual,capital
+45,What is the largest desert in the world?,Antarctica (largest overall); Sahara (largest hot desert),factual,science_geography_landmark
+46,Who wrote War and Peace?,Leo Tolstoy,factual,author
+47,What is the capital of Spain?,Madrid,factual,capital
+48,What is the Eiffel Tower?,"A wrought-iron tower in Paris, built in 1889",factual,science_geography_landmark
+49,Who was Julius Caesar?,Roman general and statesman; dictator of Rome,factual,history_biography
+50,What is the capital of Russia?,Moscow,factual,capital
+51,What is the Amazon Rainforest?,"The largest tropical rainforest, mostly in Brazil",factual,science_geography_landmark
+52,Who wrote The Great Gatsby?,F. Scott Fitzgerald,factual,author
+53,What is the capital of Italy?,Rome,factual,capital
+54,What is the Colosseum?,An ancient Roman amphitheater in Rome,factual,science_geography_landmark
+55,Who was Napoleon Bonaparte?,French military leader and Emperor of France,factual,history_biography
+56,What is the capital of Mexico?,Mexico City,factual,capital
+57,What is the Grand Canyon?,A large canyon carved by the Colorado River in Arizona,factual,science_geography_landmark
+58,Who wrote Moby Dick?,Herman Melville,factual,author
+59,What is the capital of Greece?,Athens,factual,capital
+60,What is the Acropolis?,An ancient citadel in Athens containing the Parthenon,factual,science_geography_landmark
+61,Who was Alexander the Great?,King of Macedon and conqueror of a vast empire,factual,history_biography
+62,What is the capital of Turkey?,Ankara,factual,capital
+63,What is the Taj Mahal?,"A mausoleum in Agra, India, built by Shah Jahan",factual,science_geography_landmark
+64,Who wrote Don Quixote?,Miguel de Cervantes,factual,author
+65,What is the capital of South Korea?,Seoul,factual,capital
+66,What is Mount Fuji?,"The highest mountain in Japan, an active volcano",factual,science_geography_landmark
+67,Who was Leonardo da Vinci?,"Italian Renaissance artist, scientist, and inventor",factual,history_biography
+68,What is the capital of Thailand?,Bangkok,factual,capital
+69,What is Angkor Wat?,A temple complex in Cambodia,factual,science_geography_landmark
+70,Who wrote Crime and Punishment?,Fyodor Dostoevsky,factual,author
+71,What is the capital of Vietnam?,Hanoi,factual,capital
+72,What is Ha Long Bay?,A UNESCO World Heritage bay with limestone islands in Vietnam,factual,science_geography_landmark
+73,Who was Vincent van Gogh?,Dutch post-impressionist painter,factual,history_biography
+74,What is the capital of Netherlands?,Amsterdam,factual,capital
+75,What is Big Ben?,The bell/clock tower (Elizabeth Tower) in London,factual,science_geography_landmark
+76,Who wrote Anna Karenina?,Leo Tolstoy,factual,author
+77,What is the capital of Belgium?,Brussels,factual,capital
+78,What is the Sagrada Familia?,A basilica in Barcelona designed by Antoni Gaudí,factual,science_geography_landmark
+79,Who was Pablo Picasso?,"Spanish painter, co-founder of Cubism",factual,history_biography
+80,What is the capital of Portugal?,Lisbon,factual,capital
+81,What is the Christ the Redeemer statue?,"A statue of Jesus overlooking Rio de Janeiro, Brazil",factual,science_geography_landmark
+82,Who wrote The Odyssey?,Homer,factual,author
+83,What is the capital of Sweden?,Stockholm,factual,capital
+84,What is the Aurora Borealis?,"The Northern Lights, a natural light display in polar skies",factual,science_geography_landmark
+85,Who was Marie Curie?,"Physicist/chemist, pioneer of radioactivity research",factual,history_biography
+86,What is the capital of Norway?,Oslo,factual,capital
+87,What are the Northern Lights?,Aurora Borealis; a natural light display in polar skies,factual,science_geography_landmark
+88,Who wrote Ulysses?,James Joyce,factual,author
+89,What is the capital of Switzerland?,Bern,factual,capital
+90,What is the Matterhorn?,A mountain in the Alps on the Swiss-Italian border,factual,science_geography_landmark
+91,Who was Albert Einstein?,Physicist who developed the theory of relativity,factual,history_biography
+92,"If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",30 mph,reasoning,word_problem
+93,Tom has 3 apples and gives 1 away. How many apples does he have left?,2,reasoning,arithmetic
+94,"If today is Monday, what day will it be in 3 days?",Thursday,reasoning,time_date
+95,"If a shirt costs $20 and is on sale for 25% off, what is the sale price?",$15,reasoning,word_problem
+96,How many minutes are there in 2.5 hours?,150,reasoning,time_date
+97,"If a car travels at 50 mph for 3 hours, how far does it go?",150 miles,reasoning,word_problem
+98,What is 15 plus 27?,42,reasoning,arithmetic
+99,What is 9 multiplied by 6?,54,reasoning,arithmetic
+100,"If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",2,reasoning,word_problem
+101,A rectangle has a length of 8 and a width of 3. What is its area?,24,reasoning,word_problem
+102,"If it is 3 PM now, what time will it be in 5 hours?",8 PM,reasoning,time_date
+103,"If a dozen eggs costs $3, how much does one egg cost?",$0.25,reasoning,word_problem
+104,"Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",Mike,reasoning,logic
+105,"If there are 7 days in a week, how many days are there in 4 weeks?",28,reasoning,time_date
+106,What is half of 100?,50,reasoning,arithmetic
+107,"If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",6,reasoning,word_problem
+108,"What is the next number in the sequence: 2, 4, 6, 8?",10,reasoning,logic
+109,"If a pizza is cut into 8 slices and you eat 3, how many slices are left?",5,reasoning,word_problem
+110,How many centimeters are there in 1 meter?,100,reasoning,time_date
+111,"If today is January 1st, what date is it in 10 days?",January 11th,reasoning,time_date
+112,What is 100 divided by 4?,25,reasoning,arithmetic
+113,"If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",8,reasoning,word_problem
+114,"If you double 12, what do you get?",24,reasoning,arithmetic
+115,A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?,1 PM,reasoning,time_date
+116,"If three friends split a $30 bill equally, how much does each pay?",$10,reasoning,word_problem
+117,What is 7 squared?,49,reasoning,arithmetic
+118,"If a year has 12 months, how many months are in half a year?",6,reasoning,time_date
+119,"If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",8,reasoning,logic
+120,How many seconds are in 3 minutes?,180,reasoning,time_date
+121,"If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",3 PM,reasoning,time_date

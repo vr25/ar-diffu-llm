@@ -1,0 +1,128 @@
+{
+ "ar_model": "smollm2-1.7b",
+ "temperature": 0.5,
+ "question_set": "reasoning",
+ "gen_tokens": 150,
+ "results": [
+  {
+   "question": "If a train travels 60 miles in 2 hours, what is its average speed in miles per hour?",
+   "response": "The average speed of a train is calculated by dividing the total distance traveled by the total time taken. In this case, the train traveled 60 miles in 2 hours, so the average speed is 60 miles per hour."
+  },
+  {
+   "question": "Tom has 3 apples and gives 1 away. How many apples does he have left?",
+   "response": "Tom has 2 apples left."
+  },
+  {
+   "question": "If today is Monday, what day will it be in 3 days?",
+   "response": "If today is Monday, in 3 days, it will be Tuesday."
+  },
+  {
+   "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+   "response": "The sale price of the shirt is $20 - ($20 * 0.25) = $15."
+  },
+  {
+   "question": "How many minutes are there in 2.5 hours?",
+   "response": "There are 60 minutes in an hour. So, to find out how many minutes there are in 2.5 hours, you multiply 60 by 2.5. \n\n2.5 hours * 60 minutes/hour = 150 minutes.\n\nSo, there are 150 minutes in 2.5 hours."
+  },
+  {
+   "question": "If a car travels at 50 mph for 3 hours, how far does it go?",
+   "response": "The car travels 150 miles. This is calculated by multiplying the speed (50 mph) by the time (3 hours). So, 50 mph * 3 hours = 150 miles."
+  },
+  {
+   "question": "What is 15 plus 27?",
+   "response": "The sum of 15 and 27 is 42."
+  },
+  {
+   "question": "What is 9 multiplied by 6?",
+   "response": "The result of 9 multiplied by 6 is 54."
+  },
+  {
+   "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+   "response": "To find out how many cookies each friend gets, you would divide the total number of cookies (10) by the number of friends (5). \n\n10 \u00f7 5 = 2\n\nSo, each friend gets 2 cookies."
+  },
+  {
+   "question": "A rectangle has a length of 8 and a width of 3. What is its area?",
+   "response": "The area of a rectangle is calculated by multiplying its length by its width. So, for your rectangle with a length of 8 and a width of 3, the area would be:\n\n8 (length) * 3 (width) = 24 square units."
+  },
+  {
+   "question": "If it is 3 PM now, what time will it be in 5 hours?",
+   "response": "If it is currently 3 PM, then in 5 hours, it will be 8 PM."
+  },
+  {
+   "question": "If a dozen eggs costs $3, how much does one egg cost?",
+   "response": "One egg costs $0.25."
+  },
+  {
+   "question": "Sarah is older than Tom, and Tom is older than Mike. Who is the youngest?",
+   "response": "Based on the information provided, it is unclear who is the youngest among Sarah, Tom, and Mike. The ages of the individuals are not provided, nor are there any direct comparisons made between their ages. Therefore, it is not possible to determine who is the youngest based on the given information."
+  },
+  {
+   "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+   "response": "There are 7 days in a week. If you multiply 7 days by 4, you get 28 days. So, there are 28 days in 4 weeks."
+  },
+  {
+   "question": "What is half of 100?",
+   "response": "The answer is 50."
+  },
+  {
+   "question": "If a book has 300 pages and you read 50 pages a day, how many days will it take to finish?",
+   "response": "If you read 50 pages a day and the book has 300 pages, you would divide the total number of pages by the number of pages you read each day. \n\n300 pages / 50 pages per day = 6 days.\n\nSo, it will take you 6 days to finish the book if you read 50 pages a day."
+  },
+  {
+   "question": "What is the next number in the sequence: 2, 4, 6, 8?",
+   "response": "The next number in the sequence is 10. This is because the sequence is formed by adding 2 to the previous number."
+  },
+  {
+   "question": "If a pizza is cut into 8 slices and you eat 3, how many slices are left?",
+   "response": "If you have 8 slices of pizza and you eat 3, you would have 8 - 3 = 5 slices left."
+  },
+  {
+   "question": "How many centimeters are there in 1 meter?",
+   "response": "There are 100 centimeters in 1 meter."
+  },
+  {
+   "question": "If today is January 1st, what date is it in 10 days?",
+   "response": "If today is January 1st, then in 10 days, it will be January 11th."
+  },
+  {
+   "question": "What is 100 divided by 4?",
+   "response": "The result of 100 divided by 4 is 25."
+  },
+  {
+   "question": "If a bag contains 5 red balls and 3 blue balls, how many balls are there in total?",
+   "response": "There are 8 balls in total."
+  },
+  {
+   "question": "If you double 12, what do you get?",
+   "response": "If you double 12, you would get 24."
+  },
+  {
+   "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+   "response": "The train arrives at 1 PM."
+  },
+  {
+   "question": "If three friends split a $30 bill equally, how much does each pay?",
+   "response": "If three friends split a $30 bill equally, each friend would pay $30 / 3 = $10."
+  },
+  {
+   "question": "What is 7 squared?",
+   "response": "7 squared, also known as 7^2, is equal to 7 multiplied by itself, which is 7 * 7 = 49."
+  },
+  {
+   "question": "If a year has 12 months, how many months are in half a year?",
+   "response": "If a year has 12 months, then half a year would have half of that, which is 6 months."
+  },
+  {
+   "question": "If Alice has twice as many books as Bob, and Bob has 4 books, how many books does Alice have?",
+   "response": "If Bob has 4 books and Alice has twice as many books as Bob, then Alice has 4 x 2 = 8 books."
+  },
+  {
+   "question": "How many seconds are in 3 minutes?",
+   "response": "There are 60 seconds in 1 minute. So, in 3 minutes, there are 60 seconds x 3 = 180 seconds."
+  },
+  {
+   "question": "If it takes 1 hour to bake a cake and you start at 2 PM, when will it be done?",
+   "response": "As an AI, I don't have real-time access to current time or future events. However, if you start baking at 2 PM and it takes 1 hour to bake a cake, then the cake would be done at 3 PM. Please check the specific baking instructions for your recipe to ensure accuracy."
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of the shirt after a 25% discount, you can follow these steps:\n\n1. **Calculate the amount of the discount:**\n   - The original price of the shirt is $20.\n   - The discount rate is 25%.\n\n   To find the discount amount:\n   \\[\n   \\text{Discount Amount} = \\text{Original Price} \\times \\text{Discount Rate}\n   \\]\n   \\[\n   \\text{Discount Amount} = \\$20 \\times 0.25 = \\$5\n   \\]\n\n2. **Subtract the discount from the original price:**\n   - Subtract the discount amount from the original price to get the sale price.\n\n   \\"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each of the 5 friends gets when sharing 10 cookies equally among them, we can follow these steps:\n\n1. **Total number of cookies**: There are 10 cookies.\n2. **Number of friends**: There are 5 friends.\n\nWe need to divide the total number of cookies by the number of friends:\n\\[\n\\frac{10 \\text{ cookies}}{5 \\text{ friends}} = 2 \\text{ cookies per friend}\n\\]\n\nSo, each friend gets \\boxed{2} cookies."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To determine the number of days in 4 weeks, we need to follow these steps:\n\n1. Identify the number of days in one week.\n2. Multiply that number by the number of weeks.\n\nWe know from the problem statement that:\n- There are 7 days in one week.\n\nNow, let's calculate the total number of days in 4 weeks:\n\\[ 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\]\n\nSo, the total number of days in 4 weeks is \\(\\boxed{28}\\)."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in one meter. This is because the prefix \"centi-\" means \"hundredth\" or \"one-hundredth,\" and it's used to denote fractions of a unit that are one-hundredth of the original unit.\n\nSo, if you have a measurement in meters (m), you can convert it to centimeters (cm) by multiplying the number of meters by 100:\n\n\\[ \\text{Centimeters} = \\text{Meters} \\times 100 \\]\n\nFor example:\n- If you have 3 meters, then \\( 3 \\text{ m} \\times 100 = 300 \\text{ cm} \\)\n-"
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours after that. Therefore, the train will arrive at:\n\n9:00 AM + 4 hours = 11:00 AM\n\nSo, the train arrives at 11:00 AM."
+ },
+ {
+  "id": "qwen25-0.5b-reasoning-k150-t0|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, to find out how many seconds are in three minutes, you simply multiply the number of seconds in one minute (which is 60) by the number of minutes you have:\n\n\\[ 60 \\text{ seconds/minute} \\times 3 \\text{ minutes} = 180 \\text{ seconds} \\]\n\nSo, there are 180 seconds in three minutes."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To calculate the sale price of a shirt that is on sale for 25% off when it originally costs $20, you can follow these steps:\n\n1. Calculate the amount of the discount:\n   Discount = Original Price \u00d7 (Discount Percentage / 100)\n   Discount = $20 \u00d7 (25 / 100) = $20 \u00d7 0.25 = $5\n\n2. Subtract the discount from the original price to get the sale price:\n   Sale Price = Original Price - Discount\n   Sale Price = $20 - $5 = $15\n\nSo, the sale price of the shirt is $15."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To determine how many cookies each friend gets when 10 cookies are shared equally among 5 friends, we need to perform the division of 10 by 5.\n\nHere's the step-by-step process:\n\n1. Identify the total number of cookies: 10.\n2. Identify the number of friends: 5.\n3. Divide the total number of cookies by the number of friends:\n   \\[\n   10 \\div 5 = 2\n   \\]\n\nSo, each friend gets 2 cookies.\n\nThe answer is \\(\\boxed{2}\\)."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 28 days in 4 weeks because \\( 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\)."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later. To find the arrival time, you simply add those 4 hours to the departure time.\n\nSo, if the train departs at 9 AM:\n\n- Adding 1 hour: 10 AM\n- Adding another hour: 11 AM\n- Adding another hour: 12 PM (noon)\n- Adding one more hour: 1 PM\n\nTherefore, the train arrives at 1 PM."
+ },
+ {
+  "id": "qwen25-1.5b-reasoning-k150-t0|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price of the shirt after a 25% discount, we can follow these steps:\n\n1. Calculate the amount of the discount.\n2. Subtract the discount from the original price.\n\nFirst, let's calculate the discount amount:\n- The original price of the shirt is $20.\n- The discount is 25%, which can be written as a decimal: \\( 25\\% = 0.25 \\).\n\nNow, multiply the original price by the discount rate to find the discount amount:\n\\[ \\text{Discount Amount} = 20 \\times 0.25 = 5 \\]\n\nNext, subtract the discount amount from the original price to get the sale price:\n\\[ \\text"
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get \\( \\frac{10}{5} = 2 \\) cookies."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week, then in 4 weeks there would be:\n\n\\( 7 \\text{ days/week} \\times 4 \\text{ weeks} = 28 \\text{ days} \\)\n\nSo, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "If the train leaves at 9:00 AM and travels for 4 hours, you would add 4 hours to the departure time.\n\n9:00 AM + 4 hours = 1:00 PM\n\nSo, the train arrives at 1:00 PM."
+ },
+ {
+  "id": "qwen25-3b-reasoning-k150-t0|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, there are \\(3 \\times 60 = 180\\) seconds in 3 minutes."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "The sale price of the shirt is $20 - ($20 * 0.25) = $15."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To find out how many cookies each friend gets, you would divide the total number of cookies (10) by the number of friends (5). \n\n10 \u00f7 5 = 2\n\nSo, each friend gets 2 cookies."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 7 days in a week. If you multiply 7 days by 4, you get 28 days. So, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train arrives at 1 PM."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t50|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in 1 minute. So, in 3 minutes, there are 60 seconds x 3 = 180 seconds."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "The sale price of the shirt would be $20 - ($20 * 0.25) = $15."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get 10/5 = 2 cookies."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week, then 4 weeks would be 4 * 7 = 28 days."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train arrives at 3 PM."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t70|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in 1 minute. Therefore, in 3 minutes, there are 3 * 60 = 180 seconds."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price, we need to calculate 25% of the original price and subtract that from the original price. \n\nHere's how to do it:\n\nOriginal Price: $20\nPercentage off: 25%\n\nFirst, convert the percentage into a decimal by dividing by 100:\n25 / 100 = 0.25\n\nThen, multiply the original price by the decimal:\n$20 * 0.25 = $5\n\nSo, if the shirt is on sale for 25% off, the sale price will be:\n$20 - $5 = $15\n\nThe shirt will cost $"
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "Each friend would get 2 cookies."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "In a week, there are 7 days. If you multiply 7 (days in a week) by 4 (weeks), you get 28 days. So, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "This is a classic puzzle, but it doesn't involve a train. The answer is that the train arrives at 9 AM + 4 hours = 1 PM. However, please note that this is a hypothetical scenario and doesn't reflect real-world timings."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k150-t90|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in 1 minute. Therefore, in 3 minutes, there would be 3 x 60 = 180 seconds."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "The sale price of the shirt would be $20 - ($20 * 0.25) = $20 - $5 = $15."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "Each friend would get 2 cookies."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 7 days in a week. If you have 4 weeks, you would have 7 days * 4 weeks = 28 days."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train arrives at 3 PM."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t50|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in one minute. Therefore, in 3 minutes, there would be 3 * 60 = 180 seconds."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "The sale price of the shirt would be $20 - ($20 * 0.25) = $15."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend will get 10 cookies divided by 5, which equals 2 cookies per friend."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 7 days in a week. \n4 weeks multiplied by 7 days per week equals 28 days. So, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter. This is because the metric system is based on powers of 10, which makes it easy to convert between different units."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "The train leaves at 9 AM and arrives 4 hours later, so it arrives at 9 AM + 4 hours = 1 PM."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t70|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in 1 minute. Therefore, in 3 minutes, there are 60 seconds/minute * 3 minutes = 180 seconds."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "Sure, if a shirt costs $20 and is on sale for 25% off, then you would calculate 25% of $20 and subtract that from $20."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, each friend would get 10 cookies / 5 friends = 2 cookies."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "There are 4 x 7 = 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "Since the train arrives 4 hours later than it departed, it arrives at 9 AM + 4 hours = 1 PM. Therefore, the train arrives at 1 PM."
+ },
+ {
+  "id": "smollm2-1.7b-reasoning-k40-t90|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "There are 60 seconds in a minute. To find out how many seconds there are in 3 minutes, you multiply 60 (seconds in a minute) by 3 (minutes)."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price, we first need to calculate the original price of the shirt. The original price is $20, and a 25% discount is applied. To calculate the discount, we multiply the original price by 0.25, which gives us $20 * 0.25 = $5.\n\nNow, we subtract the discount from the original price to find the sale price. So, the sale price is $20 - $5 = $15."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To find out how many cookies each friend gets, you need to divide the total number of cookies by the number of friends. So, you can divide 10 cookies by 5 friends to get the answer.\n\n10 cookies / 5 friends = 2 cookies per friend."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "If there are 7 days in a week, then there are 7 * 4 = 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "1 meter is equal to 100 centimeters."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "To solve this problem, we need to use the concept of time dilation, which is a fundamental concept in special relativity. \n\nSince the train leaves at 9 AM, we can use the equation:\n\nTime = Distance / Speed\n\nWe know the speed of the train is 80 km/h (the speed of light in a vacuum), and we need to find the time it takes for the train to travel 4 hours.\n\nFirst, let's convert the time from hours to minutes:\n\n4 hours = 4 * 60 minutes\n= 240 minutes\n\nNow, we can use the equation:\n\nTime = Distance / Speed\nTime = 240 minutes /"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t50|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "3 minutes is equal to 180 seconds."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price, we need to calculate 25% off of the original price of the shirt.\n\nFirst, we convert the percentage to a decimal by dividing by 100: 25% = 0.25.\n\nNow, we multiply the original price by the decimal: 20 * 0.25 = 5.\n\nSo, the sale price of the shirt is $5."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "Sure, I can help with that. So, if there are 10 cookies and you want to share them equally among 5 friends, you can divide the number of cookies by 5 to find out how many cookies each friend will get.\n\n10 cookies / 5 friends = 2 cookies per friend.\n\nSo, each friend will get 2 cookies."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To calculate this, you would multiply the number of days in a week (7) by the number of weeks.\n\nWe can calculate this as follows: 7 days/week * 4 weeks/week = 28 days. So, there are 28 days in 4 weeks."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "I'm sorry for the confusion, but as an AI assistant trained on Hugging Face's data, I don't have the capability to provide exact measurements like centimeters or meters. My knowledge is focused on natural language processing tasks and statistical analysis. I can help with general questions, but more specific numerical questions like that would require human input."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "To solve this problem, let's break it down step by step. We know that the train leaves at 9 AM and arrives 4 hours later, which is 10 AM. To find the time the train arrives, we need to find the difference between the departure time and 10 AM.\n\n10 AM - 9 AM = 1 AM\n\nSo, the train will arrive at 1 AM."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t70|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "To find the number of seconds in 3 minutes, we need to convert the given time to seconds.\n\n3 minutes = 3 * 60 = 180 seconds.\n\nSo, there are 180 seconds in 3 minutes."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "If the shirt originally costs $20, and it is on sale for 25% off, then the discount amount would be 25% of $20, which is 0.25 * 20 = $5. The remaining price of the shirt after the discount would be $20 - $5 = $15. \n\nTherefore, the sale price of the shirt would be $15."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "You can say that 10 cookies is 10 / 5 = 2 cookies per friend."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "I don't have the specific values for the number of days in a week, but I can provide the general information for weeks and days. \n\nThere are 7 days in a week. To calculate the number of days in 4 weeks, we multiply the number of days in a week by 4, as there are 4 weeks in a typical week. 7 days * 4 = 28 days."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "Hello, little buddy! It's so nice to hear from you! The answer to your question is 100 centimeters in 1 meter. It's a special unit of measurement and it's very useful in many situations! Would you like to know more about it?"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "To determine the time when the train arrives, we first need to find out how much time has passed. Since it travels 4 hours and the train is traveling at 9 AM, the train starts at 9 AM and has a 4-hour head start. \n\n4 hours is equal to 9 AM + 4 hours. 9 AM is equivalent to 2 PM in decimal hours. Therefore, the train is traveling 2 PM as the starting point.\n\n2 PM + 4 hours equals 10 PM. So, the train arrives at 10 PM."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k150-t90|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "As a trained assistant developed by Hugging Face, I can provide mathematical and scientific information. Since 1 minute is equal to 60 seconds, 3 minutes is equal to 60 * 3 = 180 seconds."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price, we first need to calculate the original price of the shirt. \n\nSince it's on sale for 25% off, we'll apply the discount percentage to the"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "If you have 10 cookies and share them equally among 5 friends, that means you would be dividing the cookies into 5 groups of 10 cookies each, and then you would be"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find the number of days in 4 weeks, we need to calculate 4 weeks * 7 days per week. \n\n4 weeks * 7 days per week = 28 days"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "1 meter is equal to 100 centimeters."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "To find the time the train arrives, we need to calculate the time it takes for the train to reach its destination. The train leaves at 9 AM and arrives 4 hours later."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t50|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "3 minutes is equal to 3 \u00d7 60 = 180 seconds."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "To find the sale price, we first need to find 25% of $20.\n\n25% = 0.25\n20 * 0.25 ="
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To find the number of cookies each friend gets, we can divide the total number of cookies by the number of friends. \n\n10 cookies / 5 friends = 2 cookies per friend."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find the number of days in 4 weeks, we need to calculate how many days there are in each week and then multiply those by 4.\n\nThere are 7 days in a"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "1 meter is equal to 100 centimeters."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "To solve this, we'll use the concept of averages and time intervals. Since the train leaves at 9 AM and arrives 4 hours later, the time difference is 4 hours. We can"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t70|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "1800 seconds are in 3 minutes."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|3",
+  "question": "If a shirt costs $20 and is on sale for 25% off, what is the sale price?",
+  "answer": "If the shirt costs $20 and is on sale for 25% off, we can calculate the sale price by subtracting 25% of $20 from the original price. To"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|8",
+  "question": "If you have 10 cookies and share them equally among 5 friends, how many cookies does each friend get?",
+  "answer": "To find out how many cookies each friend gets, we first need to divide the total number of cookies by the number of friends who are sharing them.\n\nDividing 10 cookies by"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|13",
+  "question": "If there are 7 days in a week, how many days are there in 4 weeks?",
+  "answer": "To find out how many days there are in 4 weeks, we need to calculate the total number of days in a week, and then multiply that by 4. \n\nA week consists of"
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|18",
+  "question": "How many centimeters are there in 1 meter?",
+  "answer": "There are 100 centimeters in 1 meter."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|23",
+  "question": "A train leaves at 9 AM and arrives 4 hours later. What time does it arrive?",
+  "answer": "Let's break it down. The train leaves at 9 AM. Four hours later, that means it arrives at 13:40, which is 1:40 PM."
+ },
+ {
+  "id": "smollm2-360m-reasoning-k40-t90|28",
+  "question": "How many seconds are in 3 minutes?",
+  "answer": "The number of seconds in 3 minutes is 3 * 60 = 180 seconds."
+ }
+]

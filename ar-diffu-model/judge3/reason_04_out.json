@@ -1,0 +1,452 @@
+[
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|14",
+    "correct": true,
+    "reason": "Correctly states half of 100 is 50"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|19",
+    "correct": false,
+    "reason": "Jan 1 +10 days should be Jan 11, says Jan 10"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|24",
+    "correct": true,
+    "reason": "States $10 before truncation at boxed{10"
+  },
+  {
+    "id": "qwen25-0.5b-reasoning-k150-t0|29",
+    "correct": true,
+    "reason": "Correctly states 3 PM"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|19",
+    "correct": false,
+    "reason": "Wrongly states Feb 1 instead of Jan 11"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "qwen25-1.5b-reasoning-k150-t0|29",
+    "correct": true,
+    "reason": "Correctly states 3 PM"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "qwen25-3b-reasoning-k150-t0|29",
+    "correct": true,
+    "reason": "Correctly states 3 PM"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t50|29",
+    "correct": true,
+    "reason": "Correctly states 3 PM"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t70|29",
+    "correct": true,
+    "reason": "Correctly states 3 PM"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|24",
+    "correct": true,
+    "reason": "States $10 as main answer despite odd follow-up"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k150-t90|29",
+    "correct": false,
+    "reason": "Never gives numeric answer, asks for info instead"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t50|29",
+    "correct": false,
+    "reason": "Truncated before stating a final time"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|9",
+    "correct": false,
+    "reason": "Truncated before completing area calculation"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|19",
+    "correct": false,
+    "reason": "Refuses to answer, no date given"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t70|29",
+    "correct": false,
+    "reason": "Truncated before stating a final time"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|9",
+    "correct": false,
+    "reason": "Truncated before completing area calculation"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-1.7b-reasoning-k40-t90|29",
+    "correct": false,
+    "reason": "Refuses to answer, no final time given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|19",
+    "correct": false,
+    "reason": "Wrongly states it stays January 1st"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t50|29",
+    "correct": false,
+    "reason": "Refuses to answer, no final time given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|4",
+    "correct": false,
+    "reason": "Wrongly computes 120 minutes instead of 150"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|9",
+    "correct": true,
+    "reason": "Correctly computes area 24"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|19",
+    "correct": true,
+    "reason": "Correctly states January 11th"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|24",
+    "correct": false,
+    "reason": "Wrongly states each pays $30, no division done"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t70|29",
+    "correct": false,
+    "reason": "Refuses to answer, no final time given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|4",
+    "correct": true,
+    "reason": "Correctly computes 150 minutes"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|9",
+    "correct": false,
+    "reason": "Garbled calculation, never states final numeric area"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|14",
+    "correct": false,
+    "reason": "Refuses to answer the math question"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|19",
+    "correct": false,
+    "reason": "Garbled nonsensical response, no date given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|24",
+    "correct": false,
+    "reason": "Wrongly computes $90 instead of $10"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k150-t90|29",
+    "correct": false,
+    "reason": "Wrongly states cake done at 2 PM instead of 3 PM"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|9",
+    "correct": false,
+    "reason": "Truncated before completing area calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|19",
+    "correct": false,
+    "reason": "Wrongly states date stays January 1st"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t50|29",
+    "correct": false,
+    "reason": "Refuses to answer, no final time given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|9",
+    "correct": false,
+    "reason": "Truncated before completing area calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|19",
+    "correct": false,
+    "reason": "Refuses to answer, no date given"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|24",
+    "correct": true,
+    "reason": "Correctly states $10 each"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t70|29",
+    "correct": false,
+    "reason": "Truncated before completing time calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|4",
+    "correct": false,
+    "reason": "Truncated before stating final minute count"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|9",
+    "correct": false,
+    "reason": "Truncated before completing area calculation"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|14",
+    "correct": true,
+    "reason": "Correctly states 50"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|19",
+    "correct": false,
+    "reason": "Wrongly states January 3rd instead of 11th"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|24",
+    "correct": false,
+    "reason": "Truncated before stating final payment amount"
+  },
+  {
+    "id": "smollm2-360m-reasoning-k40-t90|29",
+    "correct": false,
+    "reason": "Truncated before stating final time"
+  }
+]
